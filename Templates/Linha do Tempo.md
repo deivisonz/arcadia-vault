@@ -1,0 +1,14 @@
+- ### **Era das Lendas**
+    - **10 mil anos atrás:** Lore ipsum
+- ### **Era dos Heróis - EH**
+	- **EH** 0: Lore Ipsum
+	- **EH** 4475:  FIM.
+- ### A Era das Trevas - ET
+    - **ET** 0:Lore Ipsum
+    - **ET** 333: FIM
+- ### **Primeira Era - 1E**
+	- **1E** 0: Lore Ipsum
+	- **1E** 977: Fim
+- ### **Segunda Era - 2E**
+    - **2E** 0: Lore Ipsum
+    - **2E** 720: Fim

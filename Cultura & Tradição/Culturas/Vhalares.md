@@ -1,0 +1,1 @@
+Grande grupo etnico de humanos que surgiram na região da atual Valenos e se espalharam pro toda Auroria Ocidental

@@ -1,0 +1,1 @@
+Nomes "geral" para as tribos de Orcs e demais raças vivendo em Kharzug.
