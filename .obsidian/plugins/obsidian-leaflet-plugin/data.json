@@ -43,6 +43,112 @@
       "files": [
         "Mapa Interativo.md"
       ]
+    },
+    {
+      "id": "Arcadia_Map",
+      "lastAccessed": 1741266416491,
+      "markers": [
+        {
+          "id": "ID_38e9994848a9",
+          "type": "default",
+          "loc": [
+            5104,
+            5080
+          ],
+          "layer": "%5B%5Barcadia.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31005859375,
+            -0.3893805309734513
+          ],
+          "description": "Valiriath Lore Ipsum",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab68f8186a8b",
+          "type": "default",
+          "loc": [
+            5452,
+            4984
+          ],
+          "layer": "%5B%5Barcadia.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.30419921875,
+            -0.415929203539823
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_291948ab3a3b",
+          "type": "default",
+          "loc": [
+            5026,
+            5496
+          ],
+          "layer": "%5B%5Barcadia.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.33544921875,
+            -0.3834299664327128
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a2acaca2acb",
+          "type": "default",
+          "loc": [
+            5284,
+            5602
+          ],
+          "layer": "%5B%5Barcadia.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3419189453125,
+            -0.40311260299054014
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0aa8eb5b1a7a",
+          "type": "default",
+          "loc": [
+            5146,
+            5240
+          ],
+          "layer": "%5B%5Barcadia.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31982421875,
+            -0.39258468111077205
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas/Mapa Interativo.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -84,11 +190,11 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "500px",
-    "image": "[[Arcadia Map.jpg]]",
+    "image": "[[arcadia.webp]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Arcadia Map.jpg]]"
+      "[[arcadia.webp]]"
     ],
     "linksFrom": [],
     "linksTo": [],
