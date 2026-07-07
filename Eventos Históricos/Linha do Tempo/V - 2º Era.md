@@ -16,25 +16,25 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - ✦ **2E 400:** o Chefe de Guerra **Ghorzuk** unifica os orcs e hobgoblins de [[Kharzug]].
     - ✦ **2E 450:** invernos implacáveis forçam o abandono de [[Kald Jotun]]; os sobreviventes migram para [[Drosskar]].
     - ✦ **2E 500:** [[Alta Rocha]] fecha-se sobre si mesma, emergindo apenas contra ameaças diretas.
-    - **2E 526:** a Rainha **Emeline** cede ao **Sacro Corvo**; [[Malachia]] torna-se teocracia da [[Igreja de Vohzro]].
-    - **2E 532:** o **Conflito dos Credos** — a [[Igreja de Vohzro]] torna-se a única fé permitida em [[Malachia]].
+    - **2E 526:** a Rainha **[[Rainha Emeline|Emeline]]** cede ao **Sacro Corvo**; [[Malachia]] torna-se teocracia da [[Igreja de Vohzro]].
+    - **2E 532:** o **Conflito dos Credos** — a [[Igreja de Vohzro]] torna-se a única fé permitida em [[Malachia]] (ver [[O Conflito dos Credos]]).
     - ✦ **2E 550:** [[Arenor]] e [[Lovaria|Lovária]] disputam as terras férteis e as rotas de [[Haraban]], em [[Sultaria - Continente Sul|Sultaria]].
-    - **2E 582:** [[Draukar]] é devastada por guerra civil, fragmentando-se em facções.
-    - **2E 585:** [[Uria]] lança a **Invasão Uriana** sobre [[Aquilonia - Continente Oeste|Aquilonia]].
+    - **2E 582:** [[Draukar]] é devastada por guerra civil, fragmentando-se em facções (ver [[A Guerra Civil de Draukar]]).
+    - **2E 585:** [[Uria]] lança a **[[A Invasão Uriana|Invasão Uriana]]** sobre [[Aquilonia - Continente Oeste|Aquilonia]].
     - **2E 588:** [[Uria]] toma territórios de [[Taudrisia|Taudrisía]], [[Anathemar]] e [[Lenaria]].
     - **2E 590:** [[Uria]] toma o nordeste de [[Draukar]].
-    - **2E 592:** forma-se o **Conselho dos Três Reinos** ([[Draukar]], [[Durenor]], [[Myriandor]]); começa a **Guerra de Contenção** contra [[Uria]].
+    - **2E 592:** forma-se o **Conselho dos Três Reinos** ([[Draukar]], [[Durenor]], [[Myriandor]]); começa a **[[A Guerra de Contenção|Guerra de Contenção]]** contra [[Uria]].
     - **2E 598:** primeiras incursões nórdicas a [[Bruvia]] (de [[Danevar]] e [[Tordenheim]]).
     - ✦ **2E 600:** [[Xea'yasha]] unifica os goblinoides do sul e ameaça as tribos de [[Zawadi]].
     - **2E 642:** o **Grande Saque de Gwar Penar**, em [[Bruvia]].
     - ✦ **2E 650:** [[Valenos]] incorpora **Serraguarda**; a Escola de Caçadores de Monstros de **Kaermoria** ganha fama.
     - **2E 670:** a **Grande Perseguição** em [[Malachia]].
     - **2E 677:** funda-se a clandestina **[[Ordem dos Silenciados]]**.
-    - **2E 680:** os Silenciados tentam um levante, reprimido; **Dominus IV** ascende.
-    - **2E 684:** nasce **Lucila, a "Dama do Mar"**.
-    - **2E 688:** **Dominus IV** torna-se **Sacro Corvo**.
+    - **2E 680:** os Silenciados tentam um levante, reprimido; **[[Dominus IV]]** ascende.
+    - **2E 684:** nasce **[[Lucila, a Dama do Mar|Lucila, a "Dama do Mar"]]**.
+    - **2E 688:** **[[Dominus IV]]** torna-se **Sacro Corvo**.
     - ✦ **2E 690:** [[Trovark Thoraldsson|Trovark]] mata um dragão do gelo na montanha mais alta das Skaldlands e **torna-se um dragão branco**.
-    - ✦ **2E 695:** a antiga companhia ([[Ragnar Thorn]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis]]) derrota [[Aldric Thorn]] e frustra a **primeira Maré de [[Nihiloth]]**.
+    - ✦ **2E 695:** a antiga companhia ([[Ragnar Thorn]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis]]) derrota [[Aldric Thorn]] e frustra a **[[A Primeira Maré de Nihiloth|primeira Maré de Nihiloth]]**.
     - ✦ **2E 700:** [[Ragnar Thorn]], o príncipe perdido, herda o trono de [[Bruvia]]; os elfos errantes de [[Lottus Ignis|Lottus]] assentam-se em Bruvia e no norte ([[Helvenmark]]).
     - ✦ **2E 700:** o Chefe de Guerra **Kargath Mão de Lâmina** mantém a tênue união das tribos de [[Durenor]].
     - **2E 702:** descoberta do continente **Sudoeste**; exploração comandada por [[Draukar]].

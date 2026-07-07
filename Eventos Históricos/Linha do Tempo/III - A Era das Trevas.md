@@ -14,4 +14,4 @@ Após o Cataclisma, Arcádia mergulha num abismo sombrio. Compartimentos selados
     - **ET 295:** [[Mortemnis]] desaparece dos céus de Arcádia.
     - **ET 300:** firma-se a **Confraria da Rocha Eterna**; [[Alta Rocha]] é retomada e reconstruída.
     - **ET 323:** [[Draknovir]] desperta da Espinha do Mundo e devasta diversas regiões.
-    - **ET 333:** na **batalha do [[O Braço Partido|Braço Partido]]**, heróis de Arcádia destroem [[Draknovir]], o último Dragão Colossal, pondo fim à ameaça.
+    - **ET 333:** na **batalha do [[O Braço Partido|Braço Partido]]**, heróis de Arcádia destroem [[Draknovir]], o último Dragão Colossal, pondo fim à ameaça (ver [[A Queda de Draknovir]]).

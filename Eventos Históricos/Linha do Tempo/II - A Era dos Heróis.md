@@ -11,8 +11,9 @@ A **Era dos Heróis** inicia-se com a aparição de **[[Draknovir]]**, o Asas Ru
 	- **EH 3265:** uma antiga profecia anuncia o retorno de [[Draknovir]].
 	- **EH 3270:** **[[Mortemnis]]** aparece nos céus; ocorre a **Grande Ruptura** em [[Alta Rocha]].
 	- **EH 3271:** Doren Martelo de Prata lidera a contenção do monstro das profundezas de [[Alta Rocha]]; a câmara é selada.
-	- **EH 3272:** os primeiros dragões vindos de [[Drakavir -  Abismo Draconiano|Drakavir]] aparecem no sul do mundo conhecido.
+	- **EH 3272:** os primeiros dragões vindos de [[Drakavir -  Abismo Draconiano|Drakavir]] aparecem no sul — início da **[[A Revoada Draconiana|Revoada Draconiana]]**.
 	- **EH 3280:** fundação dos **Caçadores de Dragões** e início da construção do [[Forte Draconia]].
 	- **EH 3332:** conclusão do [[Forte Draconia]].
-	- **EH 4474:** fim da **Revoada Draconiana**.
+	- ✦ **EH 4000:** **Harald, o Primeiro Rei entre os homens**, unifica os **Sete Reinos** numa aliança contra a Revoada (ver [[A Revoada Draconiana]]).
+	- **EH 4474:** fim da **[[A Revoada Draconiana|Revoada Draconiana]]**.
 	- **EH 4475:** **O Cataclisma** — afunda cidades, parte o mundo e derruba os impérios antigos.

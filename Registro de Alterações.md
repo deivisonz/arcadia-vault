@@ -8,6 +8,59 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 23 · 2026-07-06 · As 21 culturas (categoria completa)
+
+**Todas as 21 culturas escritas**, ligadas a raça e reino:
+- Bem ancoradas: [[Tibéricos]], [[Urianos]], [[Zarkovithianos]], [[Bretanianos]], [[Halinorianos]], [[Sylvarinos]], [[Draukarianos]], [[Durenorianos]], [[Taurinos]], [[Tarovianos]], [[Korvandrinos]], [[Krummagmanos]], [[Felidarios]], [[Azurianos]].
+- **Lupinos** (humanoides-lobo de [[Felidaria]], por indicação sua) + [[Ursinos]].
+- Interpretações minhas a confirmar (✦): [[Narzul]] (drows), [[Sunari]] (povo solar do sul), [[Tarkos]] (herdeiros de Tarkisium), [[Vhalares]] (elfos de Cindra), [[Mountraks]] (orcs de Kharzug).
+- [[Felidaria]] e o roteiro [[Incomuns]] atualizados com lupinos e ursinos.
+
+**Nota de nomenclatura:** [[Taurinos]] = identidade minotaura ampla; [[Tarovianos]] = os tradicionalistas escravistas do coração de Taurin (distinção, não duplicata).
+
+**Próximo:** as 21 **línguas** (pasta Linguagens), ou aprofundar as culturas ✦ a confirmar.
+
+---
+
+## 2E — Sessão 22 · 2026-07-06 · Ancestralidades (as 7 raças comuns)
+
+**7 ancestralidades comuns escritas**, amarradas aos mitos e reinos:
+- [[Humanos]] (a magia do Dragão Azul), [[Elfos]] (a imortalidade perdida + linhagens), [[Anões]] (Thirond, Tohrum, ~250 anos), [[Orcs]] (Baelrok, hordas, os unificadores), [[Halflings]] (Verdeprado), [[Minotauros]] (o Dragão Vermelho), [[Centauros]] (o ovo da Dragoa Verde).
+- Roteiro das **[[Incomuns|ancestralidades incomuns]]** (drows, dríades, tieflings, felinos, goblinoides, gnomos, fetchlings…).
+
+**Próximo:** as 21 culturas (e as línguas), em lotes por região.
+
+---
+
+## 2E — Sessão 21 · 2026-07-06 · Guerras restantes + personagens revelados
+
+**3 guerras (Fase 1 completa):** [[A Guerra Civil das Mercantilhas]], [[O Conflito dos Credos]], [[A Guerra Civil de Draukar]].
+
+**7 personagens revelados pelas guerras:**
+- [[Harald, o Primeiro Rei]] (uniu os Sete Reinos na Revoada).
+- [[Minoxius III]] (imperador de Taurin assassinado).
+- [[Arlegis, o Sombra]] (fundador da Guilda dos Ladrões).
+- [[Lucila, a Dama do Mar]] (potência das Mercantilhas).
+- [[Rainha Emeline]] (última rainha de Malachia) e [[Dominus IV]] (o Sacro Corvo).
+- [[Urien III]] (Imperador de Uria).
+
+**Timeline:** eventos ligados às fichas de guerra e aos personagens (Minoxius, Arlegis, Emeline, Dominus, Lucila).
+
+**Estado:** todas as 9 grandes guerras fichadas. Personagens principais bem avançados.
+
+---
+
+## 2E — Sessão 20 · 2026-07-06 · Fase 1 — Guerras + timeline ligada
+
+- Criada a pasta **`Eventos Históricos/Guerras`** com índice e **template de conflito** (causas · beligerantes · fases/batalhas · desfecho · consequências · personagens).
+- **6 fichas de guerra:** [[A Revoada Draconiana]], [[A Queda de Draknovir]], [[O Colapso de Taurin]], [[A Invasão Uriana]], [[A Guerra de Contenção]], [[A Primeira Maré de Nihiloth]].
+- **Timeline ligada às guerras** (cada evato aponta para sua ficha) + novo evento ✦ **EH 4000: Harald, o Primeiro Rei**, e a Aliança dos Sete Reinos contra a Revoada.
+
+**Novos ganchos:** fichar **Harald, o Primeiro Rei**; **Minoxius III**; nomear batalhas e heróis dos conflitos.
+**Guerras ainda por fichar:** Guerra Civil das Mercantilhas (1E), Conflito dos Credos (2E), Guerra Civil de Draukar (2E).
+
+---
+
 ## 2E — Sessão 19 · 2026-07-06 · Nihiloth + raças do bando
 
 - Mundo invasor **renomeado: Malruun → [[Nihiloth]]** (todas as referências atualizadas; `Malruun.md` virou redirect a apagar).
