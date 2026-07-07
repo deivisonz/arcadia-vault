@@ -15,40 +15,40 @@ Guia vivo de trabalho. Marque `[x]` conforme avançamos; cada bloco é um **tóp
 
 ### A. Acidentes geográficos & marcos do mapa  *(pedido do Deivison)*
 Transformar os topônimos do [[Índice Toponímico]] que existem mas não têm nota — cordilheiras, montes, cumes, vales, florestas, baías, lagos, planaltos — em **notas próprias**, ligadas ao reino a que pertencem. Fazer **por região**, um bloco de cada vez.
-- [/] Aquilonia (feitos: [[Cordilheira de Arka]], [[Invernalto]]; faltam: de Eremore, Eldoveth; Prato do Diabo; Baía do Chifre; etc.)
-- [ ] Auroria Ocidente ([[A Espinha do Mundo|Espinha do Mundo]], Montanhas do Sol Poente, Planícies do Touro Trovador, Lago dos Ecos Silenciosos…)
-- [ ] Auroria Oriente (O Mar Silencioso, Savana de Salahel, Florestas de Khatan, Colunas de El'Saren…)
-- [ ] Borealis (Coroa de Gelo, Gigantes Adormecidos, Deserto Mórbido, Baía de Agnar…)
-- [ ] Sultaria (Serpentinas de Zephyro, Desertos Arendune/Aresul, Savana de Katabau…)
+- [/] Aquilonia (feitos: [[Cordilheira de Arka]], [[Invernalto]], [[A Floresta Eterna de Sylvandor]], [[O Círculo de Ithar]], [[Ruínas de Acrópolis]], [[O Abismo de Solazar]], [[A Baía do Chifre]], [[Os Picos de Dragoluz]], [[A Selva da Resistência]], [[Os Picos Gêmeos]], [[A Mata dos Corvos]], [[Os Sertões de Orgrim]]; faltam: Eldoveth, Aldorin; etc.)
+- [/] Auroria Ocidente (feitos: [[A Espinha do Mundo|Espinha do Mundo]], [[O Lago dos Ecos Silenciosos]], [[O Vale dos Imortais]], [[O Maelstrom de Aurilond]], [[O Cume Dourado]], [[O Vale de Dalarah]], [[As Montanhas do Sol Poente]], [[A Floresta de Lornakai]], [[O Monte Argon]]; faltam: Falésias de Valandor…)
+- [/] Auroria Oriente (feitos: [[O Mar Silencioso]], [[A Savana de Salahel]], [[As Colunas de El'Saren]], [[Monte Yuki]], [[A Lagoa das Luas]], [[As Planícies do Touro Trovador]], [[O Bosque dos Antigos]], [[A Floresta das Mil Estrelas]], [[Os Bosques do Orvalho Azul]], [[Os Picos de Mortália]]; faltam: Florestas de Khatan…)
+- [/] Borealis (feitos: Coroa de Gelo, Gigantes Adormecidos, [[O Deserto Mórbido]], [[A Baía de Agnar]], [[As Montanhas do Lamento]], [[O Santuário de Valkar]], [[O Lago Espelho de Eirinn]], [[A Escarpa de Sempreinverno]]; faltam: Corredor de Skalavik…)
+- [/] Sultaria (feitos: Serpentinas de Zephyro, [[A Esfinge de Arenor]], [[A Selva do Véu Branco]], [[Os Montes Nyambé]], [[O Oásis de Nahrun]], [[As Minas de Jofar]], [[As Selvas Intermináveis]]; faltam: Desertos Arendune/Aresul, Savana de Katabau…)
 
 ### B. "O Presente de Arcádia" — o estado atual (2E 718) ✅
 - [x] Nota [[O Presente de Arcádia]] consolidando o **agora** e o enredo central da Terceira Lua. Ligada à home [[Arcadia]].
 
-### C. Sistema de Magia (a "física" do mundo)
-- [ ] Nota-mãe: de onde vem a magia, quem usa, o preço. Tipos: **arcana/dracônica, divina, natural/druídica, sombria/umbral, sanguínea/vampírica**. A regra do **véu enfraquecido** (Árvore Mãe → [[Nihiloth]]/[[Mortemnis]]). Amarra [[Vanov]], [[Etherios]], [[Draconiano]], [[Azurianos]].
+### C. Sistema de Magia (a "física" do mundo) ✅
+- [x] Nota-mãe **[[Sistema de Magia|A Trama]]**: a magia é puxar fios da **Trama** (Etherios, o Tecelão); o preço é o **desgaste do véu** (não há mana). As 6 Artes (arcana/rúnica, dracônica, divina, natural, umbral, sanguínea) + os **pactos**. Amarra Árvore Mãe → [[Nihiloth]]/[[Mortemnis]], [[Vanov]], [[Conselho das Brumas]], [[Azurianos]], [[Draconiano]]. Ligada à home e ao [[Magia|MOC]].
 
 ---
 
 ## 🟡 Prioridade Média
 
-### D. Facções, Guildas e Ordens
-- [ ] Fichar os "movedores" citados: Guilda dos Ladrões, Guilda dos Assassinos, Guilda dos Mercadores, o **Conselho das Brumas** ([[Vanov]]), os **Caçadores de Dragões**, a **Sociedade dos Desbravadores** ([[Elyria]]), as **Cadeiras** anônimas das [[Mercantilhas]].
+### D. Facções, Guildas e Ordens ✅
+- [x] Fichados os "movedores": [[Guilda dos Ladrões]], [[Guilda dos Assassinos]], [[Guilda dos Mercadores]], o [[Conselho das Brumas]] ([[Vanov]]), os [[Caçadores de Dragões]], a [[Sociedade dos Desbravadores]] ([[Elyria]]), as [[As Cadeiras|Cadeiras]] anônimas das [[Mercantilhas]]. *(Já existiam: [[Ordem dos Silenciados]], [[As Garças Negras]], [[Os Cavaleiros da Lua]].)*
 
-### E. Home / painel navegável
-- [ ] Uma página inicial que amarre eras, continentes, facções e o enredo atual (melhorar o [[Arcadia]]).
+### E. Home / painel navegável ✅
+- [x] **[[Arcadia]]** reconstruída como painel navegável: enredo do presente, as 5 eras, os 6 continentes + reinos-âncora, facções, panteões, cosmologia/magia e povos — tudo com wikilinks (verificados). Índice automático de pastas mantido no rodapé.
 
-### F. Ancestralidades incomuns (fichas próprias)
-- [ ] Drows, dríades, tieflings, felinos, [[Lupinos]], gnomos, fetchlings, goblinoides, homens-lagarto (hoje só no roteiro [[Incomuns]]).
+### F. Ancestralidades incomuns (fichas próprias) ✅
+- [x] 11 fichas de raça criadas em `Ancestralidades/Incomuns/`: [[Drows]], [[Dríades]], [[Elfos da Floresta]], [[Tieflings]], [[Felinos]], [[Gnomos]], [[Fetchlings]], [[Goblinoides]], [[Povos-Lagarto]], [[Taurens]], [[Fadas]]. ([[Lupinos]], [[Ursinos]] e [[Sylvarinos]] já tinham ficha de cultura.) Índice [[Incomuns]] linkado.
 
-### G. Aprofundar fichas ✦ e ganchos
-- [ ] Culturas ✦ a confirmar ([[Narzul]], [[Sunari]], [[Tarkos]], [[Vhalares]], [[Mountraks]]).
-- [ ] Personagens secundários e os "só nome" ([[Asier Avilés]], [[Hardly Mersk]]).
+### G. Aprofundar fichas ✦ e ganchos ✅
+- [x] Culturas ✦ aprofundadas: [[Narzul]] (casas Vaeloth/Dûrnaz/Ir'Selka + herança azuriana), [[Sunari]] (o Segredo das Estrelas / previsão de Mortemnis), [[Tarkos]] (casas Vareno/Ashkar + Regalia das Marés), [[Vhalares]] (pacto de seiva + Yssara Folha-Negra), [[Mountraks]] (sucessão de Ghorzuk + Trilhas dos Anciãos).
+- [x] Personagens "só nome" fichados: [[Asier Avilés]] (cavaleiro-relíquia de Androsa ✦) e [[Hardly Mersk]] (a Rota de Mersk, ligado ao [[Conselho das Brumas]]).
 
 ---
 
 ## 🟢 Prioridade Baixa
 
-- [ ] **Fauna & Flora** (adiado por ora — começar quando útil; já há [[Gon Know]], [[Lobos Espectrais]]).
+- [x] **Fauna & Flora** ✅ — +8 feras ([[Grifo de Arka]], [[Verme das Areias]], [[Salamandra Ígnea]], [[Corcel das Estepes]], [[Aranha-do-Véu]], [[Corvo-arauto]], [[Serpe das Tormentilhas]], [[Basilisco dos Brejos]]) e +6 plantas ([[Flor-de-luar]], [[Madeira-viva de Elyndrial]], [[Luzfria]], [[Rosa-do-deserto]], [[Cinza-flor]], [[Sanguelenho]]), espalhadas por todas as regiões. *(Base anterior: [[Gon Know]], [[Lobos Espectrais]], [[Rok'Thala, o Monte Vivo|Rok'Thala]], [[Havgrim, o Terror das Brumas|Havgrim]].)*
 - [ ] Mais **Itens & Artefatos** (regalia real, relíquias divinas, tesouros de masmorra).
 - [ ] Criar o **reino/região dos bárbaros humanos** ("tipo Ciméria") num lugar **próprio** (não misturado a outra raça).
 - [ ] Detalhar o continente oculto das [[Terras Selvagens]] e as [[Tormentilhas]].

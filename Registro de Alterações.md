@@ -8,6 +8,78 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 50 · 2026-07-07 · +10 marcos (5º lote)
+
+Mais **10 marcos**, adensando florestas e serras: **A Floresta dos Sussurros** (o bosque que fala, em Bretania), **A Floresta da Luz Ardente** (folhagem incandescente de Bruvia), **As Cordilheiras de Eldoveth** (a muralha entre Uria e Myriandor, frente da Guerra de Contenção), **A Floresta de Narn** (bosque real de Elyria), **A Floresta do Cliffe Tortuoso** (o "bosque livre" dos fugitivos de Taurin), **Os Bosques de Lunaris** (campo de prova dos caçadores de monstros de Valenos), **As Montanhas de Ferro** (a forja dos Clãs do Lobo), **A Floresta de Velkrania** (as seiðr-völvas de Drosskar), **A Savana de Katabau** (o celeiro de Lovária) e **Os Desertos de Aresul** (o "mar dos mortos" de Haraban). Índice wikilinka os 10; links verificados. **Total: 49 marcos** nos cinco lotes.
+
+---
+
+## 2E — Sessão 49 · 2026-07-07 · +10 marcos (4º lote)
+
+Mais **10 marcos**: **Os Picos Gêmeos** (o passo-chave da guerra civil de Bruvia), **A Mata dos Corvos** (bosque agourento de Bruvia lido pelas völvas), **Os Sertões de Orgrim** (badlands de Durenor onde Gromash uniu os clãs), **As Selvas Intermináveis** (o ninho goblinoide de Xea'yasha), **As Minas de Jofar** (o ouro de Shebrevia, com algo cavando de volta), **O Lago Espelho de Eirinn** (as "águas da verdade" de Kald Lundar), **A Escarpa de Sempreinverno** (a muralha de gelo no fim de Wolvenjot), **Os Picos de Mortália** (a cordilheira que até os centauros contornam), **A Floresta de Lornakai** (o jardim arcano de Vanov onde a Trama "canta") e **O Monte Argon** (o monte-oráculo de Androsa). Índice wikilinka os 10; links verificados. **Total: 39 marcos** nos quatro lotes.
+
+---
+
+## 2E — Sessão 48 · 2026-07-07 · +10 marcos (3º lote)
+
+Mais **10 marcos**, cada um com gancho: **As Montanhas do Sol Poente** (o ninho de Lottus em Faeloria, de onde ele sumiu), **A Floresta das Mil Estrelas** (mata bioluminescente disputada por Yanare×Yux-xai), **O Bosque dos Antigos** (necrópole viva dos taurens), **As Montanhas do Lamento** (que "choram" as vozes da Longa Noite, em Helvenmark), **O Santuário de Valkar** (o "Valhalla terreno" dos Ermos), **A Baía do Chifre** (porto de guerra de Taudrisía, frente naval contra Uria), **Os Picos de Dragoluz** (antigo ninho dracônico onde o Culto peregrina), **A Selva da Resistência** (guerrilha anti-Uria em Anathemar), **O Oásis de Nahrun** (solo neutro das caravanas de Arenor) e **Os Bosques do Orvalho Azul** (o sereno safira de Yux-xai). Índice Toponímico wikilinka os 10; links verificados. Total dos três lotes: **29 marcos** novos.
+
+---
+
+## 2E — Sessão 47 · 2026-07-07 · +10 marcos (2º lote)
+
+Mais **10 marcos** (Atlas/Localizações), um por gancho: **Ruínas de Acrópolis** (capital afundada de Korvandrin, no Braço Partido), **O Abismo de Solazar** (fenda sem fundo em Taudrisía, possível ponto de véu fino), **O Círculo de Ithar** (pedras druídicas e portão feérico para Sylvandor), **O Cume Dourado** (o aurium mágico de Thaladrin), **As Planícies do Touro Trovador** (a pradaria sagrada dos taurens), **A Lagoa das Luas** (espelho das três luas, adivinhação em Khadira — inquieta desde o retorno de Mortemnis), **O Vale de Dalarah** (santuário de cura em Valenos, barreira contra mortos-vivos), **A Baía de Agnar** (o fiorde-porto de guerra de Tordenheim), **A Selva do Véu Branco** (a mata de névoa que "pensa", em Lovária) e **Os Montes Nyambé** (montanhas ancestrais de Zawadi). Índice Toponímico wikilinka os 10; links verificados.
+
+---
+
+## 2E — Sessão 46 · 2026-07-07 · +9 marcos geográficos + 12 eventos de timeline
+
+Descritos **9 marcos** novos (Atlas/Localizações), espalhados por região e cada um com história própria: **O Maelstrom de Aurilond** (cicatriz do Cataclisma no véu), **O Vale dos Imortais** (sanctum vampírico de Malachia, meio em Vandria), **A Esfinge de Arenor** (guarda a advertência dos Sunari sobre a Terceira Lua), **O Lago dos Ecos Silenciosos** (anomalia arcana de Vanov, vigiada pelo Conselho das Brumas), **O Deserto Mórbido** (ermo dos mortos de Solheimr, em Borealis), **Monte Yuki** (montanha sagrada de Saewan), **As Colunas de El'Saren** (ruínas ciclópicas de idade impossível), **A Floresta Eterna de Sylvandor** (mata feérica de Bretania) e **A Savana de Salahel** (o Serengeti de Khanzia). Amarrei **12 eventos de timeline** a esses marcos e a reinos pouco citados (EH 1650 Colunas; 1E: Esfinge 558, Lago dos Ecos 643, Monte Yuki 708, Maelstrom 815; 2E: Yux-xai×Yanare 143, Colunas 205, Salahel 331, Vale dos Imortais 512, Deserto Mórbido 604, Minas de Jofar 648, Sylvandor fechada 681). Índice Toponímico agora wikilinka os 9 marcos. Corrigidos de passagem 4 links quebrados antigos na timeline (Panteão Nordico, O Mar Silencioso, Mar de Sangue→Yanare, Oceano Rubro). Sem anos duplicados; timeline 100% linkada.
+
+---
+
+## 2E — Sessão 45 · 2026-07-07 · Prioridade Baixa — Fauna & Flora
+
+Espalhei a vida por regiões antes sem bicho nenhum (a base só cobria Borealis/Hamada). **8 feras:** Grifo de Arka (montaria nobre de Aquilonia), Verme das Areias/Sarok (Sultaria), Salamandra Ígnea (Drakavir), Corcel das Estepes (Khadira/Khanzia), Aranha-do-Véu (serva dos drow, amarra à Casa Vaeloth dos Narzul), Corvo-arauto (arauto do Sacro Corvo de Vohzro), Serpe-relâmpago das Tormentilhas e Basilisco dos Brejos (Krummag, ligado aos Povos-Lagarto). **6 plantas:** Flor-de-luar/selênio (floresce com Selene, insumo da Arte Sanguínea), Madeira-viva de Elyndrial (as cidades dos Vhalares), Luzfria (cogumelo dos drow), Rosa-do-deserto (os Sunari), Cinza-flor (Drakavir) e Sanguelenho (a árvore que sangra, em Malachia). Cada ficha amarra a reinos/culturas/magia existentes; links verificados.
+
+---
+
+## 2E — Sessão 44 · 2026-07-07 · Roadmap F — Ancestralidades incomuns
+
+Criadas **11 fichas de raça** em `Ancestralidades/Incomuns/` (antes só havia o índice): **Drows** (elfos do subsolo, herança rúnica de Azurian), **Dríades** e **Elfos da Floresta** (ovos verde/branco da Dragoa Verde), **Tieflings** (sangue de pacto — amarrado à "sétima porta" do Sistema de Magia), **Felinos**, **Gnomos**, **Fetchlings** (Umbraterra/Éristhan), **Goblinoides**, **Povos-Lagarto** (linhagem mais antiga, ignora os Três Dragões), **Taurens** (ramo pacífico dos minotauros) e **Fadas**. Cada uma segue o template (visão geral, biologia, origem mítica, culturas, onde vivem) e liga-se a reinos/culturas existentes. Índice [[Incomuns]] reescrito com wikilinks; Lupinos/Ursinos/Sylvarinos mantêm suas fichas de cultura (sem duplicar nome). Links verificados. Item **F do Roadmap concluído**.
+
+---
+
+## 2E — Sessão 43 · 2026-07-07 · Roadmap C — Sistema de Magia ✅ (último item Alto)
+
+Criada a nota-mãe **[[Sistema de Magia|A Trama]]** em `Magia/`. Conceito unificador: a magia é **puxar fios da Trama** (o tecido da realidade), personificada em [[Etherios]], "o Tecelão". O **preço** não é mana, mas o **desgaste do véu** — magia grande/gananciosa rasga o véu e deixa entrar [[Nihiloth]], [[Vandria]] e as sombras; a morte da Árvore Mãe afrouxou a Trama em todo lugar. Definidas as **6 Artes** (arcana/rúnica, dracônica, divina, natural/druídica, umbral/necromancia, sanguínea/vampírica) + a "sétima porta" dos **pactos** (Vhorruun). Inclui um "resumo jogável". Amarra e recontextualiza tudo que criamos: a herança rúnica dos [[Narzul]], a Regalia de Tarkisium, a Rota de [[Hardly Mersk|Mersk]], o [[Conselho das Brumas]], os astrônomos [[Sunari]]. Ligada à home [[Arcadia]] e ao MOC [[Magia]]. Links verificados. **Todos os itens de Prioridade Alta do Roadmap concluídos.**
+
+---
+
+## 2E — Sessão 42 · 2026-07-07 · Roadmap G — Aprofundar fichas ✦
+
+Resolvi os ganchos das **5 culturas ✦**: **Narzul** ganhou três casas drow (Vaeloth/aranha, Dûrnaz/olho, Ir'Selka/serpente) e a herança rúnica de Azurian; **Sunari** ganhou "O Segredo das Estrelas" — os astrônomos de Solária previram o retorno de Mortemnis (amarra ao enredo do véu); **Tarkos** ganhou as casas Vareno/Ashkar e a Regalia das Marés afundada no Mar de Sangue; **Vhalares** ganhou o pacto de seiva que sustenta a Alta Cindra e a revoltosa Yssara Folha-Negra; **Mountraks** ganhou a crise de sucessão de Ghorzuk (Ruk'Mara × Vharzog) e as Trilhas dos Anciãos. Os dois personagens "só nome" viraram fichas completas: **Asier Avilés** (cavaleiro-relíquia Tarko de Androsa, caçador da Regalia — proposta ✦, fácil de mudar) e **Hardly Mersk** (a Rota de Mersk de portais, seu sumiço no entre-mundos, ligado ao [[Conselho das Brumas]] e a Yverius). Links verificados. Item **G do Roadmap concluído**.
+
+---
+
+## 2E — Sessão 41 · 2026-07-07 · Roadmap E — Home/painel navegável
+
+Reconstruí a home **[[Arcadia]]** de um índice mínimo para um **painel navegável**: um "comece por aqui", o enredo do presente (Mortemnis/Nihiloth), as 5 eras com suas durações, os 6 continentes com reinos-âncora, facções & organizações, os 3 panteões + ordens, cosmologia & magia, e povos/personagens. Tudo em wikilinks (todos verificados, zero quebrados), com o índice automático de pastas preservado no rodapé. Item **E do Roadmap concluído**.
+
+---
+
+## 2E — Sessão 40 · 2026-07-07 · Roadmap D — Facções & Guildas
+
+Fichadas as **7 organizações "movedoras"** que só existiam como menção, na pasta `Organizações/`: **As Cadeiras** (o conselho anônimo das Mercantilhas), **Guilda dos Mercadores** (1E 42), **Guilda dos Ladrões** (Arlegis, 1E 97), **Guilda dos Assassinos** (rumores 2E 244, elo com Skian), **Conselho das Brumas** (Vanov, 1E 599, ligado a Yverius e ao véu), **Caçadores de Dragões** (EH 3280, Forte Draconia/Draukar) e **Sociedade dos Desbravadores** (Valyriath, 2E 283). Cada uma amarrada por wikilinks a personagens, reinos e eventos existentes; links verificados. Item **D do Roadmap concluído**.
+
+---
+
+## 2E — Sessão 39 · 2026-07-07 · Anos "realistas" + grande recheio (1E e 2E)
+
+A pedido (histórias reais não acontecem em anos redondos): **des-arredondei** todos os anos ✦ múltiplos de 10 para valores quebrados próximos (ex.: 1E 150→147, 2E 500→497), preservando a ordem — só mantive **2E 710** e **2E 720**, que são citados em fichas. Além disso, **+17 eventos na 1ª Era** e **+18 na 2ª**, em anos quebrados, cobrindo guildas, cismas religiosos, pestes, secas, piratas, mercenários, colônias, cultos e prenúncios (Selene, Mortemnis, Cultistas de Draknovir). A 1ª Era passou a **65 eventos** e a 2ª a **82** — densidade próxima de uma cronologia histórica real. Verificado por script: sem anos duplicados, ordem crescente.
+
+---
+
 ## 2E — Sessão 38 · 2026-07-07 · +17 eventos (1E e 2E, preenchendo lacunas)
 
 Mais **8 na 1ª Era** (clãs de Saewan, fundação de Normantis, colônias tiberas, cidadela drow de Dorfel, canatos de Khadira/Khanzia, colonos de Bruvia, culto de Zafir corroendo Taurin, neutralidade de Vanov) e **9 na 2ª Era** (unificação de Yux-xai, disputa de ilhas Draukar×Elyria, Vectaris como refúgio de magos, reavivamento de Solário, aproximação de Selene em 510, renascimento de Valencia, aliança Zawadi–Lovária, Yverius inicia os estudos dos presságios, riquezas perturbadoras do Sudoeste). Reordenados por ano após a inserção.

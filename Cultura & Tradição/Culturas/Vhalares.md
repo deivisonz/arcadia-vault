@@ -28,5 +28,11 @@ Falam um [[Élfico]] arcaico. Os da Alta são pálidos e etéreos; os da Baixa, 
 #### Relações
 Uma cultura **à beira da revolta**: segredos antigos podem, a qualquer momento, virar a pirâmide de cabeça para baixo.
 
+#### O segredo da Alta Cindra
+✦ As cidades suspensas e a **madeira encantada** que as sustenta não são milagre: são mantidas por um antigo **pacto de seiva** que drena lentamente a vida da própria Floresta de Elyndrial — trabalho imposto, geração após geração, aos renegados da **Baixa Cindra**. Enquanto a floresta resistir, a pirâmide se sustenta. Mas Elyndrial começa a **adoecer**.
+
+#### O estopim
+✦ Na Baixa, uma voz ganha força: **Yssara Folha-Negra**, que prega que a seiva pertence a quem a colhe, não às copas. Basta uma faísca — uma seca, um herdeiro morto — para virar a pirâmide de cabeça para baixo.
+
 #### Ganchos
-%% ✦ O estopim da revolta da Baixa Cindra; o segredo que sustenta (ou condena) a Alta. %%
+%% ✦ Yssara é libertadora ou tirana em formação? O que fará a Alta Cindra quando Elyndrial morrer? %%

@@ -16,6 +16,7 @@ A **Era dos Heróis** abre com a fúria de **[[Draknovir]]**, que mata a Árvore
 	- ✦ **EH 900:** fundação do **Império de Korvandrin**, no istmo de **Ethel'Crown** (então terra firme unindo os continentes — ver [[O Braço Partido]]).
 	- ✦ **EH 1100:** erguem-se as primeiras pólis que um dia formarão [[Tibéria]].
 	- ✦ **EH 1500:** apogeu do **Império Tarkisium** no oriente (herança dos [[Tarkos]]).
+	- ✦ **EH 1650:** um povo hoje esquecido ergue as **[[As Colunas de El'Saren|Colunas de El'Saren]]** no oriente — pilares de uma escrita que ninguém mais lê.
 	- ✦ **EH 1800:** os centauros de [[Khanzia]] tornam-se um terror de saque no oriente.
 	- ✦ **EH 2200:** as **Guerras Rúnicas** — [[Azurianos|Azurian]] volta sua magia contra Korvandrin; sentem-se os primeiros desequilíbrios do véu.
 	- ✦ **EH 3000:** navegadores redescobrem a [[A Cidadela do Conhecimento|Cidadela do Conhecimento]].
@@ -29,4 +30,4 @@ A **Era dos Heróis** abre com a fúria de **[[Draknovir]]**, que mata a Árvore
 	- ✦ **EH 3400:** as primeiras grandes caçadas consagram os dragoncidas de [[Draukar]].
 	- ✦ **EH 4000:** **[[Harald, o Primeiro Rei]]** unifica os **Sete Reinos** contra a Revoada.
 	- **EH 4474:** fim da [[A Revoada Draconiana|Revoada Draconiana]].
-	- **EH 4475:** **O Cataclisma** — **Ethel'Crown se parte** (nasce o [[O Braço Partido|Braço Partido]]), **Tarkisium afunda**, e [[Azurianos|Azurian]] e Korvandrin **caem em ruínas**.
+	- **EH 4475:** **O Cat

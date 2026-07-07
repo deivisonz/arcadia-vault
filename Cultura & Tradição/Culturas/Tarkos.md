@@ -28,5 +28,14 @@ Falam o **tárkio**, um ramo fragmentado do [[Clássico Tibérico]].
 #### Relações
 Reconstruídos com apoio do [[Taurin|Império de Taurin]]; disputam com os [[Korvandrinos]] a memória de quem foi o "maior império caído".
 
+#### As casas herdeiras
+✦ Nenhuma família reina sozinha: a **Casa Vareno** (senhora dos portos) e a **Casa Ashkar** (das estradas e fortalezas) disputam o título de "verdadeiros herdeiros" de Tarkisium — e cada uma tem sua própria versão de por que o império caiu.
+
+#### O que afundou Tarkisium
+✦ A história oficial culpa o Cataclisma. Mas há quem sussurre que Tarkisium, como [[Azurianos|Azurian]], cometeu sua própria **soberba**: uma grande obra arcana — a lendária **Regalia das Marés** — que teria acelerado o afundamento. Suas relíquias imperiais jazem hoje no fundo do [[Yanare|Mar de Sangue]], cobiçadas por caçadores de tesouro.
+
+#### Personagens
+✦ **[[Asier Avilés]]** — cavaleiro-relíquia de [[Androsa]] que vasculha as ruínas submersas atrás da regalia perdida.
+
 #### Ganchos
-%% ✦ O que afundou Tarkisium — só o Cataclisma, ou algo mais? Relíquias imperiais no fundo do Mar de Sangue. %%
+%% ✦ A Regalia das Marés é só lenda ou uma arma adormecida? Qual casa a encontrará primeiro? %%

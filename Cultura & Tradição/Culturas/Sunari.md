@@ -31,5 +31,8 @@ Resistem, antigos e orgulhosos, entre a expansão de [[Lovaria|Lovária]] e [[Ar
 #### Personagens
 ✦ **[[Baltasar Solaria]]** — provável nobre ou sumo-sacerdote da casa solar de Solária.
 
+#### O Segredo das Estrelas
+✦ Os **sacerdotes-astrônomos** de Solária guardam registros de milênios — e foram os **únicos a prever o retorno de [[Mortemnis]]** antes que ele acontecesse. Para eles, a destruição e o renascimento cíclicos de Solária sempre coincidiram com as **conjunções das três luas**; o que os reinos do norte leem como presságio, os Sunari leem como relógio. Nas tumbas mais fundas, dizem guardar uma **advertência** — ou uma chave — deixada da última vez que o céu teve três luas.
+
 #### Ganchos
-%% ✦ Os segredos astronômicos dos Sunari e sua relação com o retorno das luas. %%
+%% ✦ O que dizem exatamente as tábuas de Solária sobre a Terceira Lua? Os Sunari ajudariam [[Yverius]] — ou o temem? %%

@@ -28,5 +28,14 @@ Pele escura, cabelos claros, olhos que enxergam no negro. Falam um dialeto cifra
 #### Relações
 Espreitam a superfície a partir das fendas da Espinha; comerciam segredos até com os vampiros de [[Vandria]]. Inimigos ancestrais dos elfos da luz.
 
+#### As Grandes Casas
+✦ A sociedade Narzul gira em torno de umas poucas **casas** ancestrais, cada uma com seu emblema:
+- **Casa Vaeloth** *(a aranha negra)* — a mais antiga e temida, mestra do veneno e da feitiçaria; reivindica sangue puro dos antigos **Lordes Rúnicos** de [[Azurianos|Azurian]].
+- **Casa Dûrnaz** *(o olho sem pálpebra)* — senhores dos espiões e do comércio de segredos; são eles que negociam com os vampiros de [[Vandria]].
+- **Casa Ir'Selka** *(a serpente branca)* — a lâmina das casas: assassinos e guerreiros de aluguel, arma de quem pagar mais entre as próprias casas.
+
+#### Herança azuriana
+✦ Quando [[Azurianos|Azurian]] ruiu no Cataclisma, parte de seus feiticeiros drow desceu às sombras (ver [[III - A Era das Trevas|ET 60]]), levando fragmentos da **magia rúnica**. Os Narzul são seus herdeiros amargos — guardam runas proibidas que nem os magos de [[Vanov]] ousam tocar.
+
 #### Ganchos
-%% ✦ As grandes casas Narzul e seus emblemas; a ligação real com os Azurianos. %%
+%% ✦ Que runa proibida a Casa Vaeloth ainda esconde? Uma quarta casa em ascensão nas fendas mais fundas? %%

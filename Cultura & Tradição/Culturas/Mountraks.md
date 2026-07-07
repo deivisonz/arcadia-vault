@@ -28,5 +28,11 @@ Falam um dialeto do [[Órquico]]. Corpos robustos, adaptados ao frio de montanha
 #### Relações
 Ameaça constante às fronteiras do sul de [[Auroria - Continente Leste|Auroria]]; parentes distantes dos orcs de [[Durenor]] e das hordas de [[Xea'yasha]].
 
+#### A sucessão de Ghorzuk
+✦ A união dos Mountraks é a reputação de um só orc. Sob **Ghorzuk**, dois chefes já afiam as lâminas: **Ruk'Mara, a Quebra-Escudos** (força bruta) e **Vharzog Meia-Presa** (astúcia e emboscada). Quando o medo que Ghorzuk inspira morrer com ele, Kharzug pode explodir numa guerra de bandos — ou forjar um tirano ainda pior.
+
+#### As Trilhas dos Anciãos
+✦ Só os anciãos conhecem as **trilhas secretas** que cruzam os picos de [[Kharzug]] — passagens que deixam os bandos surgir onde ninguém os espera, no sul de [[Auroria - Continente Leste|Auroria]]. Mapeá-las valeria um reino.
+
 #### Ganchos
-%% ✦ O que Ghorzuk fará quando morrer o medo que o une? As trilhas secretas de Kharzug. %%
+%% ✦ Ruk'Mara ou Vharzog — quem herda Kharzug? Um forasteiro poderia comprar as Trilhas dos Anciãos? %%
