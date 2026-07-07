@@ -3,6 +3,7 @@
 **Descrição:** As estações duram anos e em algumas ocasiões chegam até décadas.
 **Formações geográficas:** 
 - A Coroa de Gelo, região mais ao norte de Arcádia, onde paredões de gelo se formam e demarcam o limite máximo ao norte do mundo conhecimento. Existe porém uma pequena região próximo aos desertos árticos de Skallandes que permite a travessia, no entanto, poucos tiveram coragem para se aventurar lá. 
+- ✦ **As Tundras de Skogrinn** — região onde vivem os **gigantes de gelo**, seus **mamutes** e a megafauna da era do gelo.
 ### **REGIÕES**
 #### CLÃS DO LOBO
 ##### Danevar

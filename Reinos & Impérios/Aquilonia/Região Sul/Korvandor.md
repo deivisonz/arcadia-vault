@@ -26,4 +26,5 @@ Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta
 
 ---
 #### Ganchos de expansão
+%% ⚠️ Conflito de conceito (rascunho): o [[Rascunho Regiões]] descreve Korvandor como uma "cruel e sombria **magocracia dos Magos Vermelhos**", em vez de apenas ruínas. Decidir: os Magos Vermelhos ergueram-se sobre as ruínas de Korvandrin? %%
 %% Ligação com o antigo [[Império Korvandrino]] e a guerra contra Azurian. %%

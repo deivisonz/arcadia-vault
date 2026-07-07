@@ -21,6 +21,9 @@ Ligadas à [[Astrologia]] e aos [[Corpos Celestiais]].
 - [[Tohrum]] — deus da forja, pai dos **anões**
 - [[Baelrok]] — deus da guerra e do sangue, cultuado por **orcs** e cultos de batalha
 
+## Deidades da Civilização
+- [[Aroden]] — deus da civilização, das cidades e da lei humana
+
 ## Deidades Regionais
 - [[Azhoros]] — senhor das tumbas e do submundo, venerado no deserto de [[Arenor]]
 

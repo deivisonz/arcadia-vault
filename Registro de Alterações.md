@@ -8,6 +8,32 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 25 · 2026-07-06 · Resgate final dos rascunhos
+
+Revisão dos rascunhos revelou dados centrais ainda não migrados. Migrados agora:
+- **[[Os Três Dragões]]** — o mito fundador (a nota estava **vazia**!) agora completo.
+- **[[A Queda dos Elfos]]** — o mito da imortalidade perdida; a Árvore da Vida como **barreira planar** (costura com [[Nihiloth]]).
+- **[[Drakavir -  Abismo Draconiano|Drakavir]]** e o **[[Arquipélago de Hamada]]** preenchidos; novo continente oculto **[[Terras Selvagens]]** (dinossauros/megafauna).
+- **[[Aroden]]** — o deus da civilização que faltava (+ no índice [[Deidades Transversais]]).
+- Locais lendários: [[A Cidadela do Conhecimento]], [[O Rio Yester]], [[O Trono de Gelo]].
+- Detalhes soltos: [[Califado de Al-Qasar|Al-Qasar]] (fundado por gênios), [[Invernalto]] (fontes termais), Tundras de Skogrinn (gigantes de gelo), [[Escala dos Reinos]].
+- [[Asier Avilés]] (só um nome — esboço).
+
+**⚠️ Conflitos/TODOs sinalizados:** [[Korvandor]] (ruínas × "Magos Vermelhos"); região tipo Ciméria a criar; nome "Tormentilhas" reservado; drows em Faeloria (substituído pela decisão Tenebria/Espinha).
+
+---
+
+## 2E — Sessão 24 · 2026-07-06 · Línguas (famílias) + culturas ✦ aprofundadas
+
+**Línguas — abordagem por famílias** (índice [[Linguagens]] + 15 fichas):
+[[Comum]], [[Clássico Tibérico]] (+ [[Uriano]]), [[Élfico]], [[Anão]], [[Nórdico]], [[Órquico]], [[Zarkovithiano]], [[Línguas de Sultaria]], [[Línguas do Oriente]], [[Falas Bestiais]], [[Lacertano]], [[Draconiano]], [[Umbral]] e [[A Fala Faminta]] (de [[Nihiloth]]).
+
+**Culturas ✦ aprofundadas** (de esboço para ficha completa): [[Narzul]] (drows), [[Sunari]] (+ personagem [[Baltasar Solaria]]), [[Tarkos]], [[Vhalares]], [[Mountraks]]. Todas ligadas à sua língua.
+
+**Costura fina:** a palavra *vhor* (fome) liga o [[Draconiano]] à [[A Fala Faminta]] de [[Nihiloth]] — raízes antigas em comum.
+
+---
+
 ## 2E — Sessão 23 · 2026-07-06 · As 21 culturas (categoria completa)
 
 **Todas as 21 culturas escritas**, ligadas a raça e reino:

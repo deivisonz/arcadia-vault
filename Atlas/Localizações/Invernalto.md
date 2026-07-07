@@ -12,7 +12,7 @@ tags: [localização]
 Invernalto é uma cidade-fortaleza de [[Bruvia]], cravada nas montanhas da **Cordilheira de Eremore**, guardando a fronteira norte do reino contra as incursões nórdicas de [[Borealis - Continente Norte|Borealis]].
 
 #### Descrição e atmosfera
-Uma praça-forte de pedra cinzenta e telhados íngremes, castigada pelo vento e pela neve. Suas muralhas e torres de vigia observam os passos das montanhas; braseiros ardem nos parapeitos mesmo no verão.
+Uma praça-forte de pedra cinzenta e telhados íngremes, castigada pelo vento e pela neve. Suas muralhas e torres de vigia observam os passos das montanhas; braseiros ardem nos parapeitos mesmo no verão. ✦ A cidade foi **fundada sobre fontes termais** — por isso, no inverno, a nobreza e os de maior poder não sofrem com o frio.
 
 #### História
 ✦ Erguida como sentinela contra os saqueadores do norte, resistiu a inúmeras incursões — sobretudo após a intensificação dos ataques de [[Danevar]] e [[Tordenheim]] (2E 598). É um dos pilares da defesa de [[Bruvia]], reforçada na campanha de fortificações de 2E 710.
