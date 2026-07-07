@@ -1,17 +1,26 @@
 # III — A Era das Trevas
 
-Após o Cataclisma, Arcádia mergulha num abismo sombrio. Compartimentos selados em [[Alta Rocha]] se rompem, e os últimos anões abandonam sua cidade natal. Um longo inverno assola [[Borealis - Continente Norte|Borealis]], surgem os primeiros **vampiros** ligados aos ciclos de **[[Selene]]**, e a seita **[[Culto aos Dragões|Escamas de Draknovir]]** passa a cultuar o colosso adormecido. Após séculos de desolação, a **Confraria da Rocha Eterna** retoma [[Alta Rocha]]; mas [[Draknovir]] desperta e lança ataques devastadores, até ser destruído por heróis na batalha do [[O Braço Partido|Braço Partido]] — encerrando a era com uma vitória sombria.
+Após o Cataclisma, Arcádia mergulha num abismo sombrio. É a era da **Longa Noite**, dos primeiros vampiros e da queda final de [[Draknovir]].
+
+> **Duração:** **ET 0 → ~ET 340** (~340 anos), do Cataclisma à reconstrução após a queda de [[Draknovir]] (ET 333). Em anos atrás: ≈2.035 → ≈1.695.
+
+> Eventos marcados com **✦** são expansões recentes (rascunho).
 
 - ### A Era das Trevas — ET
-    - **ET 7:** rompidos os compartimentos selados, a última resistência anã deixa [[Alta Rocha]].
+    - **ET 7:** os últimos anões abandonam [[Alta Rocha]].
     - **ET 28:** início do longo inverno de [[Borealis - Continente Norte|Borealis]].
-    - **ET 32:** surgem os primeiros **vampiros**, ligados aos ciclos de [[Selene]].
-    - **ET 33:** tempestades e avalanches soterram **Solheimr**, que passa a se chamar [[Draugrhotar]] — um imenso cemitério.
-    - **ET 77:** forma-se a seita [[Culto aos Dragões|Escamas de Draknovir]], que cultua o dragão como divindade.
-    - **ET 134:** [[Selene]], a lua rubra, atinge sua maior proximidade em milênios, ampliando o poder dos vampiros.
-    - **ET 272:** fim do longo inverno em [[Borealis - Continente Norte|Borealis]].
-    - **ET 280:** fundação de [[Kald Lundar]] pelos anões destituídos de [[Alta Rocha]].
-    - **ET 295:** [[Mortemnis]] desaparece dos céus de Arcádia.
-    - **ET 300:** firma-se a **Confraria da Rocha Eterna**; [[Alta Rocha]] é retomada e reconstruída.
-    - **ET 323:** [[Draknovir]] desperta da Espinha do Mundo e devasta diversas regiões.
-    - **ET 333:** na **batalha do [[O Braço Partido|Braço Partido]]**, heróis de Arcádia destroem [[Draknovir]], o último Dragão Colossal, pondo fim à ameaça (ver [[A Queda de Draknovir]]).
+    - ✦ **ET 30:** a **Longa Noite** — os anos mais escuros, em que a civilização quase sucumbe.
+    - **ET 32:** surgem os primeiros **vampiros**, saídos de [[Vandria]] pela brecha de [[Selene]].
+    - **ET 33:** tempestades soterram **Solheimr**, que vira [[Draugrhotar]].
+    - ✦ **ET 40:** as **casas vampíricas** estabelecem seus primeiros domínios (semente da futura [[Sangrenia]]/[[Malachia]]).
+    - ✦ **ET 60:** os **drows** ([[Narzul]]) descem à [[A Espinha do Mundo|Espinha do Mundo]] e a [[Tenebria]], fugindo do sol e das ruínas de [[Azurianos|Azurian]].
+    - **ET 77:** forma-se a seita [[Culto aos Dragões|Escamas de Draknovir]].
+    - ✦ **ET 120:** sob a lua rubra, **cultos da noite** se espalham — as primeiras seitas que um dia servirão de máscara aos vampiros (semente da [[Igreja de Vohzro]]).
+    - **ET 134:** [[Selene]] atinge sua maior proximidade; auge vampírico.
+    - **ET 272:** fim do longo inverno.
+    - **ET 280:** fundação de [[Kald Lundar]].
+    - ✦ **ET 290:** os clãs primitivos de [[Borealis - Continente Norte|Borealis]] começam a se organizar — origem das [[Terras dos Skalds]].
+    - **ET 295:** [[Mortemnis]] desaparece.
+    - **ET 300:** a **Confraria da Rocha Eterna** retoma [[Alta Rocha]].
+    - **ET 323:** [[Draknovir]] desperta.
+    - **ET 333:** na **batalha do [[O Braço Partido|Braço Partido]]**, os heróis destroem [[Draknovir]] (ver [[A Queda de Draknovir]]).

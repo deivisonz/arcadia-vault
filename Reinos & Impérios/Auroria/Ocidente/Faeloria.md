@@ -9,7 +9,7 @@ aliases: []
 tags: [reino, feérico]
 ---
 #### História
-Faeloria é um reino de seres faéricos e criaturas místicas, mas sua terra — antes vibrante de harmonia e diversidade — está hoje sob o comando tirânico de **Lottus**, um elfo de sangue puro que governa com mãos de ferro. Ascendendo ao poder com a promessa de restaurar a "pureza" élfica, Lottus passou a dizimar meio-elfos e todos que considera de "sangue inferior". O reino, antes tolerante, vive em clima de opressão e medo: os de sangue misto são forçados a condições precárias, escondidos ou exilados. Seus castelos são dominados pela guarda pessoal de elfos puro-sangue, mas sua tirania gerou uma resistência secreta de faéricos e meio-elfos que planejam, nas sombras, restaurar a antiga harmonia.
+Faeloria é um reino de seres faéricos e criaturas místicas, mas sua terra — antes vibrante de harmonia e diversidade — está hoje sob o comando tirânico de **Lottus**, um elfo de sangue puro que governa com mãos de ferro. Ascendendo ao poder com a promessa de restaurar a "pureza" élfica, Lottus passou a dizimar meio-elfos e todos que considera de "sangue inferior". O reino, antes tolerante, vive em clima de opressão e medo: os de sangue misto são forçados a condições precárias, escondidos ou exilados. Seus castelos são dominados pela guarda pessoal de elfos puro-sangue. ✦ Desde **2E 713, o próprio Lottus desapareceu** (enlouquecido, dizem), e o regime segue tocado por lugar-tenentes zelosos **em nome de um tirano ausente**. A tirania gerou uma resistência secreta de faéricos e meio-elfos — que agora se perguntam se o tempo de agir, sem Lottus, finalmente chegou.
 
 #### Clima
 Temperado; Floresta de Varna e Montanhas do Sol Poente.

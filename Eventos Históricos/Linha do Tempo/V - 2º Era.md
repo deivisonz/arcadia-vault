@@ -2,23 +2,42 @@
 
 A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e seitas. O expansionismo de [[Uria]] incendeia [[Aquilonia - Continente Oeste|Aquilonia]]; a [[Igreja de Vohzro]] converte [[Malachia]] em teocracia; os nórdicos assolam [[Bruvia]]; e o retorno de **[[Mortemnis]]** anuncia tempos sombrios.
 
+> **Duração:** **2E 0 → presente (~2E 720)**, o "agora" do mundo. Em anos atrás: ≈718 → hoje.
+
 > Eventos marcados com **✦** são expansões recentes (status rascunho, a revisar).
 
 - ### Segunda Era — 2E
     - ✦ **2E 50:** após séculos de guerras entre clãs, as quatro ilhas de [[Saewan]] unificam-se sob um **Imperador**.
     - **2E 60:** a **Revolta Contrabandista** nas [[Mercantilhas]].
+    - ✦ **2E 90:** as dinastias de [[Yux-xai]] entram em guerra por supremacia.
     - ✦ **2E 100:** [[Habajj]] firma-se como o maior entreposto de escravos e especiarias do oriente.
+    - ✦ **2E 130:** [[Habajj]] e [[Tapesh]] firmam a **Rota das Especiarias**, enriquecendo o oriente.
     - ✦ **2E 150:** os centauros de [[Khanzia]] retomam grandes saques às fronteiras orientais de [[Auroria - Continente Leste|Auroria]].
     - **2E 175:** o **Pacto das Mercantilhas** divide o poder entre as guildas.
+    - ✦ **2E 210:** a **Guerra das Presas** em [[Felidaria]] opõe clãs felinos e [[Lupinos|lupinos]].
+    - ✦ **2E 230:** [[Yux-xai]] unifica-se sob uma única dinastia após décadas de guerra.
     - **2E 244:** rumores de uma **Guilda dos Assassinos** nas [[Mercantilhas]].
     - **2E 257:** **[[Garrok Dente Quebrado]]** unifica as tribos da [[União Ébano]] — o primeiro estado orc estável da história.
-    - ✦ **2E 350:** a queda de meteoros mágicos ergue a primeira **ilha flutuante** (Vectaris) em [[Lumeneria]].
+    - ✦ **2E 280:** a **Sociedade dos Desbravadores** é fundada em [[Elyria]].
+    - ✦ **2E 290:** colônias de [[Draukar]] e [[Elyria]] disputam as ilhas do [[Mar Silencioso]].
+    - ✦ **2E 320:** [[Androsa]] completa sua reconstrução sobre as ruínas de **Tarkisium** e volta a florescer.
+    - ✦ **2E 340:** um **meteoro** despenca sobre o [[O Estrelárido|Estrelárido]], em [[Lumeneria]] — a queda das estrelas de Arcádia.
+    - ✦ **2E 350:** com os cristais do Estrelárido, ergue-se a cidade voadora [[Vectaris]].
+    - ✦ **2E 360:** [[Vectaris]] torna-se refúgio de magos e artífices de todo o oriente.
     - ✦ **2E 400:** o Chefe de Guerra **Ghorzuk** unifica os orcs e hobgoblins de [[Kharzug]].
+    - ✦ **2E 420:** as **Guerras das Estepes** entre [[Khadira]] e [[Khanzia]] decidem a supremacia da cavalaria.
+    - ✦ **2E 440:** a fé de [[Solarion|Solário]] vive um reavivamento, erguendo grandes catedrais.
     - ✦ **2E 450:** invernos implacáveis forçam o abandono de [[Kald Jotun]]; os sobreviventes migram para [[Drosskar]].
+    - ✦ **2E 470:** [[Zarkovith]] fecha suas fronteiras após guerras com os vizinhos.
+    - ✦ **2E 480:** um inverno cruel castiga [[Borealis - Continente Norte|Borealis]]; clãs inteiros migram para o sul.
     - ✦ **2E 500:** [[Alta Rocha]] fecha-se sobre si mesma, emergindo apenas contra ameaças diretas.
+    - ✦ **2E 510:** astrônomos notam os primeiros sinais de que [[Selene]], a lua rubra, volta a se aproximar.
     - **2E 526:** a Rainha **[[Rainha Emeline|Emeline]]** cede ao **Sacro Corvo**; [[Malachia]] torna-se teocracia da [[Igreja de Vohzro]].
     - **2E 532:** o **Conflito dos Credos** — a [[Igreja de Vohzro]] torna-se a única fé permitida em [[Malachia]] (ver [[O Conflito dos Credos]]).
+    - ✦ **2E 540:** [[Malachia]] e [[Tenebria]] estreitam o **pacto das raças noturnas**.
     - ✦ **2E 550:** [[Arenor]] e [[Lovaria|Lovária]] disputam as terras férteis e as rotas de [[Haraban]], em [[Sultaria - Continente Sul|Sultaria]].
+    - ✦ **2E 560:** apogeu comercial de [[Elyria]]; os Desbravadores cartografam terras antes ignoradas.
+    - ✦ **2E 575:** [[Valencia]] vive um renascimento das artes e do comércio.
     - **2E 582:** [[Draukar]] é devastada por guerra civil, fragmentando-se em facções (ver [[A Guerra Civil de Draukar]]).
     - **2E 585:** [[Uria]] lança a **[[A Invasão Uriana|Invasão Uriana]]** sobre [[Aquilonia - Continente Oeste|Aquilonia]].
     - **2E 588:** [[Uria]] toma territórios de [[Taudrisia|Taudrisía]], [[Anathemar]] e [[Lenaria]].
@@ -26,9 +45,13 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - **2E 592:** forma-se o **Conselho dos Três Reinos** ([[Draukar]], [[Durenor]], [[Myriandor]]); começa a **[[A Guerra de Contenção|Guerra de Contenção]]** contra [[Uria]].
     - **2E 598:** primeiras incursões nórdicas a [[Bruvia]] (de [[Danevar]] e [[Tordenheim]]).
     - ✦ **2E 600:** [[Xea'yasha]] unifica os goblinoides do sul e ameaça as tribos de [[Zawadi]].
+    - ✦ **2E 615:** a ameaça de [[Xea'yasha]] força alianças entre [[Zawadi]] e [[Lovaria|Lovária]].
+    - ✦ **2E 620:** [[Cindra]] fecha a Floresta de Elyndrial a forasteiros após incursões goblinoides.
     - ✦ **2E 630:** feitos do norte cronicados por [[Tyr Skaldsson]] — a **Revolta de Pingrim** e a **Queda de Kghaw, o Tirano**.
     - **2E 642:** o **Grande Saque de Gwar Penar**, em [[Bruvia]] — onde [[Tyr Skaldsson|Tyr]] conhece [[Trovark Thoraldsson|Trovark]].
     - ✦ **2E 650:** [[Valenos]] incorpora **Serraguarda**; a Escola de Caçadores de Monstros de **Kaermoria** ganha fama.
+    - ✦ **2E 660:** em [[Habajj]], a **Revolta dos Coleiras** é esmagada — mas nunca esquecida.
+    - ✦ **2E 665:** o arquimago [[Yverius]] inicia em [[Vanov]] seus estudos sobre os presságios.
     - **2E 670:** a **Grande Perseguição** em [[Malachia]].
     - **2E 677:** funda-se a clandestina **[[Ordem dos Silenciados]]**.
     - **2E 680:** os Silenciados tentam um levante, reprimido; **[[Dominus IV]]** ascende.
@@ -40,6 +63,11 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - ✦ **2E 700:** o Chefe de Guerra **Kargath Mão de Lâmina** mantém a tênue união das tribos de [[Durenor]].
     - **2E 702:** descoberta do continente **Sudoeste**; exploração comandada por [[Draukar]].
     - ✦ **2E 705:** [[Lottus Ignis]], após a dissolução de sua antiga companhia, toma [[Faeloria]] e inicia o expurgo dos meio-elfos.
+    - ✦ **2E 706:** os tenentes zelotes de [[Lottus Ignis|Lottus]] consolidam o expurgo em [[Faeloria]].
+    - ✦ **2E 708:** o continente **Sudoeste** envia suas primeiras riquezas a [[Draukar]] — e relatos perturbadores.
     - ✦ **2E 710:** [[Bruvia]] reforça muralhas e fortalezas contra as incursões nórdicas crescentes.
-    - **2E 718:** **acontecimentos atuais** — [[Mortemnis]] reaparece nos céus.
-    - **2E 720:** [[Alta Rocha]] é invadida por criaturas das profundezas e abandonada.
+    - ✦ **2E 712:** morre **[[Ragnar Thorn]]**, o grande rei-paladino. Sem herdeiro direto, [[Bruvia]] mergulha numa **guerra civil de sucessão** entre as casas nobres.
+    - ✦ **2E 713:** **[[Lottus Ignis]]** desaparece de [[Faeloria]] — dizem que enlouqueceu. Seu regime de pureza persiste sem ele, e seu paradeiro é uma incógnita.
+    - ✦ **2E 714:** as casas de [[Bruvia]] agrupam-se em **três facções rivais** pelo Trono de Inverno.
+    - ✦ **2E 716:** tremores e presságios se multiplicam pelo mundo — o véu range.
+    - **2E 718:** **acontecimentos atuais** — [[Mortemnis]] reapar

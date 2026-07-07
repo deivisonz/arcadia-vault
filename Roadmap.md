@@ -21,8 +21,8 @@ Transformar os topônimos do [[Índice Toponímico]] que existem mas não têm n
 - [ ] Borealis (Coroa de Gelo, Gigantes Adormecidos, Deserto Mórbido, Baía de Agnar…)
 - [ ] Sultaria (Serpentinas de Zephyro, Desertos Arendune/Aresul, Savana de Katabau…)
 
-### B. "O Presente de Arcádia" — o estado atual (2E 718)
-- [ ] Nota consolidando o **agora**: retorno de [[Mortemnis]], a descoberta de [[Yverius]], a ameaça de [[Nihiloth]], a [[A Guerra de Contenção|Guerra de Contenção]], a teocracia de [[Malachia]], a companhia dispersa. O "ponto de partida" do mundo.
+### B. "O Presente de Arcádia" — o estado atual (2E 718) ✅
+- [x] Nota [[O Presente de Arcádia]] consolidando o **agora** e o enredo central da Terceira Lua. Ligada à home [[Arcadia]].
 
 ### C. Sistema de Magia (a "física" do mundo)
 - [ ] Nota-mãe: de onde vem a magia, quem usa, o preço. Tipos: **arcana/dracônica, divina, natural/druídica, sombria/umbral, sanguínea/vampírica**. A regra do **véu enfraquecido** (Árvore Mãe → [[Nihiloth]]/[[Mortemnis]]). Amarra [[Vanov]], [[Etherios]], [[Draconiano]], [[Azurianos]].

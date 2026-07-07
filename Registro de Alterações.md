@@ -8,6 +8,66 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 38 · 2026-07-07 · +17 eventos (1E e 2E, preenchendo lacunas)
+
+Mais **8 na 1ª Era** (clãs de Saewan, fundação de Normantis, colônias tiberas, cidadela drow de Dorfel, canatos de Khadira/Khanzia, colonos de Bruvia, culto de Zafir corroendo Taurin, neutralidade de Vanov) e **9 na 2ª Era** (unificação de Yux-xai, disputa de ilhas Draukar×Elyria, Vectaris como refúgio de magos, reavivamento de Solário, aproximação de Selene em 510, renascimento de Valencia, aliança Zawadi–Lovária, Yverius inicia os estudos dos presságios, riquezas perturbadoras do Sudoeste). Reordenados por ano após a inserção.
+
+---
+
+## 2E — Sessão 37 · 2026-07-07 · Correção cronológica das eras
+
+Consertada uma incoerência de escala: a **Era das Lendas** terminava com a morte da Árvore Mãe datada em "≈5 mil anos atrás", mas a soma das eras seguintes (Heróis 4.475 + Trevas ~340 + 1E 977 + 2E ~718 ≈ **6.510 anos**) exigia que ela tivesse morrido há **~6.500 anos**. Reescalonei as Lendas (Três Dragões ≈8 mil, magia ≈7,5 mil, Reconquista ≈7 mil, **Fim da era ≈6.500 anos atrás = EH 0**). Reordenei cronologicamente os eventos fora de sequência em **Trevas** (ET 77↔120), **1E** (1E 130/470 deslocados) e **2E** (60/90, 244/320, 450/480). Adicionei a cada era uma nota de **Duração** com fronteiras em "anos atrás", tornando as bordas explícitas e sem sobreposição.
+
+---
+
+## 2E — Sessão 36 · 2026-07-07 · +18 eventos (1E e 2E, foco em reinos)
+
+Adensamento das eras recentes, a pedido: **+7 na Primeira Era** (Concórdia Arcana entre Elyria e Vanov, ascensão de Habajj, Guerras das Pólis de Tibéria, pirâmides de Arenor, o caldo pré-Bruvia, o culto imperial de Uria, a Praga Cinzenta das Mercantilhas) e **+11 na Segunda Era** (Rota das Especiarias, Guerra das Presas em Felidaria, renascimento de Androsa sobre Tarkisium, Guerras das Estepes Khadira×Khanzia, inverno cruel em Borealis, pacto Malachia–Tenebria, apogeu de Elyria, fechamento de Cindra, Revolta dos Coleiras em Habajj, consolidação do expurgo em Faeloria, e as três facções de Bruvia). Reinos antes pouco citados na timeline agora têm marcos próprios.
+
+## 2E — Sessão 35 · 2026-07-06 · +15 eventos na timeline
+
+Mais **15 eventos ✦** distribuídos pelas cinco eras: a Reconquista dos elfos da floresta (Lendas); o fechamento das Ilhas da Alvorada, as pólis de Tibéria, os centauros saqueadores, as caçadas dracônicas (Heróis); os cultos da noite e a origem dos clãs nórdicos (Trevas); reinos humanos de Auroria, rotas de Kalinthor, revoltas de escravos em Taurin (1E); as guerras de Yux-xai, a Sociedade dos Desbravadores, o fechamento de Zarkovith, e os presságios de 2E 716 (2E). Ordem cronológica corrigida.
+
+---
+
+## 2E — Sessão 34 · 2026-07-06 · Timeline enriquecida + Ragnar/Lottus
+
+**Timeline enriquecida** (referências: ASOIAF, Elder Scrolls, LotR, Tormenta, D&D/Pathfinder, Conan):
+- **Era das Lendas:** as Torres das Virtudes, Thirond, a chegada detalhada dos Três Dragões.
+- **Era dos Heróis:** preenchido o grande vão com os **impérios perdidos** — ascensão de [[Azurianos|Azurian]] (EH 500), Korvandrin (900), Tarkisium (1500), as **Guerras Rúnicas** (2200); o Cataclisma agora **parte Ethel'Crown** e afunda os impérios.
+- **Era das Trevas:** a **Longa Noite** (ET 30), a origem das casas vampíricas e a descida dos drows.
+- **1E/2E:** reconstrução, Guerra dos Meio-Elfos, o **meteoro do Estrelárido** (a "queda das estrelas", 2E 340).
+
+**Mudanças de personagem (do Deivison):**
+- **[[Ragnar Thorn]] morreu (2E 712)** — o "Grande Rei"; [[Bruvia]] mergulhou em **guerra civil de sucessão**.
+- **[[Lottus Ignis]] desapareceu (2E 713)** — enlouquecido, uma incógnita; [[Faeloria]] segue sob um "tirano ausente".
+- [[O Presente de Arcádia]] atualizado: a companhia agora está **perdida** (morto/dragão/desaparecido).
+
+---
+
+## 2E — Sessão 33 · 2026-07-06 · Prioridade B — O Presente de Arcádia
+
+- Criada a nota-capstone **[[O Presente de Arcádia]]** (2E 718): consolida o estado atual e o **enredo central** — o retorno de [[Mortemnis]], a profecia de [[Yverius]], a ameaça de [[Nihiloth]], os focos de conflito (Uria, Malachia vampírica, Alta Rocha caída, dragões, Xea'yasha) e a antiga companhia dispersa. Inclui ganchos jogáveis.
+- **[[Arcadia]]** virou uma mini-home com links de partida (Presente, Cânone, Roadmap, Índice, Timeline).
+- Roadmap: item **B concluído**.
+
+---
+
+## 2E — Sessão 32 · 2026-07-06 · Marcos icônicos (cordilheiras, mares)
+
+**10 grandes marcos descritos** (Roadmap A):
+- [[A Espinha do Mundo]], [[A Coroa de Gelo]], [[Cordilheira dos Gigantes Adormecidos]] (gigantes que dormem!), [[O Escudo de Gromash]], [[O Prato do Diabo]] (os Tieflings), [[A Floresta de Elyndrial]], [[As Serpentinas de Zephyro]], [[A Cordilheira de Eremore]], [[O Mar de Elendil]], [[Angra da Fuligem]].
+- Hamada confirmado: **só feras, sem povos**.
+
+---
+
+## 2E — Sessão 31 · 2026-07-06 · Arquipélago de Hamada (megafauna)
+
+- **[[Arquipélago de Hamada]]** reescrito: o **"Monster Hunter" de Arcádia** — arquipélago de **criaturas colossais/megafauna**, destino da grande caça (expedições de [[Nalmartis]]); os nórdicos temem os monstros do mar e os maus presságios. Ligado às [[Terras Selvagens]] a oeste.
+- **Fauna ampliada:** [[Rok'Thala, o Monte Vivo]] (o colosso terrestre caçado) e [[Havgrim, o Terror das Brumas]] (o leviatã que apavora os nórdicos).
+
+---
+
 ## 2E — Sessão 30 · 2026-07-06 · Marcos geográficos + reconciliações
 
 **Roadmap Prioridade A iniciada — 14 marcos/locais descritos:**
