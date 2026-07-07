@@ -8,6 +8,38 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 55 · 2026-07-07 · +10 cidades (5º lote)
+
+Mais **10 cidades**, preenchendo reinos antes sem nenhuma nota de cidade: **Neblinéia** (a capital enevoada de Tempéstia), **Branuvik** (o santuário das völvas de Uhalla, cujos presságios escureceram com Mortemnis), **Isenholm** (a cidade humana de Kald Lundar, par de Doranherim no Lago Espelho de Eirinn), **Torval** (a capital de Drosskar à sombra de Velkrania), **Azhagoth** (a aldeia-pântano dos povos-lagarto em Krummag), **Mirograd** (a cidade-forja fechada de Zarkovith), **Sythria** (o limiar drow de Tenebria, porta para Dorfel), **Nosteria** (a cidade vampírica de Malachia, junto ao Vale dos Imortais), **Fortaleza de Luchen** (o baluarte de Yanare no Mar de Sangue) e **Delphos** (a cidade-oráculo de Androsa, aos pés do Monte Argon). Índice wikilinka as 10; links verificados. **Total: 50 cidades** nos cinco lotes.
+
+---
+
+## 2E — Sessão 54 · 2026-07-07 · +10 cidades secundárias (4º lote)
+
+Dez cidades **não-capitais**, todas amarradas a lore: **Gwar Penar** (o porto-mártir de Bruvia do Grande Saque de 2E 642, onde Tyr conheceu Trovark), **Kaermoria** (a fortaleza-escola dos caçadores de monstros de Valenos), **Troddar** (a Cidade-Mãe ritual dos centauros, de onde partiu o saque de Tarov), **Doranherim** (a cidade anã de Kald Lundar, no Lago Espelho de Eirinn), **Nyxoria** (a cidade-templo de Nyx em Draukar), **Vashkor** (a capital melancólica de Korvandor, sobre as Ruínas de Acrópolis), **Kagehara** (a cidade das sombras de Saewan, avesso de Ryokazu), **Jadelume** (a cidade-academia de jade de Yux-xai), **Ankhar** (a cidade-necrópole de Arenor, com Azhoros e a fronteira com a necromancia) e **Nova Aurelia** (a colônia-modelo livre de Auristania). Índice wikilinka as 10; links verificados. **Total: 40 cidades** nos quatro lotes.
+
+---
+
+## 2E — Sessão 53 · 2026-07-07 · +10 cidades (3º lote)
+
+Mais **10 cidades**: **Trovantis** (a capital mercantil de Normantis, agora corretamente em Sultaria), **Silvaruna** (a Valfenda de Myriandor, pilar do Conselho dos Três Reinos), **Lumenara** (a cidade de cristal dos gnomos, de onde subiu Vectaris), **Valenoria** (a capital dos caçadores de monstros de Valenos, com Kaermoria), **Kalanthir** (a capital anã de superfície de Kalinthor), **Pataluna** (a cidade felina de Felidaria, palco da Guerra das Presas), **Alfrjord** (o salão do Clã do Urso em Helvenmark, sob as Montanhas do Lamento), **Ulenthor** (o porto-saqueador do Clã do Lobo em Danevar), **Jahariyah** (a capital das guerreiras de Shebrevia) e **Fortis Legionis** (a cidade-legião de Auristania, a herdeira de Taurin que aboliu a escravidão). Índice wikilinka as 10; links verificados. **Total: 30 cidades** nos três lotes.
+
+---
+
+## 2E — Sessão 52 · 2026-07-07 · +10 cidades (2º lote)
+
+Mais **10 capitais**, de forte sabor cultural: **Osirium** (a cidade egípcia de pirâmides de Arenor, com os Sunari e a Esfinge), **Zafarabad** (o canato equestre de Khadira, junto à Lagoa das Luas), **Mycenas** (a cidadela ciclópica dos reis-guerreiros Tarko de Androsa, com o oráculo do Monte Argon), **Verdelar** (a Camelot encantada de Bretania, ligada a Sylvandor e ao Círculo de Ithar), **Sylvaryn** (a cidade-árvore de Halinor, lar dos meio-elfos e estopim da Guerra dos Meio-Elfos), **Thrallmar** (a fortaleza-acampamento orc de Durenor, nos Sertões de Orgrim), **Zyanara** (a cidade de seda e veneno de Yanare, no Mar de Sangue), **Cascoforte** (a capital pastoril dos taurens, nas Planícies do Touro Trovador), **Bugdai** (a cidade sobre a placa rochosa no Mar de Finareia navegável de Tapesh) e **Luminastra** (o reino-sol centralizado de Lovária, sobre a Savana de Katabau). Índice wikilinka as 10; links verificados. **Total: 20 cidades** nos dois lotes.
+
+---
+
+## 2E — Sessão 51 · 2026-07-07 · +10 cidades (capitais)
+
+Primeiro lote de **cidades** (Atlas/Localizações, subtipo cidade): **Damascena** (a cidade-templo de Uria, de onde Urien III lança a Invasão), **Nehrim** (a capital rachada de Draukar pós-guerra civil), **Bruma** (a cidade-academia enevoada de Vanov, sede do Conselho das Brumas), **Dun Khazâd** (o grande salão anão de Alta Rocha, tomado pelas profundezas em 2E 720), **Ryokazu** (a corte imperial de Saewan, aos pés do Monte Yuki), **Huanli** (a capital de jade de Yux-xai), **Solária** (a cidade mais antiga do mundo, coração dos Sunari, guardiã da profecia de Mortemnis), **Qalathir** (a metrópole-bazar de Habajj), **Nordvalen** (o salão do jarl de Tordenheim, na Baía de Agnar) e **Volenkov** (a fortaleza fechada de Zarkovith). Índice wikilinka as 10 capitais; links verificados.
+
+> ✅ **Coerência resolvida:** o Deivison confirmou que [[Normantis]] é de **Sultaria** (cidades-caravana mercantis, à la Marrocos). Corrigi os eventos 1E 235 (agora "mercadores erguem as cidades-livres em Sultaria") e 2E 268 (agora "conselho mercantil contra os nômades"), e a ficha [[Grifo de Arka]] (troquei Normantis por [[Bretania]] entre os criadores de cavaleiros-grifo de Aquilonia).
+
+---
+
 ## 2E — Sessão 50 · 2026-07-07 · +10 marcos (5º lote)
 
 Mais **10 marcos**, adensando florestas e serras: **A Floresta dos Sussurros** (o bosque que fala, em Bretania), **A Floresta da Luz Ardente** (folhagem incandescente de Bruvia), **As Cordilheiras de Eldoveth** (a muralha entre Uria e Myriandor, frente da Guerra de Contenção), **A Floresta de Narn** (bosque real de Elyria), **A Floresta do Cliffe Tortuoso** (o "bosque livre" dos fugitivos de Taurin), **Os Bosques de Lunaris** (campo de prova dos caçadores de monstros de Valenos), **As Montanhas de Ferro** (a forja dos Clãs do Lobo), **A Floresta de Velkrania** (as seiðr-völvas de Drosskar), **A Savana de Katabau** (o celeiro de Lovária) e **Os Desertos de Aresul** (o "mar dos mortos" de Haraban). Índice wikilinka os 10; links verificados. **Total: 49 marcos** nos cinco lotes.

@@ -25,7 +25,7 @@ Lembrada como a **"Era de Ouro dos Impérios"**, a Primeira Era vê a fundação
 	- ✦ **1E 178:** [[Elyria]] e [[Vanov]] firmam a **Concórdia Arcana** — saber mágico em troca de proteção.
 	- ✦ **1E 203:** elfos das [[Ilhas da Alvorada]] fundam [[Halinor]] e, mais tarde, [[Myriandor]], abrindo-se aos humanos — para desgosto dos puristas das Ilhas.
 	- ✦ **1E 217:** colonos élficos de [[Halinor]] fundam enclaves costeiros em [[Auroria - Continente Leste|Auroria]].
-	- ✦ **1E 235:** cavaleiros errantes fundam [[Normantis]] nas planícies centrais de [[Aquilonia - Continente Oeste|Aquilonia]].
+	- ✦ **1E 235:** mercadores e caravaneiros erguem as primeiras cidades-livres de [[Normantis]], nas rotas de [[Sultaria - Continente Sul|Sultaria]].
 	- ✦ **1E 246:** as cidades-estado de [[Tibéria]] florescem; consolida-se o culto do [[Panteão Tiberico]].
 	- ✦ **1E 289:** um cisma em [[Halinor]] exila os elfos que mais tarde fundarão [[Draukar]].
 	- ✦ **1E 296:** [[Habajj]] ergue-se como entreposto entre o oriente e o sul, no cruzamento das rotas.

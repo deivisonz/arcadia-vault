@@ -25,7 +25,7 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - ✦ **2E 227:** [[Yux-xai]] unifica-se sob uma única dinastia após décadas de guerra.
     - **2E 244:** rumores de uma **Guilda dos Assassinos** nas [[Mercantilhas]].
     - **2E 257:** **[[Garrok Dente Quebrado]]** unifica as tribos da [[União Ébano]] — o primeiro estado orc estável da história.
-    - ✦ **2E 268:** [[Normantis]] e [[Uria]] entram em atrito nas planícies centrais de [[Aquilonia - Continente Oeste|Aquilonia]].
+    - ✦ **2E 268:** as cidades-caravana de [[Normantis]] firmam um conselho mercantil comum contra os saques dos nômades do deserto.
     - ✦ **2E 283:** a **Sociedade dos Desbravadores** é fundada em [[Elyria]].
     - ✦ **2E 293:** colônias de [[Draukar]] e [[Elyria]] disputam as ilhas do [[O Mar Silencioso|Mar Silencioso]].
     - ✦ **2E 311:** a Escola de Magia de [[Elyria]] gradua a primeira geração de arquimagos humanos.
