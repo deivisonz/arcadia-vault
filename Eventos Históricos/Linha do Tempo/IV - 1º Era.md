@@ -1,24 +1,34 @@
-A Primeira Era é lembrada pela fundação de diversos dos reinos mais antigos de Arcádia, conhecido como a "Era de Ouro dos Impérios", com destaque para o grandioso Império de Taurin. Durante esse período, muitas regiões são reconstruídas após um grande cataclismo, trazendo esperança de tempos melhores.
+# IV — A Primeira Era
 
-Por quase um milênio, a Primeira Era chega ao fim com o colapso do maior império da época, devido a conspirações envolvendo os imperadores de Tarov, revoltas e, por fim, saques e invasões pelos centauros nômades.
+Lembrada como a **"Era de Ouro dos Impérios"**, a Primeira Era vê a fundação de muitos dos reinos mais antigos de Arcádia e a reconstrução das terras arrasadas pelo Cataclisma. Sobre todos ergue-se o grandioso **[[Taurin|Império de Taurin]]**. As [[Mercantilhas]] nascem sobre os escombros de Coralmar; anões e humanos estreitam laços no norte; reinos élficos e humanos florescem em [[Auroria - Continente Leste|Auroria]]; e novos poderes — [[Draukar]], [[Bruvia]], [[Uria]], [[Durenor]] — tomam forma. Por quase um milênio a era floresce, até ruir com o colapso de [[Taurin]].
 
-- ### **Primeira Era - 1E**
-	- **1E** 0: 
-	- **1E 25:** As **Mercantilhas** são fundadas sob os escombros da antiga Cidade Estado afundada pelo cataclisma de **Coralmar**.
-	- **1E** 42: A Guilda dos Mercadores é estabelecida nas **Mercantilhas**.
-	- **1E** 55: Doranherim é fundada em Kald Lundar, ao pé de uma das maiores montanhas do continente.
-	- **1E** 58: A primeira rota comercial entre Kald Lundar e o resto dos reinos nórdicos é formada.
-	- **1E** 77: Com a crescente interação entre humanos e anões em Kald Lundar, a cidade de Isenholm as margens do lago ametista.
-	- **1E 97:** Arlegis, o Sombra, um dos mais notórios ladrões de Arcádia, é acreditado ter fundado a Guilda dos Ladrões nas **Mercantilhas**.
-	- **1E 121:** A "Era de Ouro das Mercantilhas" começa, um período de grande crescimento econômico e político na região.
-	- **1E** 328: Fundação de **Draukar.**
-	- **1E** 512: O conflito entre as guildas das Mercantilhas atinge seu ponto mais alto, levando a uma guerra civil nas ilhas que dura cinco anos. A cidade central é devastada em batalhas navais, e o Sombra da Noite é finalmente revelado como o líder dos Ladrões.
-	- **1E** 516: A guerra civil nas Mercantilhas é encerrada com um acordo de paz mediado por acordo que garante poder e autonomia a cada uma das guildas locais em troca de cessarem os conflitos, a região se torna uma Republica Mercante.
-	- **1E 599:** O surgimento do "Conselho das Brumas" em Vanov, uma sociedade secreta de magos e sábios que busca preservar antigos conhecimentos místicos e proteger o mundo de ameaças desconhecidas.
-	- **1E** 698: A Rebelião de Elendor é derrotada e os clans de Orcs resistentes a expansão dos Brevar no norte são empurrados ao norte, para além da fenda.
-	- **1E** 702: Fundação de **Bruvia**.
-	- **1E** 728: Fundação de **Uria.**
-	- **1E** 799: Unificação dos Clans de **Durenor** por Gromash.
-	- **1E** 898: O imperador de Taurin, Minoxius III, é assassinado em uma conspiração elaborada envolvendo facções nobres e cultistas de Zafir. O império mergulha em um período de instabilidade e guerra civil.
-	- **1E** 975: Saque de Tarov pelos Centauros Nômades das Estepes.
-	- **1E** 977: Divisão do Império de **Taurin** entre **Tarov** e **Astarov**
+> Eventos marcados com **✦** são expansões recentes (status rascunho, a revisar).
+
+- ### Primeira Era — 1E
+	- **1E 25:** as [[Mercantilhas]] são fundadas sobre a afundada cidade de **Coralmar**.
+	- **1E 42:** a **Guilda dos Mercadores** é estabelecida nas [[Mercantilhas]].
+	- **1E 55:** **Doranherim** é fundada em [[Kald Lundar]].
+	- **1E 58:** primeira rota comercial entre [[Kald Lundar]] e os reinos nórdicos.
+	- **1E 77:** funda-se **Isenholm** às margens do lago Ametista, em [[Kald Lundar]].
+	- **1E 97:** **Arlegis, o Sombra** teria fundado a **Guilda dos Ladrões** nas [[Mercantilhas]].
+	- **1E 121:** começa a **"Era de Ouro das Mercantilhas"**.
+	- ✦ **1E 150:** [[Elyria]] consolida-se como o maior reino humano de [[Auroria - Continente Leste|Auroria]]; **Valyriath** torna-se a maior cidade do mundo conhecido.
+	- ✦ **1E 200:** elfos das [[Ilhas da Alvorada]] fundam [[Halinor]] e, mais tarde, [[Myriandor]], abrindo-se aos humanos — para desgosto dos puristas das Ilhas.
+	- ✦ **1E 250:** as cidades-estado de [[Tibéria]] florescem; consolida-se o culto do [[Panteão Tiberico]].
+	- **1E 328:** fundação de [[Draukar]], reino dos elfos negros.
+	- ✦ **1E 350:** [[Vanov]] formaliza-se como **magocracia** sob o Conselho de Magos.
+	- ✦ **1E 400:** [[Zarkovith]] ergue-se nos Planaltos de Ustengrav, célebre por suas forjas.
+	- ✦ **1E 450:** [[Kalinthor]] é fundada pelos anões que escolheram a superfície, rompendo com o isolamento de [[Alta Rocha]].
+	- **1E 512:** guerra civil entre as guildas das [[Mercantilhas]] devasta a cidade central.
+	- **1E 516:** encerra-se a guerra civil; as [[Mercantilhas]] tornam-se uma **República Mercante**.
+	- **1E 599:** surge o **Conselho das Brumas** em [[Vanov]], sociedade secreta de magos.
+	- ✦ **1E 600:** [[Cindra]] ergue sua sociedade vertical na Floresta de Elyndrial.
+	- ✦ **1E 650:** o [[Taurin|Império de Taurin]] atinge seu apogeu; a capital **Tarov** enche-se de arenas e mercados de escravos.
+	- **1E 698:** a **Rebelião de Elendor** é derrotada; clãs de orcs são empurrados além da Fenda (origem da [[União Ébano]]).
+	- **1E 702:** fundação de [[Bruvia]].
+	- **1E 728:** fundação de [[Uria]].
+	- **1E 799:** unificação dos clãs de [[Durenor]] por **Gromash**.
+	- **1E 898:** o imperador de [[Taurin]], **Minoxius III**, é assassinado por nobres e cultistas de [[Zafir]]; o império mergulha em guerra civil.
+	- ✦ **1E 950:** aproveitando o caos, [[Taurin]] toma as **Planícies do Touro Trovador** dos taurens de [[Taurenmar]].
+	- **1E 975:** **Saque de Tarov** pelos centauros nômades de [[Khanzia]].
+	- **1E 977:** **Fragmentação do [[Taurin|Império de Taurin]]** — o núcleo militar retém o nome **[[Taurin]]**; a metade cosmopolita torna-se **[[Auristania]]** ✦, que abole a escravidão.

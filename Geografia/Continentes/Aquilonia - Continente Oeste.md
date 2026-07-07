@@ -49,7 +49,7 @@ Os elfos dessa região são os mais fechados e suas cidades não são abertas ao
 **Cidades mais importantes:** Rivendrel, Galadrima, Eredwyn
 
 ##### Korvandor
-**Descrição:** Korvandor é uma região devastada à esquerda do Braço Catastrófico, que foi uma vez parte de um antigo império poderoso. Após um cataclisma, a região foi despedaçada e reduzida a algumas cidades e antigos fortes que sobreviveram ao desastre. Apesar de nunca ter retornado à sua glória passada, a região guarda segredos misteriosos e resquícios de sua rica história. Os destroços e ruínas contam histórias silenciosas de um passado grandioso, mas também oferecem oportunidades para exploradores e arqueólogos em busca de tesouros esquecidos.
+**Descrição:** Korvandor é uma região devastada à esquerda do Braço Partido, que foi uma vez parte de um antigo império poderoso. Após um cataclisma, a região foi despedaçada e reduzida a algumas cidades e antigos fortes que sobreviveram ao desastre. Apesar de nunca ter retornado à sua glória passada, a região guarda segredos misteriosos e resquícios de sua rica história. Os destroços e ruínas contam histórias silenciosas de um passado grandioso, mas também oferecem oportunidades para exploradores e arqueólogos em busca de tesouros esquecidos.
 **Cidades mais importantes:** Vashkor (Capital), Eregath 
 ##### Lenaria
 **Descrição:** 

@@ -1,20 +1,17 @@
-Na Era das Trevas, Arcádia mergulha em um abismo sombrio e sinistro. Após o rompimento de compartimentos selados em Alta Rocha, os últimos anões são obrigados a abandonar sua cidade natal. Um longo inverno assola Borealis, enquanto os primeiros vampiros emergem, ligados aos ciclos da lua Selene.
+# III — A Era das Trevas
 
-A ascensão da seita "Escamas de Draknovir" cultua o dragão colosso, aguardando sua volta para trazer equilíbrio. Aproximando-se de Arcádia, a lua rubra Selene intensifica o poder dos vampiros.
+Após o Cataclisma, Arcádia mergulha num abismo sombrio. Compartimentos selados em [[Alta Rocha]] se rompem, e os últimos anões abandonam sua cidade natal. Um longo inverno assola [[Borealis - Continente Norte|Borealis]], surgem os primeiros **vampiros** ligados aos ciclos de **[[Selene]]**, e a seita **[[Culto aos Dragões|Escamas de Draknovir]]** passa a cultuar o colosso adormecido. Após séculos de desolação, a **Confraria da Rocha Eterna** retoma [[Alta Rocha]]; mas [[Draknovir]] desperta e lança ataques devastadores, até ser destruído por heróis na batalha do [[O Braço Partido|Braço Partido]] — encerrando a era com uma vitória sombria.
 
-Após séculos de desolação, a Confraria da Rocha Eterna emerge, retomando os salões de Alta Rocha e iniciando a reconstrução. No auge da escuridão, Draknovir, o Asas Rubra, desperta de seu sono milenar e lança ataques devastadores. Porém, bravos heróis se unem na batalha do Braço Partido, destruindo o último dos Dragões Colossais e pondo fim à ameaça, encerrando a Era das Trevas com uma vitória sombria e definitiva.
-
-- ### A Era das Trevas - ET
-    - **ET** 0:
-    - **ET** 7: Após o rompimento de compartimentos a muito selados nas profundezas de Alta Rocha, a ultima resistência de anões deixa sua cidade natal.
-    - **ET** 28: Início do longo inverno de **Borealis**.
-    - **ET** 32: Os primeiros vampiros surgem, ligados aos ciclos da lua Selene.
-    - **ET:** 33 Uma série de tempestades e avalanches irrompem da Coroa de Gelo, varrendo diversas tribos ao sul, Solheimr é soterrada, se tornando um enorme cemitério. A região passa a receber o nome de Draugrhotar.
-    - **ET** 77: Uma seita chamada "Escamas de Draknovir" é formada, cultuando o dragão colosso como uma entidade divina e aguardando seu retorno para trazer um novo equilíbrio a Arcádia.
-    - **ET** 134: **Selene**, a lua rubra, atinge sua maior proximidade de Arcádia em milênios, aumentando o poder dos vampiros.
-    - **ET** 272: Fim do longo inverno em **Borealis**.
-    - **ET** 280: Kald Lundar é fundada com a migração dos anões outrora destituídos de seu lar ancestral.
-    - **ET** 295: **Mortemnis**, a Lua dos Presságios Sombrios desaparece nos céus de Arcádia.
-    - **ET** 300: A Confraria da Rocha Eterna é firmada, os salões de Alta Rocha são retomados e começa sua reconstrução.
-    - **ET** 323: Draknovir, o Asas Rubra, acorda de seu sono milenar, surgindo das profundezas da Espinha do Mundo e inicia uma série de ataques devastadores a diversas regiões de Arcádia.
-    - **ET** 333: Na batalha do Braço Partido, muitos heróis de Arcádia se unem para enfrentar Draknovir, o último dos Dragões Colossais acordados, e conseguem destruí-lo, pondo fim à ameaça que pairava sobre a região.
+- ### A Era das Trevas — ET
+    - **ET 7:** rompidos os compartimentos selados, a última resistência anã deixa [[Alta Rocha]].
+    - **ET 28:** início do longo inverno de [[Borealis - Continente Norte|Borealis]].
+    - **ET 32:** surgem os primeiros **vampiros**, ligados aos ciclos de [[Selene]].
+    - **ET 33:** tempestades e avalanches soterram **Solheimr**, que passa a se chamar [[Draugrhotar]] — um imenso cemitério.
+    - **ET 77:** forma-se a seita [[Culto aos Dragões|Escamas de Draknovir]], que cultua o dragão como divindade.
+    - **ET 134:** [[Selene]], a lua rubra, atinge sua maior proximidade em milênios, ampliando o poder dos vampiros.
+    - **ET 272:** fim do longo inverno em [[Borealis - Continente Norte|Borealis]].
+    - **ET 280:** fundação de [[Kald Lundar]] pelos anões destituídos de [[Alta Rocha]].
+    - **ET 295:** [[Mortemnis]] desaparece dos céus de Arcádia.
+    - **ET 300:** firma-se a **Confraria da Rocha Eterna**; [[Alta Rocha]] é retomada e reconstruída.
+    - **ET 323:** [[Draknovir]] desperta da Espinha do Mundo e devasta diversas regiões.
+    - **ET 333:** na **batalha do [[O Braço Partido|Braço Partido]]**, heróis de Arcádia destroem [[Draknovir]], o último Dragão Colossal, pondo fim à ameaça.

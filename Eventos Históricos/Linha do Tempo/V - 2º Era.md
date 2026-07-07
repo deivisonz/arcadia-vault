@@ -1,26 +1,44 @@
-Durante a Segunda Era, o mundo foi palco de tumultos e transformações marcantes. Inúmeras guerras irromperam, guildas e reinos ascenderam, e novos dogmas e seitas surgiram. Quase dois milênios após a Revoada Dracônica, uma grande descoberta abalou o continente de Drakavir.
+# V — A Segunda Era
 
-Contudo, tempos sombrios se aproximam com o retorno ameaçador de Mortemnis, a Lua dos Presságios Sombrios, nos céus de Arcádia. Diante desses eventos, quais perigos esta era haverá de testemunhar? Serão aqueles que vivem heróis vitoriosos, ou vítimas de desafios temíveis? O destino do mundo pende em um equilíbrio frágil, e somente o curso dos acontecimentos poderá revelar quem triunfará ou sucumbirá perante a escuridão iminente.
+A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e seitas. O expansionismo de [[Uria]] incendeia [[Aquilonia - Continente Oeste|Aquilonia]]; a [[Igreja de Vohzro]] converte [[Malachia]] em teocracia; os nórdicos assolam [[Bruvia]]; e o retorno de **[[Mortemnis]]** anuncia tempos sombrios.
 
-- ### **Segunda Era - 2E**
-    - **2E 60:** As **Mercantilhas** são palco da **Revolta Contrabandista**, uma tentativa fracassada de derrubar a Guilda dos Mercadores. O evento marca a primeira grande divisão entre as guildas locais.
-    - **2E 175:** O **Pacto das Mercantilhas** é firmado entre as guildas locais, formalizando sua cooperação e divisão de poder. O pacto ainda é a base para o governo da região.
-    - **2E 244:** Rumores de uma "Guilda dos Assassinos" nas Mercantilhas começam a surgir após a morte misteriosa de diversos líderes das guildas locais.
-    - **2E** 257: **Garrok Dente Quebrado**, um Orc de **Rogamesh**, unifica as tribos de Orcs do norte de e estabelece um estado estável pela primeira vez na história orc.
-    - **2E** 526: A Rainha Emeline, A última monarca de Malachia é forçada a ceder ao Sacro Corvo, figura máximo do culto de Vohzro, e Malachia adota o sistema de governo Teocrático.
-    - **2E** 532 O Conflito dos Credos acontece, a igreja de Vohzro se torna a única religião permitida em Malachia.
-    - **2E** 582: **Draukar** é devastada pela guerra civil, fragmentando-se em várias facções menores.
-    - **2E** 585: O reino de **Uria** lança uma grande campanha militar para tentar tomar o controle de Aquilonia, resultando em uma guerra prolongada e devastadora conhecida como a "**Invasão Uriana**".
-    - **2E** 588: **Uria** inicia sua expansão ao Norte e Oeste, tomando territórios de **Taudrisía**, **Anathemar** e **Lenaria** resultando em um acordo de paz forçado, onde os derrotados deveram aceitar o livre acesso de tropas **Urianas** em seus dominios.
-    - **2E** 590: **Uria** toma parte dos territórios mais ao nordeste de **Draukar**.
-    - **2E** 592: Uma grande aliança conhecida pelo nome de O "Conselho dos Três Reinos" é formada por **Draukar**, **Durenor**, e **Myriandor** para conter a expansão agressiva de **Uria**. A Guerra de Contenção tem início, e embates sangrentos são travados em diversas fronteiras.
-    - **2E** 598: Acontecem as primeiras incursões nórdicas a Bruvia.
-    - **2E** 642: O Grande Saque de Gwar Penar.
-    - **2E** 677 Com o aumento da opressão pela igreja de Vohzro, a Ordem dos Silenciados é fundada, sua liderança no entanto permanece desconhecida.
-    - **2E** 680: Os Silenciados tentam um levante contra a Igreja de Vohzro, mas são suprimidos brutalmente. O Sacro Corvo aumenta as perseguições religiosas. Dominus IV ganha relevância no Sacerdócio de Vohzro.
-    - **2E** 684: Nasce Lucila, a "Dama do Mar", que se torna a mais influente comerciante e política das Mercantilhas. A sua influência ainda molda a política local.
-    - **2E** 688: Ascensão de Dominus IV a posição de Sacro Corvo.
-    - **2E** 670: A "Grande Perseguição" ocorre em Malachia, liderada pela Igreja de Vohzro com a intenção de erradicar qualquer oposição ou dissidência religiosa. Os Silenciados são caçados impiedosamente, resultando em uma onda de exílios e execuções.
-    - **2E** 702: A descoberta do continente **Sudoeste**, e o início da grande exploração, comandada pelos aventureiros do reino de **Draukar**.
-    - **2E** 718: Acontecimentos Atuais, **Mortemnis**, a Lua dos Presságios Sombrios aparece mais uma vez nos céus de Arcádia.
-    - **2E 720:** A cidade de **Alta Rocha** é invadida por uma horda de criaturas monstruosas vindas das profundezas da Terra em fendas dimensionais. A cidade fica em ruínas e é abandonada pelos anões.
+> Eventos marcados com **✦** são expansões recentes (status rascunho, a revisar).
+
+- ### Segunda Era — 2E
+    - ✦ **2E 50:** após séculos de guerras entre clãs, as quatro ilhas de [[Saewan]] unificam-se sob um **Imperador**.
+    - **2E 60:** a **Revolta Contrabandista** nas [[Mercantilhas]].
+    - ✦ **2E 100:** [[Habajj]] firma-se como o maior entreposto de escravos e especiarias do oriente.
+    - ✦ **2E 150:** os centauros de [[Khanzia]] retomam grandes saques às fronteiras orientais de [[Auroria - Continente Leste|Auroria]].
+    - **2E 175:** o **Pacto das Mercantilhas** divide o poder entre as guildas.
+    - **2E 244:** rumores de uma **Guilda dos Assassinos** nas [[Mercantilhas]].
+    - **2E 257:** **[[Garrok Dente Quebrado]]** unifica as tribos da [[União Ébano]] — o primeiro estado orc estável da história.
+    - ✦ **2E 350:** a queda de meteoros mágicos ergue a primeira **ilha flutuante** (Vectaris) em [[Lumeneria]].
+    - ✦ **2E 400:** o Chefe de Guerra **Ghorzuk** unifica os orcs e hobgoblins de [[Kharzug]].
+    - ✦ **2E 450:** invernos implacáveis forçam o abandono de [[Kald Jotun]]; os sobreviventes migram para [[Drosskar]].
+    - ✦ **2E 500:** [[Alta Rocha]] fecha-se sobre si mesma, emergindo apenas contra ameaças diretas.
+    - **2E 526:** a Rainha **Emeline** cede ao **Sacro Corvo**; [[Malachia]] torna-se teocracia da [[Igreja de Vohzro]].
+    - **2E 532:** o **Conflito dos Credos** — a [[Igreja de Vohzro]] torna-se a única fé permitida em [[Malachia]].
+    - ✦ **2E 550:** [[Arenor]] e [[Lovaria|Lovária]] disputam as terras férteis e as rotas de [[Haraban]], em [[Sultaria - Continente Sul|Sultaria]].
+    - **2E 582:** [[Draukar]] é devastada por guerra civil, fragmentando-se em facções.
+    - **2E 585:** [[Uria]] lança a **Invasão Uriana** sobre [[Aquilonia - Continente Oeste|Aquilonia]].
+    - **2E 588:** [[Uria]] toma territórios de [[Taudrisia|Taudrisía]], [[Anathemar]] e [[Lenaria]].
+    - **2E 590:** [[Uria]] toma o nordeste de [[Draukar]].
+    - **2E 592:** forma-se o **Conselho dos Três Reinos** ([[Draukar]], [[Durenor]], [[Myriandor]]); começa a **Guerra de Contenção** contra [[Uria]].
+    - **2E 598:** primeiras incursões nórdicas a [[Bruvia]] (de [[Danevar]] e [[Tordenheim]]).
+    - ✦ **2E 600:** [[Xea'yasha]] unifica os goblinoides do sul e ameaça as tribos de [[Zawadi]].
+    - **2E 642:** o **Grande Saque de Gwar Penar**, em [[Bruvia]].
+    - ✦ **2E 650:** [[Valenos]] incorpora **Serraguarda**; a Escola de Caçadores de Monstros de **Kaermoria** ganha fama.
+    - **2E 670:** a **Grande Perseguição** em [[Malachia]].
+    - **2E 677:** funda-se a clandestina **[[Ordem dos Silenciados]]**.
+    - **2E 680:** os Silenciados tentam um levante, reprimido; **Dominus IV** ascende.
+    - **2E 684:** nasce **Lucila, a "Dama do Mar"**.
+    - **2E 688:** **Dominus IV** torna-se **Sacro Corvo**.
+    - ✦ **2E 690:** [[Trovark Thoraldsson|Trovark]] mata um dragão do gelo na montanha mais alta das Skaldlands e **torna-se um dragão branco**.
+    - ✦ **2E 695:** a antiga companhia ([[Ragnar Thorn]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis]]) derrota [[Aldric Thorn]] e frustra a **primeira Maré de [[Nihiloth]]**.
+    - ✦ **2E 700:** [[Ragnar Thorn]], o príncipe perdido, herda o trono de [[Bruvia]]; os elfos errantes de [[Lottus Ignis|Lottus]] assentam-se em Bruvia e no norte ([[Helvenmark]]).
+    - ✦ **2E 700:** o Chefe de Guerra **Kargath Mão de Lâmina** mantém a tênue união das tribos de [[Durenor]].
+    - **2E 702:** descoberta do continente **Sudoeste**; exploração comandada por [[Draukar]].
+    - ✦ **2E 705:** [[Lottus Ignis]], após a dissolução de sua antiga companhia, toma [[Faeloria]] e inicia o expurgo dos meio-elfos.
+    - ✦ **2E 710:** [[Bruvia]] reforça muralhas e fortalezas contra as incursões nórdicas crescentes.
+    - **2E 718:** **acontecimentos atuais** — [[Mortemnis]] reaparece nos céus.
+    - **2E 720:** [[Alta Rocha]] é invadida por criaturas das profundezas e abandonada.

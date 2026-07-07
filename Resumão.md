@@ -18,7 +18,7 @@ A história de Arcádia é repleta de reinos e impérios que ascenderam, se frag
 - **Uso Extremo de Magia**: Leis referentes à segurança mágica eram rígidas; experimentos ou conjurações acima de certos níveis requeriam autorização expressa do Conclave.
 
 ### 2. Império de Korvandrin
-- Surgiu na região do **Braço Quebrado** (ou “Braço Catastrófico”).  
+- Surgiu na região do **Braço Partido** (ou “Braço Partido”).  
 - Entrou em conflito direto com o Império de Azurian, sendo alvo de poderosas **magias** que pretendiam apenas afundar sua capital, porém acabaram causando estragos ainda maiores.  
 - Após esses eventos, **jamais recuperou** sua antiga pujança.
 - **Monarquia Militarista**: Governado por um **Rei-Imperador**, visto como líder supremo e “Protetor” do império.
@@ -42,33 +42,33 @@ A história de Arcádia é repleta de reinos e impérios que ascenderam, se frag
 - Considerado o maior império da **Primeira Era**, descrita como a “Era de Ouro dos Impérios”.
 - No auge, adotava um **regime híbrido**: a autoridade suprema do Imperador era equilibrada pela presença de **dois Cônsules**, responsáveis pela administração cotidiana e pela formulação de leis.
 - Teve um **grande colapso** em torno de 1E 900–977, causado por conspirações internas, revoltas populares e ataques de grupos nômades (centauros).  
-- Desmembrou-se principalmente em **Tarov** e **Astarov** cada qual herdando traços distintos do antigo governo.
+- Desmembrou-se principalmente em **Taurin** (o núcleo militar, que reteve o nome) e **Auristania** (a metade cosmopolita), cada qual herdando traços distintos do antigo governo.
 
 ---
 
 ## Impérios Derivados ou Fragmentados
 
-### 5. Taurov
+### 5. Taurin
 - Um dos maiores sucessores do antigo Império de Taurin, habitado majoritariamente por **minotauros**.  
 - **Manteve apenas o Imperador** na estrutura de poder, eliminando o papel dos Cônsules.  
 - Mantém a prática de **escravidão** (raças de diferentes origens são subjugadas).  
 - Possui forte tradição militar e inúmeros conflitos territoriais.
-- **Principal Herdeiro Militar de Taurin**: Após o colapso do velho império, Tarov assumiu grande parte do exército e tradições bélicas, herdando o espírito marcial dos antigos governantes. 
-- **Governo Unificado sob o Imperador**: Os líderes minotauros de Tarov decidiram **abolir o sistema de dois Cônsules**, julgando-o fraco diante das ameaças externas e das revoltas internas. Apenas o **Imperador** permanece como autoridade máxima, sustentado por generais leais e uma corte nobre robusta.
+- **Principal Herdeiro Militar de Taurin**: Após o colapso do velho império, Taurin assumiu grande parte do exército e tradições bélicas, herdando o espírito marcial dos antigos governantes. 
+- **Governo Unificado sob o Imperador**: Os líderes minotauros de Taurin decidiram **abolir o sistema de dois Cônsules**, julgando-o fraco diante das ameaças externas e das revoltas internas. Apenas o **Imperador** permanece como autoridade máxima, sustentado por generais leais e uma corte nobre robusta.
 - **Sociedade Escravista e Hierárquica**: Diversas raças são subjugadas, e a escravidão é tida como base econômica, com trabalhos forçados em minas, fazendas e grandes obras públicas. A crença predominante é de que o forte deve subjugar o fraco, reforçando a pirâmide social.
-- **Conflitos Fronteiriços Constantes**: Para Tarov, a expansão ou a defesa agressiva de suas fronteiras é algo natural, levando a sucessivos confrontos territoriais. Povos vizinhos se unem ou pagam tributos para evitar investidas militares.
-- **Honra, Disciplina e Força**: O conceito de honra minotauro foca em combates justos e força bruta. Desafios pessoais e rituais de arena são comuns, reforçando a reputação de Tarov como uma nação formidável nos campos de batalha.
+- **Conflitos Fronteiriços Constantes**: Para Taurin, a expansão ou a defesa agressiva de suas fronteiras é algo natural, levando a sucessivos confrontos territoriais. Povos vizinhos se unem ou pagam tributos para evitar investidas militares.
+- **Honra, Disciplina e Força**: O conceito de honra minotauro foca em combates justos e força bruta. Desafios pessoais e rituais de arena são comuns, reforçando a reputação de Taurin como uma nação formidável nos campos de batalha.
 
 ### 6. Auristania
 - Outro herdeiro de Taurin, porém **abriu mão da escravidão**.  
 - Tornou-se mais **cosmopolita**, recebendo apoio de outros impérios para se manter estável.  
 - **Substituiu a figura do Imperador por um modelo exclusivamente consular**, ressaltando a administração colegiada.  
-- Não é tão militarista quanto Tarov, mas ainda exerce grande influência política na região de Auroria.
-- **Legado Cultural de Taurin**: Em contraste com Tarov, Astarov adotou as heranças administrativas do antigo império, buscando **preservar leis, artes e avanços civilizatórios**.
+- Não é tão militarista quanto Taurin, mas ainda exerce grande influência política na região de Auroria.
+- **Legado Cultural de Taurin**: Em contraste com Taurin, Auristania adotou as heranças administrativas do antigo império, buscando **preservar leis, artes e avanços civilizatórios**.
 - **Administração Consular**: Ao extinguir a figura do Imperador, criou-se um **modelo de governo exclusivamente consular**, onde dois Cônsules eleitos (e possíveis adjuntos) compartilham o poder, garantindo um balanceamento de decisões e reduzindo o risco de tirania. 
-- **Abandono da Escravidão**: Astarov baniu completamente a prática escravista, considerando-a retrógrada. Passou a fomentar relações diplomáticas e comerciais com reinos abolicionistas, obtendo **apoio internacional** e desenvolvendo mercados internos de mão de obra livre.
+- **Abandono da Escravidão**: Auristania baniu completamente a prática escravista, considerando-a retrógrada. Passou a fomentar relações diplomáticas e comerciais com reinos abolicionistas, obtendo **apoio internacional** e desenvolvendo mercados internos de mão de obra livre.
 - **Cosmopolitismo e Diplomacia**: Aberto a intercâmbio cultural, recebe estudiosos, mercadores e refugiados de diversos locais. Em vez de investir em guerras, **prefere alianças** e acordos de cooperação, consolidando-se como uma força política de peso na região. 
-- **Influência em Auroria**: Mesmo não sendo tão militarista quanto Tarov, o sucesso econômico e a rede de alianças de Astarov o tornaram um pilar na política oriental. Sua diplomacia e políticas de acolhimento atraem muitos povos, fortalecendo sua legitimidade e tornando-o um contraponto progressista à expansão violenta de Tarov.
+- **Influência em Auroria**: Mesmo não sendo tão militarista quanto Taurin, o sucesso econômico e a rede de alianças de Auristania o tornaram um pilar na política oriental. Sua diplomacia e políticas de acolhimento atraem muitos povos, fortalecendo sua legitimidade e tornando-o um contraponto progressista à expansão violenta de Taurin.
 
 
 ---

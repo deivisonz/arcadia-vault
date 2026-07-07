@@ -56,6 +56,15 @@ Referências já estabelecidas:
 > [!note] Ao expandir, sempre declarar a referência
 > Se a referência de um elemento ainda não estiver definida, eu proponho uma antes de escrever.
 
+## Glossário canônico (grafias oficiais)
+
+Decisões travadas — usar sempre estas grafias:
+
+- **Taurin** — o grande império da Primeira Era **e** seu núcleo militar/escravista que reteve o nome após a fragmentação (como no mapa). (❌ não usar "Tarov" nem "Taurov".)
+- **Auristania** — herdeiro cosmopolita de Taurin. (❌ não usar "Astarov".)
+- **O Braço Partido** — o estreito entre [[Korvandor]] e [[Tibéria]]. (❌ não usar "Braço Catastrófico" nem "Braço Quebrado".)
+- **A Espinha do Mundo** — a grande cordilheira que divide Auroria (Ocidente/Oriente).
+
 ## Templates disponíveis
 
 Em [[Templates]]: Reino & Império · Cultura & Povo · Divindade · Personalidade · Localização · Organização & Ordem · Ancestralidade · Cosmologia.

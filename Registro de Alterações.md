@@ -8,6 +8,246 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 19 · 2026-07-06 · Nihiloth + raças do bando
+
+- Mundo invasor **renomeado: Malruun → [[Nihiloth]]** (todas as referências atualizadas; `Malruun.md` virou redirect a apagar).
+- Raças do bando de ladrões definidas: [[Névoa]] (**felina**, de [[Felidaria]]), [[Sorrateiro]] (**halfling**), [[Krigg]] (**goblin** trapaceiro).
+
+---
+
+## 2E — Sessão 18 · 2026-07-06 · Vandria (vampiros) + Malruun (invasor)
+
+- **[[Vandria]]** reescrita: agora é a **dimensão oculta dos vampiros**, o "Reino Rubro" ligado a [[Selene]] — de onde os vampiros saíram na Era das Trevas (ET 32).
+- O mundo invasor foi **renomeado para [[Malruun]]**, "O Mundo que Devora" (+ Vhorruun, o Faminto), ligado a [[Mortemnis]] e à profecia de [[Yverius]].
+- Referências atualizadas: [[Aldric Thorn]], [[Ragnar Thorn]], [[Lottus Ignis]] e a timeline agora citam **Malruun**.
+- Novo: **[[Samael]]** — senhor vampírico ancestral de Vandria.
+
+**A refinar (✦):** nome final de Malruun/Vhorruun; as casas vampíricas de Vandria.
+
+---
+
+## 2E — Sessão 17 · 2026-07-06 · Saga da Companhia + pontas soltas resolvidas
+
+**Decisões canônicas (pontas soltas):**
+- [[Auristania]]: governo **consular** (fixado).
+- Drows: vivem em **[[Tenebria]]** e ao longo da **[[A Espinha do Mundo|Espinha do Mundo]]**; [[Dorfel]] é sua cidadela.
+- [[Yanare]]: o **Mar de Sangue** fica no limite leste-central do mundo (fronteira com [[Khadira]]).
+- [[Duren IV]]: corrigido para **rei de [[Alta Rocha]]** (não Durenor orc).
+- [[Análise do Mapa]] atualizada (itens 4 e 5 resolvidos).
+
+**A Saga da Companhia (novo arco central):**
+- [[Ragnar Thorn]] reescrito: príncipe caçula escondido, criado plebeu por [[O Prior]], capturado pelos nórdicos, cresce com Trovark, derrota o irmão e herda [[Bruvia]].
+- [[Trovark Thoraldsson]]: matou um dragão do gelo e **tornou-se um dragão branco** (machado de duas mãos).
+- [[Lottus Ignis]]: líder de um povo élfico errante que vira tirano de [[Faeloria]].
+- **Novos:** [[Aldric Thorn]] (irmão vilão, pactuário), [[O Prior]] (mentor).
+- **Novo mundo-ameaça:** [[Vandria]], "O Mundo que Devora" (+ Vhorruun, o Faminto) — invasão original amarrada a [[Mortemnis]] e à profecia de [[Yverius]]. Preencheu o plano [[Vandria]] antes vazio.
+- [[Helvenmark]] e a timeline (2E 690–700) ligados à saga.
+
+**A refinar (✦):** nomes finais (Aldric, Vandria/Vhorruun, o Prior); a terra natal perdida dos elfos de Lottus.
+
+---
+
+## 2E — Sessão 16 · 2026-07-06 · Personagens (lote 1) + contos
+
+**Discussão fechada:** figuras de mundo + protagonistas · épocas mistas · fichas narrativas · misto (você define principais, eu proponho secundários).
+
+**13 fichas de personagem (status rascunho), a partir dos seus briefings + dos [[Contos de Arcadia]]/[[Contos Arcadianos]]:**
+- **A antiga companhia:** [[Ragnar Thorn]] (rei-paladino de [[Bruvia]]), [[Trovark Thoraldsson]] (bárbaro ascendido ao deus [[Trovark]]), [[Lottus Ignis]] (tirano de [[Faeloria]]).
+- **Norte:** [[Tyr Skaldsson]] (skald cronista, guarda um agouro sobre Trovark).
+- **Enredo:** [[Yverius]] (arquimago de [[Vanov]] que descobre a profecia da Terceira Lua).
+- **Trama de Taurin:** [[Carlos Brewdery]] (casa apagada), [[General Leodax]] (decretou o apagamento), [[Duren IV]] (rei anão forçado a obedecer), [[Alésia Khravort]] ([[Mercantilhas]]).
+- **Ladrões:** [[Névoa]], [[Sorrateiro]], [[Krigg]].
+- **Mago:** [[Hardly Mersk]] (teleporte).
+
+**Ajuste de consistência:** queda de [[Faeloria]] movida de 2E 300 → **2E 705** (para Lottus ser contemporâneo de Ragnar).
+
+**⚠️ Conflitos a resolver (dos contos):**
+- **Durenor:** os contos têm um Durenor **anão** (rei [[Duren IV]], canal de Balutar, Auroria); o mapa tem Durenor **orc** (Aquilonia). Dois lugares? Renomear?
+- **Elíria/Helíria** (conto) vs [[Elyria]] (mapa) — mesmo reino ou distinto?
+- Novos elementos de lore a fichar: reino de **Thirond** (antigo, anão), **Elíria**, canal de **Balutar**, as **Senhoras da Tundra**.
+
+---
+
+## 2E — Sessão 15 · 2026-07-06 · Fase 2 — Fichas faltantes preenchidas
+
+**Reinos:**
+- **Califado de Al-Qasar** — ficha criada (califado do deserto, Sheik Supremo).
+- [[Tenebria]] — desenvolvida (reino gótico de penumbra perpétua, culto a [[Nyx]]).
+- [[Uhalla]] — desenvolvida (clã nórdico de skalds e völvas, guardiães das sagas).
+- [[Terras Ardilosas]] — desenvolvida (ermos sem lei de gnomos, kobolds e fadas trapaceiras).
+
+**Lore antes só referenciada:**
+- [[Vohzro]] — deus da ordem e do silêncio (+ adicionado a [[Deidades Transversais]]).
+- [[Ordem dos Silenciados]] — resistência clandestina anti-Vohzro.
+- [[Forte Draconia]] — fortaleza dos Caçadores de Dragões.
+- [[Invernalto]] — cidade-fortaleza de [[Bruvia]] na Cordilheira de Eremore.
+
+Conteúdo inédito marcado com ✦. Todas com seção "Eventos históricos" ligada à timeline.
+
+**Fase 2 restante (fios ⚠️):** governo de [[Auristania]]; localização dos drows ([[Dorfel]]); o mar de [[Yanare]].
+
+---
+
+## 2E — Sessão 14 · 2026-07-06 · Expansão da timeline + elo fichas↔história
+
+**Expansão (Primeira e Segunda Era):** ~23 eventos inéditos (✦) dando história a reinos que não tinham nenhuma — [[Elyria]], [[Vanov]], [[Zarkovith]], [[Kalinthor]], [[Cindra]], [[Tibéria]], [[Saewan]], [[Habajj]], [[Khanzia]], [[Faeloria]], [[Lumeneria]], [[Kharzug]], [[Kald Jotun]], [[Arenor]]/[[Lovaria|Lovária]], [[Xea'yasha]], [[Valenos]], [[Durenor]], [[Taurenmar]] e mais.
+
+**Elo bidirecional:** adicionada a seção **"#### Eventos históricos"** em **68 fichas** (reinos, ordens, organizações), ligando cada uma à [[Linha do Tempo]]. Os eventos que citam a nota já aparecem nos **backlinks** do Obsidian — mecanismo que se atualiza sozinho conforme a timeline cresce.
+
+**A revisar:** os eventos ✦ são rascunhos meus (datas e fatos inventados de forma coerente com a lore).
+**Próxima expansão possível:** detalhar guerras (Contenção, Invasão Uriana, Revoada Draconiana) e dar história às eras iniciais para mais reinos.
+
+---
+
+## 2E — Sessão 13 · 2026-07-06 · Linha do Tempo consolidada + interligada
+
+- As **5 eras** ([[I - A Era das Lendas|Lendas]] → [[V - 2º Era|2ª Era]]) reescritas com **wikilinks** em todos os reinos, impérios, deuses, personagens e eventos.
+- Integrados à timeline eventos que estavam soltos nas fichas (fundações, guerras, cismas religiosos, ascensões).
+- Nomenclatura aplicada: Fragmentação de Taurin → **Taurin** + **Auristania** (1E 977); batalha do **Braço Partido** (ET 333).
+- Eventos inéditos meus marcados com **✦** (ex.: chegada dos Três Dragões / morte da Árvore Mãe no fim da Era das Lendas).
+- Personagens ligados: [[Garrok Dente Quebrado]] (2E 257), Gromash, Minoxius III, Emeline, Dominus IV, Lucila, Arlegis.
+
+**Sugestão de expansão futura (a propor):** detalhar guerras específicas (Guerra de Contenção, Invasão Uriana), a Revoada Draconiana e a Grande Guerra contra os dragões.
+
+---
+
+## 2E — Sessão 12 · 2026-07-06 · Ordens Religiosas (Religião completa)
+
+**3 ordens escritas (status rascunho):**
+- [[Culto aos Dragões]] (Escamas de Draknovir) — culto clandestino ao [[Draknovir]], aguardando seu retorno.
+- [[Igreja de Vohzro]] — teocracia inquisitorial de [[Malachia]], o Sacro Corvo.
+- [[Sylvanismo]] — druidismo naturalista ligado a [[Elysia]]/[[Xaya]] e à Dragoa Verde.
+
+**Categoria Religião: COMPLETA** (panteões + divindades + ordens).
+
+**Fios abertos (opcionais):** ficha do deus **Vohzro**; ficha da **Ordem dos Silenciados** (resistência anti-Vohzro).
+
+---
+
+## 2E — Sessão 11 · 2026-07-06 · Divindades restantes (categoria fechada)
+
+**7 divindades escritas (status rascunho):**
+- Celestiais: [[Luna]] (noite/sonhos), [[Selene]] (lua rubra/vampiros), [[Nyx]] (escuridão primordial).
+- Raciais: [[Tohrum]] (forja/anões), [[Baelrok]] (guerra/sangue/orcs).
+- Regional: [[Azhoros]] (tumbas/deserto de Arenor).
+- Entidade divinizada: [[Draknovir]] (o dragão colosso — deus falso do [[Culto aos Dragões]]).
+- Criada a nota-índice [[Deidades Transversais]] agrupando-as.
+
+**Categoria Divindades: COMPLETA** (3 panteões + transversais).
+
+**⚠️ Ponto a decidir (nomes duplicados):** [[Luna]] e [[Selene]] existem como *divindade* e como *corpo celeste* (Astrologia) — arquivos homônimos. Opções: unificar cada par numa nota só, ou renomear os corpos celestes (ex.: "Luna (lua)").
+
+---
+
+## 2E — Sessão 10 · 2026-07-06 · Índice Toponímico — mapa inteiro
+
+- [[Índice Toponímico]] **completo**: Auroria, Borealis, Sultaria e Drakavir catalogados (além de Aquilonia). Centenas de topônimos por continente.
+- **Confirmação de nomenclatura pelo mapa:** região **Taurin** com capital-cidade **Tarov**; **Auristania** com cidade **Astarov**. Valida o glossário.
+- Descobertas: [[Uhalla]] tem a cidade Branuvik; Saewan tem 8+ cidades (Ryokazu cap.); Khanzia confirma as 5 tribos (Troddar, Karnok, Vronskar, Varrokh, Temulun); Kyneholm abriga o Santuário de Valkar.
+- **Drakavir** não tem cidades no mapa (coerente com a lore).
+- Reino sem ficha ainda: **Califado de Al-Qasar**.
+
+---
+
+## 2E — Sessão 09 · 2026-07-06 · Índice Toponímico (mapa) — Aquilonia
+
+- Criado o [[Índice Toponímico]] (gazetteer): transcrição de **todos os nomes do mapa** por reino.
+- **Aquilonia completa:** ~80 topônimos catalogados (cidades, florestas, cordilheiras, baías) nos 21 reinos/regiões.
+- Descoberta: [[Invernalto]] é uma cidade de [[Bruvia]] (era Localização vazia). Muitas cidades novas surgiram (ex.: Uria tem Tormenforte, Valikar, Baelroth, Varanthil além das já conhecidas).
+- Corrigido o [[Zawadi]], que ficara truncado (bug de aspas no apóstrofo de Xea'yasha).
+- **Pendente no gazetteer:** Auroria, Borealis, Sultaria, Drakavir.
+
+---
+
+## 2E — Sessão 08 · 2026-07-06 · Panteões Nórdico e Élfico
+
+**Panteão Nórdico (índice + 6 deuses):** [[Trovark]] (Odin), [[Thranox]] (Thor), [[Baldor]] (Baldr), [[Valder]] (Valhalla), [[Feonir]] (Fenrir/o Lobo), [[Hymir]] (gigante do mar).
+
+**Panteão Élfico (índice + 3 deusas):** [[Elysia]] (Vida/Árvore Mãe), [[Ellora]] (estrelas), [[Lyssandra]] (magia/sonhos).
+
+**Costuras de cânone:** Trovark ligado ao herói [[Trovark Thoraldsson]] (ascensão); Feonir ligado ao Fenraug de [[Wolvenjot]]; Elysia à Dragoa Verde de [[Os Três Dragões]]; deuses "espelho" entre panteões marcados (Hymir/Oceano, Lyssandra/Etherios, Xaya/Elysia) sob o princípio do divino ambíguo.
+
+**Deuses ainda por escrever (transversais/raciais):** [[Luna]], [[Selene]], [[Nyx]] (luas), [[Tohrum]] (anões), [[Azhoros]], [[Baelrok]] e [[Draknovir]] (entidade divinizada, não deus).
+
+---
+
+## 2E — Sessão 07 · 2026-07-06 · Consolidação de Borealis e Sultaria
+
+**Borealis / [[Terras dos Skalds]] (15 fichas):**
+- Clãs do Lobo: [[Danevar]], [[Wolvenjot]], [[Kovirstad]].
+- Clãs do Urso: [[Tordenheim]], [[Helvenmark]], [[Kald Lundar]], [[Kald Jotun]], [[Kjavik]], [[Hordaland]], [[Drosskar]], [[Ulfenhal]], [[Draugrhotar]], [[Uhalla]] (esboço).
+- Ermos: [[Kyneholm]].
+
+**Sultaria (7 fichas):**
+- Cidades Livres: [[Normantis]], [[Arenor]], [[Haraban]], [[Shebrevia]].
+- Tribais: [[Lovaria|Lovária]], [[Zawadi]], [[Xea'yasha]].
+
+**Status geral dos reinos:** todos consolidados. Restam vazias apenas: `Terras Ardilosas` (sem fonte), `Uhalla` e `Tenebria` (pouco material — precisam de lore original sua).
+
+**⚠️ Limpeza pendente no Obsidian:** apagar `Tarov.md`, `Taurov.md` e o arquivo de nome quebrado de Kan'Kaegis (todos redirects).
+
+---
+
+## 2E — Sessão 06 · 2026-07-06 · Correção: Taurin (não Tarov)
+
+**Decisão do Deivison:** o herdeiro militar segue o **mapa** e chama-se **Taurin** (não "Tarov"/"Taurov"); o cosmopolita é **Auristania** (= Astarov).
+
+- Substituí "Tarov" → "Taurin" em Resumão, Geografia de Auroria, Linha do Tempo IV e nas fichas ([[Auristania]], [[Taurenmar]], [[Valenos]], [[Khanzia]]).
+- Reescrevi as frases redundantes ("Taurin dividido entre Taurin e Auristania") para "núcleo militar reteve o nome Taurin".
+- Criei a ficha [[Taurin]] (serve ao império histórico + ao núcleo militar atual).
+- `Tarov.md` e `Taurov.md` viraram redirects → [[Taurin]] (**apagar no Obsidian**).
+- Glossário do [[Cânone]] atualizado.
+
+---
+
+## 2E — Sessão 05 · 2026-07-06 · Padronização + consolidação de Auroria
+
+**Padronização de nomes (aplicada em cânone):**
+- **O Braço Partido** (era "Braço Catastrófico/Quebrado") — em Resumão, Geografia e [[Korvandor]].
+- **Tarov** + **Auristania** (era "Taurov"/"Astarov") — em Resumão, Geografia e Linha do Tempo IV.
+- Glossário canônico adicionado ao [[Cânone]].
+
+**Auroria consolidada (31 fichas, status rascunho):**
+- **Ocidente (22):** [[Kalinthor]], [[Costamena]], [[Elyria]], [[Dorfel]], [[Venera]], [[Valenos]], [[Vanov]], [[Faeloria]], [[Kharzug]], [[Androsa]], [[Tibéria]], [[Taurenmar]], [[Tarov]], [[Auristania]], [[Zarkovith]], [[Lumeneria]], [[Cindra]], [[Thaladrin]], [[Malachia]], [[Tenebria]] (esboço), [[Mercantilhas]]. ([[Alta Rocha]] preservada.)
+- **Oriente (9):** [[Khanzia]], [[Habajj]], [[Tapesh]], [[Felidaria]], [[Khadira]], [[Yanare]], [[Yux-xai]], [[Saewan]], [[Kan'Kaegis]].
+
+**⚠️ Limpeza pendente (fazer no Obsidian):**
+- Apagar `Taurov.md` (esboço vazio; substituído por [[Tarov]]).
+- Apagar o arquivo com nome quebrado em `Auroria/Oriente/` (redirecionado para [[Kan'Kaegis]]).
+
+**Pendente:** consolidar Borealis (Terras dos Skalds) e Sultaria.
+
+---
+
+## 2E — Sessão 04 · 2026-07-06 · Análise do mapa × dados escritos
+
+**Objetivo:** verificar a coerência entre o mapa `arcadia.webp` e as fichas.
+
+**Criado:**
+- [[Análise do Mapa]] — verificação cruzada completa (confirmações + 8 inconsistências a resolver).
+- `Atlas/_analise_mapa/` — recortes temporários do mapa (podem ser apagados).
+
+**Principais achados:** geografia sólida e coerente; conflitos de nomenclatura a decidir — (1) Braço Partido/Catastrófico/Quebrado; (3) Tarov/Taurov + Astarov/Auristania + Taurin; (4) mar vermelho leste × Oceano Rubro sudoeste; (5) Dorfel (drows) ausente do mapa.
+
+---
+
+## 2E — Sessão 03 · 2026-07-06 · Consolidação dos rascunhos (Aquilonia)
+
+**Objetivo:** migrar o conteúdo dos rascunhos para as fichas oficiais, com wikilinks e referências.
+
+**Criado/preenchido (status: rascunho — resgate do [[Rascunho reinos]]):**
+- Região Norte: [[Bretania]], [[Tempestia|Tempéstia]], [[União Ébano]].
+- Região Central: [[Halinor]], [[Verdeprado]], [[Krummag]].
+- Região Sul: [[Uria]], [[Myriandor]], [[Ilhas da Alvorada]], [[Korvandor]], [[Lenaria]], [[Nalmartis]], [[Taudrisia|Taudrisía]], [[Ancalath]], [[Anathemar]] (ficha nova).
+
+**Preservado (não tocado — já tinham seu conteúdo):** [[Bruvia]], [[Draukar]], [[Durenor]].
+
+**Cada ficha recebeu:** frontmatter completo (tipo, status, `referência`, continente, região, capital), História (prosa do rascunho), Clima, Localização, cidades com wikilinks e ganchos de expansão.
+
+**Pendente:** consolidar Auroria, Borealis e Sultaria. Reinos do rascunho ainda sem ficha própria a criar: Dorfel, Serraguarda, Kan'Kaegis, Califado de Al-Qasar, Thaladrin, Cindra (verificar).
+
+---
+
 ## 2E — Sessão 02 · 2026-07-06 · Piloto de cosmologia + Panteão Tibérico
 
 **Objetivo:** validar o fluxo escrevendo o primeiro bloco de lore (status `rascunho`).

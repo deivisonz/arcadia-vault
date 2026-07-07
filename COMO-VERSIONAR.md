@@ -44,6 +44,7 @@ git lfs track "*.webp" "*.jpg" "*.png"
 
 ## Passo 3 — Ignorar a config do Obsidian, commitar e enviar
 
+**Git Bash:**
 ```bash
 printf '.obsidian/\n.DS_Store\nThumbs.db\n.trash/\n' > .gitignore
 git rm -r --cached .obsidian
@@ -51,6 +52,17 @@ git add -A
 git commit -m "Estrutura de worldbuilding + piloto Panteão Tibérico; LFS no mapa atual; ignora .obsidian/"
 git push
 ```
+
+**PowerShell** (o `printf` acima é só do Bash — no PowerShell use isto):
+```powershell
+".obsidian/",".DS_Store","Thumbs.db",".trash/" | Set-Content .gitignore
+git rm -r --cached .obsidian
+git add -A
+git commit -m "Estrutura de worldbuilding + piloto Panteao Tiberico; LFS no mapa atual; ignora .obsidian/"
+git push
+```
+
+> No PowerShell, o `rm -f` também falha (parâmetro ambíguo). Use `Remove-Item -Force` como no Passo 1.
 
 ---
 

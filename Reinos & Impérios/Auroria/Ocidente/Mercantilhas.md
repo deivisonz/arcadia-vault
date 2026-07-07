@@ -1,8 +1,32 @@
+---
+tipo: reino
+status: rascunho
+referência: República mercante secreta (Liga Hanseática / Veneza oligárquica)
+continente: "[[Auroria - Continente Leste|Auroria]]"
+região: "[[Ocidente]]"
+governo: República mercante (Conselho das Mercantilhas)
+aliases: ["Conselho das Mercantilhas"]
+tags: [reino, comércio]
+---
+#### História
+As Mercantilhas são um "império econômico" de cidades-estado insulares, fundadas em 1E 25 sob os escombros da cidade de Coralmar, afundada pelo Cataclisma. Após uma guerra civil entre guildas (1E 512), tornaram-se uma **República Mercante** (Pacto das Mercantilhas, 2E 175). O poder máximo repousa nas **Cadeiras** — um grupo de governantes de identidade secreta, sem hierarquia explícita, que decidem por consenso; seus **Porta-Vozes** anunciam decretos em público. Abaixo delas, o **Forum das Guildas** propõe leis, mas a palavra final é sempre das Cadeiras. O anonimato protege contra subornos e manipulação, e agentes secretos (os "Olhos das Cadeiras") vigiam as rotas. Detendo boa parte do comércio marítimo e terrestre de Arcádia, o Conselho pratica uma "neutralidade lucrativa": abstém-se de guerras expansionistas, mas lucra vendendo suprimentos a todos os lados.
 
-A Republica Mercante das Mercantilhas, é um arquipélago composto por três ilhas que se desdobram no Mar Interior, desempenham um papel fulcral no comércio da região. A menor ilha, situada ao centro, hospeda a maior cidade do conjunto, tornando-se o coração pulsante desta tríade. Além de serem conhecidas pela atividade mercantil, essas ilhas também são famosas pela pirataria e pelo comércio de objetos ilícitos, sendo a Guilda dos Mercadores um de seus mais conhecidos operadores.
+#### Clima
+Insular/marítimo.
 
-Há quem diga, contudo, que uma Guilda dos Ladrões também opera no anonimato, tecendo uma rede de atividades clandestinas. A frequência com que navios de todas as regiões de Arcadia aportam nas Mercantilhas confirma seu prestígio como um hub comercial.
+#### Localização
+Ilhas no [[Mar Interior]], [[Ocidente]] de [[Auroria - Continente Leste|Auroria]].
 
-O local atrai uma gama de figuras políticas de grande influência e poder econômico, que, impulsionadas pelos lucrativos contrabandos e outros negócios rentáveis, transformaram as Mercantilhas em uma área próspera e opulenta. No entanto, essa riqueza é predominantemente concentrada nas mãos dos representantes das guildas locais, resultando em uma ampla desigualdade social, um reflexo de como a riqueza gerada ali é distribuída.
+#### Tipo de governo
+República mercante: Cadeiras anônimas, Porta-Vozes, Forum das Guildas.
 
-O Conselho das Mercantilhas possuem ao todo um representante para cada um dos reinos mais importantes do Mar Interior, onde muitos acordos diplomáticos e comerciais são firmados. 
+#### Personagens importantes
+- Arlegis, o Sombra (fundador lendário da Guilda dos Ladrões, 1E 97)
+- Lucila, a "Dama do Mar" (2E 684)
+
+#### Eventos históricos
+Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
+
+---
+#### Ganchos de expansão
+%% A identidade das Cadeiras; a Guilda dos Ladrões e a Guilda dos Assassinos. %%
