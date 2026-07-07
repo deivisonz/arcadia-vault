@@ -19,7 +19,10 @@ Temperado; junto ao Lago do Rio Silencioso.
 [[Ocidente]] de [[Auroria - Continente Leste|Auroria]].
 
 #### Cidades importantes
-- [[Bruma]] (Capital)
+- [[Bruma]] (Capital) — cidade de canais e relógios arcanos
+
+#### Locais de Bruma
+A **Torre Astral** (com o **Scriptorium Arcano**), a **Biblioteca das Brumas**, o **Mercado das Runas**, o **Caminho do Conhecimento** e a **Praça dos Conjuradores** — onde vive e trabalha o arquimago [[Yverius]].
 
 #### Religiões
 Reverência secular a [[Etherios]], deus da magia.

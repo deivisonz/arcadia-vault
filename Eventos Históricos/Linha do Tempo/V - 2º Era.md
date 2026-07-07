@@ -26,7 +26,8 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - **2E 592:** forma-se o **Conselho dos Três Reinos** ([[Draukar]], [[Durenor]], [[Myriandor]]); começa a **[[A Guerra de Contenção|Guerra de Contenção]]** contra [[Uria]].
     - **2E 598:** primeiras incursões nórdicas a [[Bruvia]] (de [[Danevar]] e [[Tordenheim]]).
     - ✦ **2E 600:** [[Xea'yasha]] unifica os goblinoides do sul e ameaça as tribos de [[Zawadi]].
-    - **2E 642:** o **Grande Saque de Gwar Penar**, em [[Bruvia]].
+    - ✦ **2E 630:** feitos do norte cronicados por [[Tyr Skaldsson]] — a **Revolta de Pingrim** e a **Queda de Kghaw, o Tirano**.
+    - **2E 642:** o **Grande Saque de Gwar Penar**, em [[Bruvia]] — onde [[Tyr Skaldsson|Tyr]] conhece [[Trovark Thoraldsson|Trovark]].
     - ✦ **2E 650:** [[Valenos]] incorpora **Serraguarda**; a Escola de Caçadores de Monstros de **Kaermoria** ganha fama.
     - **2E 670:** a **Grande Perseguição** em [[Malachia]].
     - **2E 677:** funda-se a clandestina **[[Ordem dos Silenciados]]**.

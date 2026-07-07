@@ -29,7 +29,7 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 
 **[[Bretania]]**
 - Cidades: Verdelar (capital) · Ventobrisa · Hendelis · Ealdorford · Wyndham · Dorlumbur · Luadouro · Travessul
-- Relevo: Floresta Eterna de Sylvandor · Floresta dos Sussurros · Floresta dos Ventos Vivantes · Floresta Daynor · Cordilheira de Anka · Círculo de Ithar
+- Relevo: Floresta Eterna de Sylvandor · Floresta dos Sussurros · Floresta dos Ventos Vivantes · Floresta Daynor · Cordilheira de Arka · Círculo de Ithar
 - Águas: Lago Calendra · marco Kaer Eldrin(?)
 
 **[[Tempestia|Tempéstia]]**

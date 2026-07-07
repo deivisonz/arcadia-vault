@@ -20,7 +20,7 @@ Frio de montanha, invernos rigorosos.
 Chefe de Guerra Ghorzuk.
 
 #### Pessoas e sociedade
-Orcs, hobgoblins e raças marginalizadas, em tribos.
+Orcs, hobgoblins e raças marginalizadas, em tribos ([[Mountraks]]).
 
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.

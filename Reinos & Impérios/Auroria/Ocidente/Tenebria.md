@@ -4,7 +4,7 @@ status: rascunho
 referência: Reino gótico de sombras perpétuas (Ravenloft / Barovia)
 continente: "[[Auroria - Continente Leste|Auroria]]"
 região: "[[Ocidente]]"
-capital: "[[Sythria]]"
+capital: "[[Sombrelar]]"
 aliases: []
 tags: [reino]
 ---
@@ -20,7 +20,7 @@ Frio e sombrio; névoa e crepúsculo constantes.
 [[Ocidente]] de [[Auroria - Continente Leste|Auroria]], entre [[Lumeneria]] e [[Auristania]].
 
 #### Cidades importantes
-- [[Sythria]] (Capital) · [[Shadgor]]
+- [[Sombrelar]] (Capital) — com vastas cidades subterrâneas drow · [[Sythria]] · [[Shadgor]]
 
 #### Pessoas e sociedade
 Um dos maiores redutos de **drows** de Arcádia (ver [[Dorfel]]), ao lado de humanos pálidos e reclusos, todos prosperando na penumbra.

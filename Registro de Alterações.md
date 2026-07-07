@@ -8,6 +8,64 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 30 · 2026-07-06 · Marcos geográficos + reconciliações
+
+**Roadmap Prioridade A iniciada — 14 marcos/locais descritos:**
+[[Cordilheira de Arka]] (corrigido de "Anka"), [[O Mar Silencioso]] (mar de capim), [[Mar de Finareia]], [[Monte Drakthal]] (vulcão), [[Montes Indomáveis]] (+ Doranherim; feito de [[Trovark Thoraldsson|Trovark]]), [[Tundras de Skogrinn]], [[Montanha da Forja Ígnea]] (Dûn Khazâd), [[Valyriath]], [[O Estrelárido]] + [[Vectaris]] (cidade voadora), [[Sangrenia]], [[Sombrelar]], [[Valencia]], [[Planícies da Névoa Eterna]].
+
+**Reconciliações importantes:**
+- **[[Bruvia]] reescrita:** é o **reino feudal** de [[Ragnar Thorn]] (Winterfell), capital [[Invernalto]]. A teocracia de Vohzro (Emeline/Dominus IV) que a ficha antiga tinha foi **movida para [[Malachia]]** (onde a timeline a situa).
+- **[[Malachia]] = reino vampírico** (✦): capital [[Sangrenia]] controlada por vampiros; a [[Igreja de Vohzro]] é o instrumento; [[Dominus IV]] talvez seja vampiro; aliada às raças noturnas de [[Tenebria]], a [[Selene]]/[[Vandria]]/[[Samael]].
+- Capitais atualizadas: [[Tenebria]] → **Sombrelar**; [[Tapesh]] → **Valencia** (era Bugdai); [[Lumeneria]] → Estrelárido + Vectaris.
+
+**⚠️ A confirmar:** a revisão de Malachia (vampiros + Vohzro) e o "Dominus IV vampiro".
+
+---
+
+## 2E — Sessão 29 · 2026-07-06 · Elenco completo (11 personagens finais)
+
+**11 personagens restantes fichados — os 26 originais estão COMPLETOS:**
+- [[Kazuya Matsuda]] (daimyo de [[Saewan]]), [[Erik Bjornsson]] (jarl), [[Tergrid Fridasdóttir]] (shieldmaiden), [[Baltasar Solaria]] (sumo-sacerdote solar dos [[Sunari]]), [[Bahadur-Al-Tapesh]] (príncipe-mercador), [[Amidio Mondessa]] (orador tibérico), [[Brandon Pés-firmes]] (líder halfling), [[Kiba]] (alfa lupino de [[Felidaria]]), [[Skian]] (assassino), [[Tjana Mishaza]] (bruxa, uma Senhora da Tundra) e o lendário [[Garrok Dente Quebrado]].
+- Costuras: Tjana ↔ [[Draugrhotar]]/[[Lobos Espectrais]]; Kiba ↔ [[Lupinos]]/[[Wolvenjot]]; Baltasar ↔ [[Solarion]]/[[Azhoros]].
+
+---
+
+## 2E — Sessão 28 · 2026-07-06 · Itens & Artefatos + bárbaros em Kharzug
+
+**11 itens ligados a personagens** (categoria Itens & Artefatos iniciada):
+- [[O Machado de Trovark]], [[A Trombeta de Tyr]], [[A Perna de Dello]], [[A Besta de Mão de Dello]], [[A Panela de Terna]], [[O Manto Rúnico de Yverius]], [[O Martelo de Thranox]], [[As Sementes da Árvore Mãe]], [[O Aurium]], [[O Medalhão Roubado]], [[Bocarra de Dragão]].
+- Cada item aparece nos **backlinks** de seu dono/personagem.
+
+**Bárbaros das terras altas → ~~Kharzug~~ REVERTIDO:** misturar humanos num reino orc/hobgoblin ficou confuso. [[Kharzug]] volta a ser só dos orcs/hobgoblins ([[Mountraks]]). Os bárbaros humanos "tipo Ciméria" ficam **pendentes**, para um lugar próprio (não misturar raças demais num só reino).
+
+**Tormentilhas:** ancoradas no **Oceano Rubro**, a meio caminho de [[Drakavir -  Abismo Draconiano|Drakavir]].
+
+---
+
+## 2E — Sessão 27 · 2026-07-06 · Tormentilhas reconceituadas
+
+- **[[Tormentilhas]]** reescrita (agora em Atlas/Localizações): um **arquipélago de névoa e tormenta eterna**, com criaturas estranhas e véu delgado. **Localização fixada:** no **Oceano Rubro**, a meio caminho entre o sudoeste de Aquilonia e [[Drakavir -  Abismo Draconiano|Drakavir]] (as criaturas podem ser mutações dracônicas). A ficha antiga (reino) virou redirect a apagar.
+- A ideia de **região tipo Ciméria** (bárbaros das terras altas) volta a ficar **pendente/sem nome** (a criar separadamente).
+
+---
+
+## 2E — Sessão 26 · 2026-07-06 · Consolidação dos contos + 3 ideias
+
+**Contos consolidados (12 notas):**
+- **[[O Braço Partido]]** — revelado como remanescente do arquipélago **Ethel'Crown**, antiga ponte de terra entre os continentes (partida pelo Cataclisma).
+- Party de "Entre as Rochas": [[Terna]], [[Baldor, o Druida]], [[Dello]], [[Cella]]; + [[Kaeltar Sanguedouro]], [[Rainha Dalara]] (de [[Elíria]]), [[Marcus Khravort]].
+- Reino perdido [[Thirond]]; companhia [[As Garças Negras]].
+- **Fauna iniciada:** [[Gon Know]] e [[Lobos Espectrais]].
+- Vanov: distritos arcanos de Bruma (Torre Astral, Biblioteca das Brumas…). Timeline: feitos de [[Tyr Skaldsson]] (Pingrim, Kghaw).
+
+**3 ideias expandidas:**
+- **[[Korvandor]]** reescrito: a magocracia dos **Magos Vermelhos** sobre as ruínas de Korvandrin (resolve o conflito).
+- **[[Tormentilhas]]** criada: unindo a "região tipo Ciméria" e o nome reservado.
+
+**⚠️ A confirmar:** [[Elíria]] é a mesma [[Elyria]] ou reino distinto?; localização de [[Tormentilhas]] no mapa.
+
+---
+
 ## 2E — Sessão 25 · 2026-07-06 · Resgate final dos rascunhos
 
 Revisão dos rascunhos revelou dados centrais ainda não migrados. Migrados agora:
