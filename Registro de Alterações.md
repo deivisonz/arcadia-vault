@@ -8,6 +8,36 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 77 · 2026-07-08 · +8 capitais (lote 3) + ajuste demográfico do norte
+
+Ajuste pedido pelo Deivison: **Nordvalen** (14→**35 mil**) e **Ulenthor** (12→**30 mil**) elevadas às **duas maiores cidades das Skaldlands**, gigantes para o norte gelado mas ainda modestas frente ao sul — população agora respeitando critério histórico/geográfico/racial. Terceiro lote de capitais no formato rico, com populações calibradas por raça e história: **Kalanthir** (~110 mil, anões de superfície, empório aberto), **Zyanara** (~90 mil, seda e veneno), **Valenoria** (~85 mil, caçadores de monstros), **Pataluna** (~60 mil, medina felina vertical), **Lumenara** (~55 mil, artífices gnômicos), **Sylvaryn** (~45 mil, cidade-árvore élfica dos meio-elfos), **Cascoforte** (~40 mil, baluarte pastoril tauren) e **Dun Khazâd** (~25 mil hoje / >150 mil no ápice — capital anã que caiu em 2E 720). **Total migrado: Solária + 24 capitais.**
+
+---
+
+## 2E — Sessão 76 · 2026-07-08 · +8 capitais migradas (lote 2)
+
+Segundo lote de capitais no formato rico com população calibrada: **Huanli** (~450 mil, império de jade / Chang'an), **Osirium** (~150 mil, Tebas/Mênfis), **Ryokazu** (~150 mil, Quioto feudal), **Luminastra** (~90 mil, reino-sol da savana), **Zafarabad** (~70 mil, Samarcanda equestre), **Nehrim** (~40 mil, capital rachada dos elfos negros), **Mycenas** (~35 mil, cidadela ciclópica) e **Ulenthor** (~12 mil, porto saqueador do Lobo). Todas com as seções completas, preservando a lore anterior. **Total migrado até aqui: Solária + 16 capitais.**
+
+---
+
+## 2E — Sessão 75 · 2026-07-08 · Régua de população + 8 capitais migradas
+
+Adicionei o campo **`população`** ao template de cidade, com uma **régua ancorada no mundo real** + leve bônus de fantasia (capital de império no ápice ≈ Roma, 500 mil–1 mi; metrópole antiga ≈ Babilônia/Constantinopla, 150–400 mil; cidade próspera ≈ Paris/Veneza medievais, 50–150 mil; capital de reino modesto ≈ Baixa Idade Média, 10–40 mil; vila <2 mil), ajustada por região (deserto e norte gelado sustentam menos). Migrei a **Solária** (~180 mil) como piloto e depois **8 capitais** para o formato rico com população calibrada: **Valyriath** (~320 mil, maior cidade humana), **Qalathir** (~200 mil), **Damascena** (~180 mil), **Volenkov** (~95 mil), **Verdelar** (~60 mil), **Bruma** (~45 mil), **Nordvalen** (~14 mil) e **Troddar** (~9 mil fixos / até ~250 mil nos ritos). Cada uma ganhou as seções completas (aparência, sociedade, governo, economia, distritos, segredos), preservando toda a lore anterior.
+
+---
+
+## 2E — Sessão 74 · 2026-07-08 · Template de Cidade
+
+Criado **`_Template - Cidade.md`** em `Templates/` — um modelo dedicado, bem mais rico que o de localização genérica. Frontmatter com `porte`, `governo`, `fundação` e `referência` (âncora real/fantasia + toque único); seções para **Visão geral, Aparência & atmosfera, População & sociedade, Governo & poder, Economia, Distritos & locais de interesse, Personagens, Segredos & perigos, Eventos históricos e Ganchos**. Mantém as convenções do vault (dicas em `%%`, backlinks, `tipo: localização` + `subtipo: cidade` para continuar aparecendo no índice [[Localizações]]).
+
+---
+
+## 2E — Sessão 73 · 2026-07-08 · +26 eventos (1E e 2E bem recheadas)
+
+Grande adensamento das duas eras centrais. **1ª Era (+12) — sobretudo fundações que faltavam:** o pacto druídico-feérico de Bretania (61), a Ordem da Bruma erguendo Costamena (158), Verdeprado dos halflings (224), Felidaria (341), os cultos ao Sonhador Submerso em Yanare (408), Lumeneria dos gnomos (494), Solária reerguida por Haraban (572), os primeiros caçadores de monstros de Valenos (611), as casas de Yux-xai disputando o Mandato do Céu (662), Caelum amaldiçoando Tempéstia (724), o trono-sol de Lovária (838) e as guerreiras de Shebrevia (908). **2ª Era (+14) — drama de reinos e personagens:** a primeira caçada de Nalmartis a Hamada (84), o escândalo dos Vidraceiros de Venera (301), os centauros escolhendo líder em Troddar (372), Yux-xai proclamando o isolamento erudito (409), a resistência de Emeline ao Sacro Corvo (523), o alinhamento astral temido pelos Sunari de Arenor (566), Ghorzuk repelindo o golpe de Ruk'Mara (607), o veneno de Zyanara (644), a trégua tensa de Saewan (691) e o retorno de Lottus à Faeloria em ruína (698), entre outros. **Somando todas as sessões de tessitura: ~69 eventos novos** ligando eras, reinos, cidades e figuras.
+
+---
+
 ## 2E — Sessão 72 · 2026-07-08 · +11 fios recentes na 2E + conserto de truncamento
 
 Segundo lote de fios recentes, adensando o caminho para o presente: espiões de Kalinthor sumindo em Zarkovith (476), a disputa Androsa×Auristania por Tarkisium (549), a rivalidade mágica Vectaris×Vanov (561), a primeira transbordada de Xea'yasha sobre Sultaria (611), o pacto frágil pós-Guerra das Presas em Felidaria (631), os monstros se multiplicando com o véu fraco e sobrecarregando Kaermoria (662), Yverius levando suas descobertas ao Conselho das Brumas (674), a disputa pela sucessão de Kargath em Durenor (704), os vampiros de Malachia ousando caçadas abertas sob Selene (709), a primeira grande batalha das três facções de Bruvia (715) e o Culto aos Dragões intensificando os ritos (719).
