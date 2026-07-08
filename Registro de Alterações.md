@@ -8,6 +8,64 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 63 · 2026-07-07 · Home reconstruída em torno das pastas-tema
+
+Depois que o Deivison moveu as pastas para dentro das pastas-tema no Obsidian, reconstruí a home **[[Arcadia]]**: agora abre com "comece por aqui", o enredo do presente, e uma seção **"Navegue por tema"** com os 6 hubs ([[Mundo]], [[Povos & Cultura]], [[História]], [[Cosmos & Fé]], [[Natureza]], [[Elenco & Facções]]), seguida das 5 eras, dos 6 continentes, das facções e do bloco de deuses/cosmos/magia. **Usei só links de nome único** (que resolvem esteja a ficha em qualquer pasta), evitando os nomes duplicados que o Obsidian teve de re-caminhar ([[Religiões]], Linha do Tempo, Luna/Selene). Removi o bloco `folder-index` do rodapé — a navegação agora é 100% curada.
+
+> [!note] Fricção restante (para o Obsidian)
+> Nomes duplicados a resolver: a nota-índice de divindades ficou chamada **"Religiões"** (renomear para "Divindades"); e **Luna/Selene** existem como divindade **e** como corpo celeste (decidir qual é qual).
+
+---
+
+## 2E — Sessão 62 · 2026-07-07 · Reagrupamento do vault (raiz limpa + pastas-tema)
+
+Reorganização para reduzir a poluição de navegação. **Descoberta técnica:** o mount do shell está **divergente** para arquivos editados pela ferramenta de edição (ex.: a home lê 277 bytes no shell mas tem ~4KB no Windows) — mover pastas de conteúdo pelo shell reverteria essas edições. Então: (1) **arquivei os rascunhos originais** (`Rascunho Geral/Regiões/reinos`, `Resumão`, `COMO-VERSIONAR`, `Plano de Expansão`) em `_Arquivo/` — seguro, pois nunca os editei; a raiz caiu de 14 para 8 arquivos. (2) **Pré-montei 7 pastas-tema** (`Mundo`, `Povos & Cultura`, `História`, `Cosmos & Fé`, `Natureza`, `Elenco & Facções`, `_Sistema`), cada uma com nota-índice dizendo o que arrastar para dentro. O passo final (arrastar as pastas grandes para dentro das pastas-tema) fica para o Deivison fazer **no Obsidian**, onde é seguro e os links se atualizam automaticamente.
+
+---
+
+## 2E — Sessão 61 · 2026-07-07 · +20 fichas revisadas (ordens, guildas, guerras)
+
+Segunda leva de revisão. Li e promovi a `revisão` **20 fichas** já bem consolidadas: as **3 ordens religiosas** (Igreja de Vohzro, Culto aos Dragões, Sylvanismo), **8 organizações** (as Cadeiras, as 3 guildas, Conselho das Brumas, Caçadores de Dragões, Sociedade dos Desbravadores, Ordem dos Silenciados) e as **9 fichas de guerra** (Contenção, Invasão Uriana, Colapso de Taurin, Guerra Civil das Mercantilhas, Guerra Civil de Draukar, Conflito dos Credos, Revoada Draconiana, Primeira Maré de Nihiloth, Queda de Draknovir). De passagem, corrigi uma nota desatualizada na [[Igreja de Vohzro]] que dizia que a divindade [[Vohzro]] não tinha ficha (tem). Painel: **375 rascunho · 35 revisão · 2 cânone · 0 esboço**.
+
+---
+
+## 2E — Sessão 60 · 2026-07-07 · Revisão de conteúdo + promoções de status
+
+Revisão real (leitura + correção) e primeiras promoções na pipeline. **Esboço zerado:** o único esboço de lore, [[Marcus Khravort]], foi expandido (patriarca da Casa Khravort, elo com as Cadeiras/Lucila/Duren IV) e promovido a `rascunho`. **Cânone (2):** [[A Natureza do Divino]] (metafísica com regra de cânone própria) e [[Os Três Dragões]] (mito fundador). **Revisão (15):** os 7 continentes, os 3 panteões, [[O Presente de Arcádia]], [[Sistema de Magia]], [[Nihiloth]], [[Vandria]] e a Análise do Mapa. Para promover os continentes com honestidade, **preenchi 12 descrições de região que estavam vazias** (Bruvia, Taudrisía, Anathemar, Nalmartis, Mercantilhas, Valenos, Faeloria, Kovirstad, etc.) com uma linha cada, puxada do lore dos reinos. Painel de Maturidade regenerado: **0 esboço · 395 rascunho · 15 revisão · 2 cânone**.
+
+---
+
+## 2E — Sessão 59 · 2026-07-07 · Padronização de `status` + Painel de Maturidade
+
+Padronizei o campo `status` em todas as fichas de lore. **27 fichas que não tinham frontmatter** ganharam `tipo` + `status: rascunho` (os 7 continentes, os reinos Draukar/Durenor/Alta Rocha, as 3 luas, os 3 impérios históricos, os 3 calendários, as 5 eras da timeline, Umbraterra, a Biblioteca de Akashiki, Os Cavaleiros da Lua). Criei o **[[Painel de Maturidade]]**: pipeline esboço → rascunho → revisão → cânone, com snapshot (412 fichas de lore: 1 esboço, 1 revisão, 0 cânone, 410 rascunho), lista do que precisa de atenção, e um bloco Dataview opcional para visão dinâmica.
+
+**Limpeza de brindes:** descoberto e corrigido um `Ulenthor.md` **vazio (0 bytes)** na raiz que colidia com a cidade real (renomeado); um template de guerra extraviado foi movido para `Templates/`. Também constatei que o **shell via mount fica desatualizado** para arquivos que edito pela ferramenta de edição (o changelog parecia truncado no shell, mas está íntegro) — daqui pra frente edito o changelog só pela ferramenta de edição, nunca pelo shell.
+
+---
+
+## 2E — Sessão 58 · 2026-07-07 · +3 índices curados + personagens nos reinos
+
+Continuação da organização. Três MOCs deixaram de ser folder-index e viraram **índices curados**: [[Culturas]] (tabela de 21 culturas com ancestralidade/região/língua), [[Organizações]] (9 facções com tipo/sede/alcance) e a de **Divindades** (25 deuses agrupados por panteão — Tibérico, Nórdico, Élfico, Transversais, Culto aos Dragões). Além disso, **12 fichas de reino** ganharam uma seção **#### Personagens** com wikilinks (as 5 que já tinham foram preservadas), fechando o par com a seção Localizações. Agora reinos são hubs para lugares **e** gente.
+
+---
+
+## 2E — Sessão 57 · 2026-07-07 · Limpeza de stubs + índice de Personalidades
+
+**Limpeza:** confirmado **Elíria = Elyria** → "Elíria" adicionado aos aliases de [[Elyria]] (os 6 links dos contos agora resolvem). "Malruun" virou alias de [[Nihiloth]]; "Astarov" já era alias de [[Auristania]]. Os stubs `Tarov`, `Taurov`, `Malruun` e o Kan'Kaegis quebrado foram padronizados como **redirects limpos** (`tipo: redirect`). O reino obsoleto Tormentilhas foi **renomeado** para `Tormentilhas (reino obsoleto).md`, eliminando a colisão de nome com a localização real — agora [[Tormentilhas]] resolve sem ambiguidade. (Taurin já tinha os aliases Tarov/Taurov, então os links sobrevivem à deleção dos stubs.)
+
+**Nova organização:** a MOC [[Personalidades]] deixou de ser folder-index e virou uma **tabela-índice** do elenco (42 personagens) com Origem, Era e Status (vivo/morto/desaparecido) — espelhando o que fizemos com o Atlas.
+
+---
+
+## 2E — Sessão 56 · 2026-07-07 · Organização & navegação do vault
+
+Grande passo de organização, em três frentes:
+1. **Índice do Atlas curado** — a MOC [[Localizações]] deixou de ser folder-index automático e virou um índice por **continente → reino → cidades/marcos** (gerado a partir do campo `reino`/`região` de cada ficha; 125 locais mapeados) + uma seção "Marcos especiais e entre-mundos".
+2. **Lugares ligados aos reinos** — **52 fichas de reino** ganharam uma seção **#### Localizações** com wikilinks para suas cidades e marcos, virando hubs navegáveis (antes só via backlinks).
+3. **Revisão de pastas & limpeza** — as ~125 notas de `Atlas/Localizações/` foram organizadas em **subpastas por continente** (Aquilonia 33, Auroria 58, Borealis 19, Sultaria 15, _Especiais 6); wikilinks resolvem por nome, então nada quebrou. Varredura de links no vault inteiro: **zero quebras reais** — os 62 "não resolvidos" são forward-links para cidades/águas secundárias ainda sem ficha (futuro) e exemplos literais do [[Cânone]]. Cross-link adicionado entre [[Índice Toponímico]] e [[Localizações]]. Stubs pendentes (Tarov, Taurov, Malruun, _analise_mapa) reconfirmados na checklist de manutenção.
+
+---
+
 ## 2E — Sessão 55 · 2026-07-07 · +10 cidades (5º lote)
 
 Mais **10 cidades**, preenchendo reinos antes sem nenhuma nota de cidade: **Neblinéia** (a capital enevoada de Tempéstia), **Branuvik** (o santuário das völvas de Uhalla, cujos presságios escureceram com Mortemnis), **Isenholm** (a cidade humana de Kald Lundar, par de Doranherim no Lago Espelho de Eirinn), **Torval** (a capital de Drosskar à sombra de Velkrania), **Azhagoth** (a aldeia-pântano dos povos-lagarto em Krummag), **Mirograd** (a cidade-forja fechada de Zarkovith), **Sythria** (o limiar drow de Tenebria, porta para Dorfel), **Nosteria** (a cidade vampírica de Malachia, junto ao Vale dos Imortais), **Fortaleza de Luchen** (o baluarte de Yanare no Mar de Sangue) e **Delphos** (a cidade-oráculo de Androsa, aos pés do Monte Argon). Índice wikilinka as 10; links verificados. **Total: 50 cidades** nos cinco lotes.
@@ -179,7 +237,7 @@ Mais **15 eventos ✦** distribuídos pelas cinco eras: a Reconquista dos elfos 
 
 **Reconciliações importantes:**
 - **[[Bruvia]] reescrita:** é o **reino feudal** de [[Ragnar Thorn]] (Winterfell), capital [[Invernalto]]. A teocracia de Vohzro (Emeline/Dominus IV) que a ficha antiga tinha foi **movida para [[Malachia]]** (onde a timeline a situa).
-- **[[Malachia]] = reino vampírico** (✦): capital [[Sangrenia]] controlada por vampiros; a [[Igreja de Vohzro]] é o instrumento; [[Dominus IV]] talvez seja vampiro; aliada às raças noturnas de [[Tenebria]], a [[Selene]]/[[Vandria]]/[[Samael]].
+- **[[Malachia]] = reino vampírico** (✦): capital [[Sangrenia]] controlada por vampiros; a [[Igreja de Vohzro]] é o instrumento; [[Dominus IV]] talvez seja vampiro; aliada às raças noturnas de [[Tenebria]], a [[Cosmos & Fé/Religiões/Divindades/Selene]]/[[Vandria]]/[[Samael]].
 - Capitais atualizadas: [[Tenebria]] → **Sombrelar**; [[Tapesh]] → **Valencia** (era Bugdai); [[Lumeneria]] → Estrelárido + Vectaris.
 
 **⚠️ A confirmar:** a revisão de Malachia (vampiros + Vohzro) e o "Dominus IV vampiro".
@@ -318,7 +376,7 @@ Revisão dos rascunhos revelou dados centrais ainda não migrados. Migrados agor
 
 ## 2E — Sessão 18 · 2026-07-06 · Vandria (vampiros) + Malruun (invasor)
 
-- **[[Vandria]]** reescrita: agora é a **dimensão oculta dos vampiros**, o "Reino Rubro" ligado a [[Selene]] — de onde os vampiros saíram na Era das Trevas (ET 32).
+- **[[Vandria]]** reescrita: agora é a **dimensão oculta dos vampiros**, o "Reino Rubro" ligado a [[Cosmos & Fé/Religiões/Divindades/Selene]] — de onde os vampiros saíram na Era das Trevas (ET 32).
 - O mundo invasor foi **renomeado para [[Malruun]]**, "O Mundo que Devora" (+ Vhorruun, o Faminto), ligado a [[Mortemnis]] e à profecia de [[Yverius]].
 - Referências atualizadas: [[Aldric Thorn]], [[Ragnar Thorn]], [[Lottus Ignis]] e a timeline agora citam **Malruun**.
 - Novo: **[[Samael]]** — senhor vampírico ancestral de Vandria.
@@ -428,7 +486,7 @@ Conteúdo inédito marcado com ✦. Todas com seção "Eventos históricos" liga
 ## 2E — Sessão 11 · 2026-07-06 · Divindades restantes (categoria fechada)
 
 **7 divindades escritas (status rascunho):**
-- Celestiais: [[Luna]] (noite/sonhos), [[Selene]] (lua rubra/vampiros), [[Nyx]] (escuridão primordial).
+- Celestiais: [[Cosmos & Fé/Religiões/Divindades/Luna]] (noite/sonhos), [[Cosmos & Fé/Religiões/Divindades/Selene]] (lua rubra/vampiros), [[Nyx]] (escuridão primordial).
 - Raciais: [[Tohrum]] (forja/anões), [[Baelrok]] (guerra/sangue/orcs).
 - Regional: [[Azhoros]] (tumbas/deserto de Arenor).
 - Entidade divinizada: [[Draknovir]] (o dragão colosso — deus falso do [[Culto aos Dragões]]).
@@ -436,7 +494,7 @@ Conteúdo inédito marcado com ✦. Todas com seção "Eventos históricos" liga
 
 **Categoria Divindades: COMPLETA** (3 panteões + transversais).
 
-**⚠️ Ponto a decidir (nomes duplicados):** [[Luna]] e [[Selene]] existem como *divindade* e como *corpo celeste* (Astrologia) — arquivos homônimos. Opções: unificar cada par numa nota só, ou renomear os corpos celestes (ex.: "Luna (lua)").
+**⚠️ Ponto a decidir (nomes duplicados):** [[Cosmos & Fé/Religiões/Divindades/Luna]] e [[Cosmos & Fé/Religiões/Divindades/Selene]] existem como *divindade* e como *corpo celeste* (Astrologia) — arquivos homônimos. Opções: unificar cada par numa nota só, ou renomear os corpos celestes (ex.: "Luna (lua)").
 
 ---
 
@@ -468,7 +526,7 @@ Conteúdo inédito marcado com ✦. Todas com seção "Eventos históricos" liga
 
 **Costuras de cânone:** Trovark ligado ao herói [[Trovark Thoraldsson]] (ascensão); Feonir ligado ao Fenraug de [[Wolvenjot]]; Elysia à Dragoa Verde de [[Os Três Dragões]]; deuses "espelho" entre panteões marcados (Hymir/Oceano, Lyssandra/Etherios, Xaya/Elysia) sob o princípio do divino ambíguo.
 
-**Deuses ainda por escrever (transversais/raciais):** [[Luna]], [[Selene]], [[Nyx]] (luas), [[Tohrum]] (anões), [[Azhoros]], [[Baelrok]] e [[Draknovir]] (entidade divinizada, não deus).
+**Deuses ainda por escrever (transversais/raciais):** [[Cosmos & Fé/Religiões/Divindades/Luna]], [[Cosmos & Fé/Religiões/Divindades/Selene]], [[Nyx]] (luas), [[Tohrum]] (anões), [[Azhoros]], [[Baelrok]] e [[Draknovir]] (entidade divinizada, não deus).
 
 ---
 

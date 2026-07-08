@@ -51,21 +51,27 @@ Transformar os topônimos do [[Índice Toponímico]] que existem mas não têm n
 
 - [x] **Fauna & Flora** ✅ — +8 feras ([[Grifo de Arka]], [[Verme das Areias]], [[Salamandra Ígnea]], [[Corcel das Estepes]], [[Aranha-do-Véu]], [[Corvo-arauto]], [[Serpe das Tormentilhas]], [[Basilisco dos Brejos]]) e +6 plantas ([[Flor-de-luar]], [[Madeira-viva de Elyndrial]], [[Luzfria]], [[Rosa-do-deserto]], [[Cinza-flor]], [[Sanguelenho]]), espalhadas por todas as regiões. *(Base anterior: [[Gon Know]], [[Lobos Espectrais]], [[Rok'Thala, o Monte Vivo|Rok'Thala]], [[Havgrim, o Terror das Brumas|Havgrim]].)*
 - [ ] Mais **Itens & Artefatos** (regalia real, relíquias divinas, tesouros de masmorra).
-- [ ] Criar o **reino/região dos bárbaros humanos** ("tipo Ciméria") num lugar **próprio** (não misturado a outra raça).
 - [ ] Detalhar o continente oculto das [[Terras Selvagens]] e as [[Tormentilhas]].
 
 ---
 
 ## ⚠️ Decisões pendentes (do Deivison)
-- [ ] **[[Elíria]] vs [[Elyria]]:** mesmo reino ou distintos? (dos contos)
+- [x] **[[Elíria]] = [[Elyria]]** — confirmado pelo Deivison; "Elíria" virou alias de Elyria.
 - [ ] **Androsa vs. o Braço** (ver item 2 da [[Análise do Mapa]]).
 - [ ] Localização exata do reino bárbaro; nome "Tormentilhas" já usado.
 - [ ] Confirmar as interpretações ✦ (culturas, línguas, Vandria/Nihiloth, Aldric).
 
-## 🧹 Manutenção (fazer no Obsidian)
+## 🗂️ Navegação & organização ✅
+- [x] **Índice do Atlas curado**: [[Localizações]] agrupa as ~125 notas por continente → reino → cidades/marcos.
+- [x] **Lugares ligados aos reinos**: 52 fichas de reino ganharam seção **Localizações** (cidades + marcos) com wikilinks.
+- [x] **Atlas subpastado por continente** (`Atlas/Localizações/Aquilonia|Auroria|Borealis|Sultaria|_Especiais`). Wikilinks resolvem por nome, nada quebrou.
+- [x] **Varredura de links**: sem quebras reais; os "não resolvidos" são forward-links para cidades/águas secundárias ainda sem ficha (conteúdo futuro).
+
+## 🧹 Manutenção (fazer no Obsidian — sandbox não deleta)
 - [ ] Apagar redirects: `Tarov.md`, `Taurov.md`, `Malruun.md`, o Tormentilhas antigo (reino) e o arquivo quebrado de Kan'Kaegis.
 - [ ] Apagar a pasta temporária `Atlas/_analise_mapa/`.
-- [ ] Resolver nomes duplicados: [[Luna]] e [[Selene]] (divindade × corpo celeste).
+- [ ] Resolver nomes duplicados: [[Cosmos & Fé/Religiões/Divindades/Luna]] e [[Cosmos & Fé/Religiões/Divindades/Selene]] (divindade × corpo celeste).
+- [x] **[[Elíria]] = [[Elyria]]** resolvido — "Elíria" adicionado aos `aliases` de Elyria; os 6 links dos contos resolvem.
 
 ---
 > Sugestão de ordem: **A → B → C** (geografia dá base, o Presente dá foco, a Magia dá as leis), com D/E/F entrando conforme a vontade.

@@ -1,7 +1,7 @@
 ---
 tags: [lore, presente]
 tipo: estado-do-mundo
-status: rascunho
+status: revisão
 era: 2E 718
 ---
 # 🌒 O Presente de Arcádia (2E 718)

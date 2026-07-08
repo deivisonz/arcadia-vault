@@ -99,7 +99,7 @@ Tudo que eu escrever deve ser coerente com estes pilares:
 
 - **As cinco eras.** [[I - A Era das Lendas|Lendas]] → [[II - A Era dos Heróis|Heróis]] → [[III - A Era das Trevas|Trevas]] → [[IV - 1º Era|Primeira Era]] → [[V - 2º Era|Segunda Era]] (presente).
 - **O Cataclisma** (EH 4475) partiu o mundo e derrubou os impérios antigos (Azurian, Korvandrin, Tarkisium).
-- **Três luas.** [[Luna]] (benévola), [[Selene]] (rubra, vampiros), [[Mortemnis]] (presságios; seu retorno anuncia catástrofe). Plot atual: Mortemnis em rota de colisão, só atinge o mundo se ele for fragilizado.
+- **Três luas.** [[Cosmos & Fé/Religiões/Divindades/Luna]] (benévola), [[Cosmos & Fé/Religiões/Divindades/Selene]] (rubra, vampiros), [[Mortemnis]] (presságios; seu retorno anuncia catástrofe). Plot atual: Mortemnis em rota de colisão, só atinge o mundo se ele for fragilizado.
 - **Os Três Dragões** (vermelho/montanhas, verde/florestas, azul/magia) como mito fundador — ver [[Os Três Dragões]].
 - **A imortalidade élfica perdida** com a morte da Árvore Mãe (Draknovir, EH 0).
 - **Cinco continentes.** [[Aquilonia - Continente Oeste|Aquilonia]] · [[Auroria - Continente Leste|Auroria]] · [[Borealis - Continente Norte|Borealis]] · [[Sultaria - Continente Sul|Sultaria]] · [[Drakavir -  Abismo Draconiano|Drakavir]].

@@ -1,0 +1,31 @@
+---
+tipo: reino
+status: rascunho
+referência: Tirania de pureza racial sobre um reino feérico
+continente: "[[Auroria - Continente Leste|Auroria]]"
+região: "[[Ocidente]]"
+governo: Tirania
+aliases: []
+tags: [reino, feérico]
+---
+#### História
+Faeloria é um reino de seres faéricos e criaturas místicas, mas sua terra — antes vibrante de harmonia e diversidade — está hoje sob o comando tirânico de **Lottus**, um elfo de sangue puro que governa com mãos de ferro. Ascendendo ao poder com a promessa de restaurar a "pureza" élfica, Lottus passou a dizimar meio-elfos e todos que considera de "sangue inferior". O reino, antes tolerante, vive em clima de opressão e medo: os de sangue misto são forçados a condições precárias, escondidos ou exilados. Seus castelos são dominados pela guarda pessoal de elfos puro-sangue. ✦ Desde **2E 713, o próprio Lottus desapareceu** (enlouquecido, dizem), e o regime segue tocado por lugar-tenentes zelosos **em nome de um tirano ausente**. A tirania gerou uma resistência secreta de faéricos e meio-elfos — que agora se perguntam se o tempo de agir, sem Lottus, finalmente chegou.
+
+#### Clima
+Temperado; Floresta de Varna e Montanhas do Sol Poente.
+
+#### Localização
+[[Ocidente]] de [[Auroria - Continente Leste|Auroria]].
+
+#### Personagens importantes
+- [[Lottus Ignis]] — o tirano de sangue puro que governa Faeloria.
+
+#### Localizações
+**Marcos:** [[As Montanhas do Sol Poente]]
+
+#### Eventos históricos
+Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
+
+---
+#### Ganchos de expansão
+%% A resistência clandestina e a queda (ou não) de Lottus. %%

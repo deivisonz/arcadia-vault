@@ -14,7 +14,7 @@ Os **povos felinos** de [[Felidaria]] — graça, agilidade e uma sociedade de *
 Dançarinos graciosos, guerreiros ágeis e místicos. Os clãs felinos estão entre os dominantes, ao lado dos [[Lupinos]] (caninos), com clãs menores tecendo alianças.
 
 #### Religião e língua
-Veneram divindades ligadas aos felinos (uma face de [[Selene]]?); língua fluida e melodiosa.
+Veneram divindades ligadas aos felinos (uma face de [[Cosmos & Fé/Religiões/Divindades/Selene]]?); língua fluida e melodiosa.
 
 #### Relações
 Convivem — e disputam — com os [[Lupinos]] e demais clãs bestiais de Felidaria.
