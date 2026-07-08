@@ -22,6 +22,15 @@ Anexada parcialmente por [[Uria]] após a expansão de 2E 588.
 #### Localizações
 **Marcos:** [[A Baía do Chifre]], [[O Abismo de Solazar]], [[Os Picos de Dragoluz]]
 
+#### Sociedade sob ocupação
+✦ A nobreza taudrisiana mantém seus banquetes e sedas, mas sob a bandeira de [[Uria]]: uns colaboram por privilégio, outros conspiram por vingança. As velhas tradições são apagadas aos poucos, e os jovens, recrutados à força para as legiões urianas.
+
+#### O que Uria procura
+✦ Corre o rumor de que Uria não tomou Taudrisía só por terra: quer o que dorme no fundo d'[[O Abismo de Solazar|Abismo de Solazar]] e o brilho dos [[Os Picos de Dragoluz|Picos de Dragoluz]]. A resistência se esconde justamente ali, onde as legiões temem pisar.
+
+#### Figura
+✦ **Condessa Vestíria** — sorri aos ocupantes de dia e financia a resistência de noite.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

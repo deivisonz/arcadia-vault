@@ -24,6 +24,15 @@ Temperado; colinas e florestas.
 **Cidades:** [[Huanli]], [[Jadelume]]
 **Marcos:** [[Os Bosques do Orvalho Azul]]
 
+#### O Mandato
+✦ Em Yux-xai, quem governa precisa do **Mandato do Céu**: a crença de que a linhagem certa reina por vontade divina — e que a derrota prova que o céu retirou seu favor. Por isso cada dinastia que cai é declarada "indigna", e a que sobe, "escolhida". A dinastia que unificou o reino (2E 227) reina de [[Huanli]] afirmando esse mandato.
+
+#### Sábios e generais
+✦ A cultura venera igualmente a **estratégia** e a **erudição**: os grandes decidem tanto em campo de batalha quanto nos pavilhões de [[Jadelume]], onde uma frase bem colocada vale um exército. O comércio do precioso **orvalho azul** (ver [[Os Bosques do Orvalho Azul]]) sustenta essa corte de intrigas refinadas.
+
+#### Figura
+✦ **Imperatriz Wu-Lien** — a atual portadora do Mandato, tão temida por seus versos quanto por seus exércitos.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

@@ -24,6 +24,15 @@ Extremo [[Oriente]] de [[Auroria - Continente Leste|Auroria]], à beira do **Mar
 **Cidades:** [[Fortaleza de Luchen]], [[Zyanara]]
 **Marcos:** [[A Floresta das Mil Estrelas]]
 
+#### Sociedade & culto
+✦ Os yanaros vivem de costas para o continente e de frente para o mar: pescadores, mergulhadores e **sacerdotes das profundezas** que veneram o que dorme sob as ondas rubras. A opulência de [[Zyanara]] — seda, jade e veneno — é a máscara reluzente de uma fé antiga e faminta.
+
+#### O Mar de Sangue
+✦ Dizem que o mar é vermelho porque **sangra**: sob suas águas jazem as ruínas do afundado [[Império Tarkisium]] — e algo mais, que os cultos de Yanare chamam de o **Sonhador Submerso**. A cada geração o mar cobra tributos; navios somem, e os que voltam trazem febres e vozes.
+
+#### Figura
+✦ **A Sacerdotisa-Maré Ishvara** — voz do culto de Zyanara, que negocia com o que ninguém deveria ouvir.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

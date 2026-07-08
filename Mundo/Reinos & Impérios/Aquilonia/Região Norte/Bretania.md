@@ -31,6 +31,15 @@ Relações amistosas com [[Verdeprado]] e com os elfos de [[Halinor]].
 **Cidades:** [[Verdelar]]
 **Marcos:** [[A Floresta Eterna de Sylvandor]], [[A Floresta dos Sussurros]], [[Cordilheira de Arka]], [[O Círculo de Ithar]]
 
+#### A coroa e o pacto
+✦ Bretania é regida de [[Verdelar]] por uma monarquia cavaleiresca que reina por direito **e** por **pacto com as cortes das [[Fadas]]**: quebrar um voto feito no [[O Círculo de Ithar|Círculo de Ithar]] é maldição que atravessa gerações. Druidas do [[Sylvanismo]] aconselham o trono tanto quanto os cavaleiros.
+
+#### O vínculo feérico
+✦ A harmonia entre humanos, elfos, dríades, centauros e fadas não é acaso: remonta ao dom da **Dragoa Verde** ([[Os Três Dragões]]), cujo sopro ainda corre na seiva de [[A Floresta Eterna de Sylvandor|Sylvandor]]. Mas o mundo feérico cobra caro de quem o desrespeita, e nem toda fada é gentil.
+
+#### Figura
+✦ **Rei Aldrien e a druida Maevyn** — o rei-cavaleiro e sua conselheira feérica, cuja aliança segura (por ora) o equilíbrio entre o trono e a mata.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

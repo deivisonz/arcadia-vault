@@ -27,6 +27,15 @@ Fortes laços comerciais com humanos e com os nórdicos de [[Danevar]].
 #### Localizações
 **Cidades:** [[Kalanthir]]
 
+#### Os anões do sol
+✦ Kalinthor são os anões que **escolheram a luz**: romperam com o isolamento de [[Alta Rocha]] (1E 452), firmaram as grandes rotas de superfície (1E 466) e ergueram cidades abertas ao comércio. Suas forjas abastecem meio continente, e seus mercadores viajam onde os primos das montanhas jamais iriam.
+
+#### O dilema do primo caído
+✦ Há uma velha rivalidade cultural com os anões subterrâneos — e agora um dilema doloroso: com a queda de [[Alta Rocha]] aos horrores das profundezas (2E 720), refugiados chegam a Kalinthor pedindo ajuda. Retomar o lar ancestral ou proteger o que se construiu ao sol? A questão divide o reino.
+
+#### Figura
+✦ **Rei Thordin Portas-Abertas** — símbolo da aposta de Kalinthor no mundo lá fora, agora pressionado a olhar de novo para dentro da montanha.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

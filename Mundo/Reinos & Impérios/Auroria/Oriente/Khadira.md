@@ -24,6 +24,15 @@ Extremo [[Oriente]] de [[Auroria - Continente Leste|Auroria]].
 **Cidades:** [[Zafarabad]]
 **Marcos:** [[A Lagoa das Luas]], [[As Colunas de El'Saren]]
 
+#### Sociedade dos cavaleiros
+✦ Khadira é uma confederação de **clãs equestres** reunidos sob um **Khan** eleito. Aqui o cavalo é família: linhagens sagradas jamais são montadas em guerra nem comidas, e roubar um corcel é ofensa de sangue. É de Khadira que saem os melhores **cavaleiros mercenários** do oriente (ver 2E 384).
+
+#### Fé das estepes
+✦ Xamãs leem presságios no reflexo das três luas sobre a [[A Lagoa das Luas|Lagoa das Luas]], e ninguém cruza as [[As Colunas de El'Saren|Colunas de El'Saren]] sem uma oferenda. Distinguem-se dos centauros de [[Khanzia]]: onde estes *são* cavalo, os khadiri *veneram* o cavalo — vizinhos que ora comerciam, ora se degolam nas estepes.
+
+#### Figura
+✦ **Khan Berek, o Cavaleiro-Lua** — lê a Lagoa das Luas antes de cada campanha.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

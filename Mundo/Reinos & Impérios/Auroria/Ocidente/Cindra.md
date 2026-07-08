@@ -19,6 +19,12 @@ Temperado sob dossel florestal (o solo não recebe luz).
 #### Localizações
 **Marcos:** [[A Floresta de Elyndrial]]
 
+#### A pirâmide de seiva
+✦ O que sustenta as cidades suspensas da **Alta Cindra** não é magia gratuita: é o **pacto de seiva** que drena lentamente a Floresta de Elyndrial, trabalho imposto por gerações aos renegados da **Baixa Cindra** (ver a cultura [[Vhalares]]). Enquanto a floresta resistir, a pirâmide se sustenta — mas Elyndrial começa a adoecer.
+
+#### O estopim
+✦ Na Baixa, ganha força a voz de **Yssara Folha-Negra**, que prega que a seiva pertence a quem a colhe, não às copas. Basta uma faísca — uma seca, um herdeiro morto — para virar Cindra de cabeça para baixo. Desde que o reino fechou a floresta a forasteiros (2E 617), ninguém de fora sabe quão perto está a ruptura.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

@@ -26,6 +26,12 @@ Extremo [[Oriente]] de [[Auroria - Continente Leste|Auroria]].
 #### Localizações
 **Cidades:** [[Pataluna]]
 
+#### A política das presas
+✦ Felidaria vive de um equilíbrio tenso entre **clãs**: os [[Felinos|felinos]] graciosos e os [[Lupinos|lupinos]] de matilha dominam, com os [[Ursinos]] e clãs menores tecendo alianças. A **Guerra das Presas** (2E 213) quase rasgou o reino ao meio, e a paz que se seguiu é renegociada a cada lua.
+
+#### Fé e magia felina
+✦ Veneram divindades felinas ligadas à noite e às luas (ver [[Astrologia]]), e seus místicos "andam entre sombras" com uma graça que beira a magia. Perder a face diante de um clã rival é pior que perder a vida.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

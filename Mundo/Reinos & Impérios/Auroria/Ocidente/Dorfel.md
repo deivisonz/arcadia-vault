@@ -20,6 +20,15 @@ Cidades subterrâneas sob a **[[A Espinha do Mundo|Espinha do Mundo]]**. Os drow
 #### Cidades importantes
 - [[Yugg Depht]] (Capital)
 
+#### As Casas
+✦ Dorfel é governada por **casas drow** em guerra fria eterna — a [[Narzul|Casa Vaeloth]] (a aranha), a **Dûrnaz** (o olho) e a **Ir'Selka** (a serpente) —, matriarcas que cultuam [[Nyx]] e tramam sob a luz das [[Luzfria|luzfrias]]. Traição e veneno são etiqueta.
+
+#### O que espreita embaixo
+✦ O maior inimigo dos drow não está na superfície, mas **abaixo** de Dorfel, nas profundezas além de suas cidades, onde criaturas antigas se movem. Os mesmos horrores que engoliram [[Alta Rocha]] (2E 720) espreitam aqui — e as casas discutem, em pânico velado, se fogem ou se pactuam com eles.
+
+#### Figura
+✦ **Matriarca Vaeloth** — a mais temida das mães-aranha, que negocia com sombras que deveria temer.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

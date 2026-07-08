@@ -19,6 +19,15 @@ Frio rigoroso.
 #### Vilarejos importantes
 - [[Galdurvik]]
 
+#### O Culto da Fúria
+✦ Os berserkers de Kjavik não são só guerreiros: são iniciados num **culto da fúria** dedicado a [[Feonir]], o Lobo. Bebem uma poção de cogumelos e sangue antes da batalha e, no auge do frenesi, dizem vestir a alma da fera — sem sentir o frio nem a dor.
+
+#### O inverno do sangue
+✦ A cada inverno, Kjavik lança seus ataques rituais aos vizinhos — não por terra ou ouro, mas para *provar* quem merece viver. Os clãs em volta aprenderam a temer o degelo, quando os lobos de Kjavik descem uivando.
+
+#### Figura
+✦ **Hrok, o Sem-Medo** — o maior berserker vivo, que segundo as sagas nunca recuou um passo em cinquenta invernos.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

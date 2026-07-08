@@ -23,6 +23,12 @@ Região Central de [[Aquilonia - Continente Oeste|Aquilonia]].
 #### Personagens
 [[Brandon Pés-firmes]]
 
+#### Sociedade
+✦ Verdeprado não tem rei: governa-se por **conselhos de família** e um **Thane** eleito que resolve disputas com bom senso (e boa cerveja). A honra mede-se em hospitalidade, e o maior crime é deixar um hóspede com fome.
+
+#### O segredo dos Pés Peludos
+✦ Sob a aparência pacata, os halflings são os **melhores batedores e mensageiros** de Aquilonia: conhecem cada trilha, rio e bosque, e nenhum invasor jamais mapeou Verdeprado. Discretamente, acolhem refugiados e guardam segredos que reinos maiores pagariam para ter — e a [[Sociedade dos Desbravadores]] recruta seus olheiros a peso de ouro.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

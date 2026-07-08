@@ -26,6 +26,15 @@ Elo comercial com os anões; incursões contra Bruvia.
 #### Localizações
 **Cidades:** [[Ulenthor]]
 
+#### O elo do norte
+✦ Enquanto os outros Clãs do Lobo vivem do saque, Danevar enriqueceu como **elo comercial**: seu porto congelado e suas caravanas árticas ligam os anões de [[Alta Rocha]] e [[Kalinthor]] ao resto de Arcádia. É o mais influente e o mais rico dos clãs do lobo.
+
+#### Comércio e machado
+✦ Mas riqueza no norte precisa de dentes: Danevar equilibra o comércio com a guerra, e nos últimos anos ganhou fama por suas **incursões a [[Bruvia]]** (2E 598), que partem de [[Ulenthor]]. O rei sabe que baixar a guarda é não ver o próximo inverno.
+
+#### Figura
+✦ **Rei Sigmar Cofre-de-Ferro** — mercador astuto e saqueador impiedoso, conforme a estação.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

@@ -24,6 +24,15 @@ Frio ártico; construções acima e abaixo do solo.
 **Cidades:** [[Torval]]
 **Marcos:** [[A Floresta de Velkrania]]
 
+#### A fortaleza mista
+✦ Drosskar une a **engenharia anã** à **ferocidade nórdica**: cidades acima e abaixo do solo, exércitos onde martelo e machado marcham juntos. Cresceu com os anões que fugiram do malogro de [[Kald Jotun]] (2E 447) e vieram viver entre os homens.
+
+#### O equilíbrio frágil
+✦ A união não é livre de atritos: disputas por minério e diferenças de costume ameaçam rachar o reino, e seu rei precisa contentar duas raças orgulhosas. À sombra da [[A Floresta de Velkrania|Floresta de Velkrania]], nem todos concordam sobre o que fazer com aquilo que os anões trouxeram de Kald Jotun.
+
+#### Figura
+✦ **Rei Bralt Dois-Machados** — meio criado por anões, meio por homens; símbolo vivo (e frágil) da união.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

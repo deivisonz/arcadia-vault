@@ -20,6 +20,15 @@ Frio; florestas geladas.
 #### Cidades importantes
 - [[Thundragar]] (Capital)
 
+#### Os druidas da geada
+✦ Ulfenhal é o lar dos **druidas de Borealis** — sacerdotes que veneram os espíritos do gelo e da terra e empunham o próprio inverno como arma (ver [[Sylvanismo]] e [[Feonir]]). Não são pacíficos: quem profana suas florestas sagradas sente o frio descer até os ossos.
+
+#### Os segredos das cavernas
+✦ Sob Ulfenhal há cavernas de gelo antigo onde os druidas guardam ritos — e coisas melhor esquecidas. Alguns temem que, se o inverno do mundo se aprofundar, os druidas saibam *por quê* — e o que dorme lá embaixo.
+
+#### Figura
+✦ **A Anciã Sigrún Barba-de-Gelo** — arquidruida que conversa com a nevasca e cujas maldições congelam o sangue.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

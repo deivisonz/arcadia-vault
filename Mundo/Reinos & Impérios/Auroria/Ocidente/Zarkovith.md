@@ -23,6 +23,15 @@ Centro-oeste de [[Auroria - Continente Leste|Auroria]], ao longo da [[A Espinha 
 #### Localizações
 **Cidades:** [[Mirograd]], [[Volenkov]]
 
+#### A forja fechada
+✦ Zarkovith vive de metal e frio: seus ferreiros forjam **armas e engenhos exóticos** de metais raros, reverenciados no continente inteiro. Mas desde que o reino **fechou as fronteiras** (2E 466), o que sai de [[Mirograd]] é segredo — canhões, autômatos de guerra, coisas que ninguém de fora deveria ver.
+
+#### Mão de ferro
+✦ Governado por um autocrata de **mão de ferro** e um povo de forte orgulho nacional, Zarkovith mistura metalurgia, magia e superstição numa cultura e língua próprias. Por que fechou as portas — medo, ambição, ou algo que forjou e não sabe mais controlar — é a pergunta que tira o sono dos vizinhos.
+
+#### Figura
+✦ **Tsar Voran, o Ferreiro-Rei** — dizem que ele mesmo bate no aço as armas de sua guarda.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

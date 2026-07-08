@@ -27,6 +27,15 @@ Rivalidade cultural com as [[Ilhas da Alvorada]]; abertura a humanos.
 #### Localizações
 **Cidades:** [[Sylvaryn]]
 
+#### Sociedade cosmopolita
+✦ Halinor é a mais **aberta** das cortes élficas: cidades de mármore e canção onde elfos, humanos e sobretudo **meio-elfos** convivem, e onde artistas e sábios de toda parte buscam mecenato. Essa mistura é seu orgulho — e sua ferida.
+
+#### A sombra das Ilhas
+✦ Foi a abertura de Halinor aos humanos que criou os meio-elfos e acendeu a [[A Queda dos Elfos|Guerra dos Meio-Elfos]] (1E 637) contra os puristas das [[Ilhas da Alvorada]]. E foi um cisma em Halinor (1E 289) que exilou os elfos que fundariam [[Draukar]]. A corte vive de diplomacia e espiões, sabendo que o desprezo das Ilhas nunca esfriou.
+
+#### Figura
+✦ **Alto-Senhor Faelar Meio-Sangue** — um meio-elfo no trono élfico, prova viva (e provocação) de tudo o que Halinor defende.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

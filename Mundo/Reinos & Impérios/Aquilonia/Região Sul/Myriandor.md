@@ -27,6 +27,15 @@ Membro do "Conselho dos Três Reinos" contra [[Uria]].
 #### Localizações
 **Cidades:** [[Silvaruna]]
 
+#### Cultura híbrida
+✦ Séculos de convivência fundiram tradições élficas e humanas em Myriandor: aqui **magia e ciência caminham juntas**, e as torres brancas de [[Silvaruna]] abrigam tanto arquimagos quanto engenheiros. É um dos raros lugares onde meio-elfos não são exilados, mas cidadãos.
+
+#### A paz sob pressão
+✦ A harmonia é **diplomacia**, não ausência de tensão: elfos puristas e humanos ambiciosos se cutucam sob a mesa. Como pilar do **Conselho dos Três Reinos** (2E 592), Myriandor sustenta a [[A Guerra de Contenção|Guerra de Contenção]] contra [[Uria]] — e teme que, se a guerra ruir, as próprias etnias se voltem umas contra as outras.
+
+#### Figura
+✦ **Rainha Aelinor de Silvaruna** — meio-elfa cuja diplomacia é a costura que segura o reino.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

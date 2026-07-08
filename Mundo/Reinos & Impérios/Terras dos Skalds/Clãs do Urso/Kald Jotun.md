@@ -16,6 +16,12 @@ Frio implacável.
 #### Localização
 [[Clãs do Urso]], extremo norte de [[Borealis - Continente Norte|Borealis]].
 
+#### O que os matou
+✦ A história oficial culpa o frio e a fome. Mas os anões que fugiram para [[Drosskar]] (2E 447) sussurram outra coisa: cavaram fundo demais atrás das "riquezas ocultas" e **acordaram** algo nas raízes da montanha — e foi o inverno que veio *depois*, não antes, que os sepultou. Um eco da queda de [[Alta Rocha]].
+
+#### As ruínas seladas
+✦ Hoje Kald Jotun é uma necrópole de pedra sob a neve, os portões **selados por dentro**. Dizem que os tesouros continuam lá — e o que os guarda também. Poucos caçadores de ruínas voltaram; nenhum voltou o mesmo.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

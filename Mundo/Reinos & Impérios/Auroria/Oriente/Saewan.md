@@ -28,6 +28,15 @@ Arquipélago no [[Oriente]] de [[Auroria - Continente Leste|Auroria]].
 **Cidades:** [[Kagehara]], [[Ryokazu]]
 **Marcos:** [[Monte Yuki]]
 
+#### As Quatro Casas
+✦ Saewan é um **império de clãs** sob um **Imperador** de legitimidade sagrada — mas o poder real se divide entre as grandes casas de samurais das quatro ilhas, que se enfrentam em duelos e guerras rituais. A unificação (2E 47) apenas trocou a guerra aberta pela intriga de corte.
+
+#### Luz e sombra
+✦ A cada honra reluzente de [[Ryokazu]] corresponde uma faca em [[Kagehara]]: enquanto os **samurais** (ver [[Kazuya Matsuda]]) morrem por seu código, os clãs de **ninjas** fazem o que a honra proíbe. O Imperador precisa de ambos — e teme os dois.
+
+#### O trono e a espada
+✦ A legitimidade do Imperador não está só no sangue: está numa **espada sagrada** forjada e abençoada no [[Monte Yuki]]. Quem a empunha, reina. Por isso golpes em Saewan miram menos o trono e mais a lâmina — e há sussurros de que a espada verdadeira se perdeu há gerações.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

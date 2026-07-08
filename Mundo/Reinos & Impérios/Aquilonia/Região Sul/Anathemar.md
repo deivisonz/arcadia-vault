@@ -22,6 +22,15 @@ Conselho de mercadores e nobres antigos.
 #### Localizações
 **Marcos:** [[A Selva da Resistência]]
 
+#### As guildas da sombra
+✦ O poder de Anathemar não está no trono, mas em suas **guildas de espiões, assassinos e mercenários** — e nos **arquivos secretos** que guardam segredos de quase todos os reinos de Arcádia. Vender informação é a indústria nacional.
+
+#### Sob a bota uriana
+✦ Conquistada por [[Uria]] (2E 588), Anathemar apenas trocou de disfarce: as guildas viraram a espinha da resistência da [[A Selva da Resistência|Selva da Resistência]], e seus arquivos, a arma que ainda faz o império hesitar. Quem controla os segredos de Anathemar controla um punhal na garganta de meio mundo.
+
+#### Figura
+✦ **O Arquivista** — mestre-espião sem nome nem rosto, que dizem conhecer o preço de cada rei.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

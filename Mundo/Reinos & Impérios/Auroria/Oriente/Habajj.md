@@ -26,6 +26,15 @@ Habajj é um centro comercial fervilhante, no cruzamento de várias rotas, onde 
 #### Localizações
 **Cidades:** [[Qalathir]]
 
+#### Governo & sociedade
+✦ Habajj é regida por um **Sultão-Mercador** e um conselho de casas comerciais, sob leis religiosas rígidas que ditam o lugar de cada um. A **Rota das Especiarias** (2E 127) a fez uma das cidades mais ricas do oriente — e o comércio de escravos, uma das mais infames.
+
+#### A ferida dos coleiras
+✦ A escravidão é o motor e a chaga de Habajj. A **Revolta dos Coleiras** (2E 660) foi esmagada, mas não esquecida: uma rede clandestina ainda liberta cativos e sonha com o dia em que as correntes se voltem contra os senhores. Cada caravana de escravos é uma faísca a mais.
+
+#### Figura
+✦ **Sultão Nasir-al-Qalathir** — que sorri aos abolicionistas de dia e enche seus cofres com coleiras de noite.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

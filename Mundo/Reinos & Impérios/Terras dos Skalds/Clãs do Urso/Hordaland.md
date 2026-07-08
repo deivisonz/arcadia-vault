@@ -19,6 +19,15 @@ Frio ártico.
 #### Pessoas e sociedade
 Humanos nórdicos e orcs refugiados da [[União Ébano]].
 
+#### Duas raças, um escudo
+✦ Em Hordaland, humanos nórdicos e **orcs refugiados** da [[União Ébano]] lutam sob o mesmo estandarte — convivência rara no norte, nascida da necessidade e temperada pelo sangue derramado juntos.
+
+#### A fratura
+✦ Mas a união é tensa: facções extremistas dos dois lados sonham com um acerto de contas, e basta uma faísca — um insulto, uma herança, um jarl morto — para Hordaland virar-se contra si mesma. Quem governa aqui equilibra-se sobre lâminas.
+
+#### Figura
+✦ **Jarl Yngwar Mão-Partilhada** — o chefe que jurou lealdade mútua entre homens e orcs, odiado pelos radicais de ambos.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

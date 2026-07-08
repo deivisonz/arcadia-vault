@@ -22,6 +22,12 @@ Chefe de Guerra Ghorzuk.
 #### Pessoas e sociedade
 Orcs, hobgoblins e raças marginalizadas, em tribos ([[Mountraks]]).
 
+#### Cultura de guerra
+✦ Kharzug é a terra dos **[[Mountraks]]** (ver a cultura), orcs e hobgoblins endurecidos pelo frio das alturas, para quem "todo território perdido é um insulto a ser vingado". Guerrilheiros mestres, mantêm a independência graças às **Trilhas dos Anciãos** — passagens secretas que deixam seus bandos surgir onde ninguém os espera.
+
+#### A frágil união
+✦ A unificação dos clãs por **Ghorzuk** (2E 400) é a reputação de um só orc. Nos bastidores, os chefes **Ruk'Mara** e **Vharzog Meia-Presa** já afiam as lâminas: quando o medo que Ghorzuk inspira morrer com ele, Kharzug pode explodir numa guerra de bandos — ou forjar um tirano ainda pior para o sul.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

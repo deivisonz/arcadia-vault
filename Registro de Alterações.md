@@ -8,6 +8,45 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 69 · 2026-07-07 · +6 reinos (lote 6 — varredura final)
+
+Último lote: **Thaladrin** (o aurium mágico e o medo do que acorda no Cume Dourado; Thane Bruna Veio-de-Ouro), **Dorfel** (as casas drow Vaeloth/Dûrnaz/Ir'Selka e os horrores das profundezas — os mesmos que engoliram Alta Rocha; Matriarca Vaeloth), **Myriandor** (a cultura híbrida magia+ciência e a paz étnica sob a pressão da Guerra de Contenção; Rainha Aelinor), **Zarkovith** (a forja fechada de Mirograd e o Tsar Voran, o Ferreiro-Rei), **Kalinthor** (os anões do sol e o dilema do primo caído de Alta Rocha; Rei Thordin Portas-Abertas) e **Lovária** (o trono-sol do zigurate e o exército cerimonial; Rei-Sol Mansa Katab). **Total: 36 reinos** aprofundados nos seis lotes — praticamente todos os reinos com ficha rasa agora têm sociedade, governo, figura e uma reviravolta amarrada ao resto do mundo.
+
+> [!note] Observação
+> **[[Durenor]]** ficou de fora: já é rico em conteúdo, mas usa formatação antiga (cabeçalhos com dois-pontos, frontmatter mínimo, sem seções Eventos/Ganchos, "Thralmar" em vez de [[Thrallmar]]). Candidato a uma **normalização** de formato no futuro.
+
+---
+
+## 2E — Sessão 68 · 2026-07-07 · +6 reinos rasos (lote 5, oriente) + fix Tapesh
+
+Quinto lote: **Saewan** (as Quatro Casas, a dualidade samurai/ninja Ryokazu×Kagehara, e a espada sagrada do Monte Yuki como fonte de legitimidade), **Yux-xai** (o Mandato do Céu, a corte de sábios-generais de Jadelume; Imperatriz Wu-Lien), **Kharzug** (amarrado à cultura Mountraks: Trilhas dos Anciãos e a sucessão frágil de Ghorzuk), **Taurenmar** (a espiritualidade tauren, a terra que encolhe sob Taurin, e a fúria minotáurica sob a calma), **Bretania** (a coroa que reina por pacto com as Fadas, o vínculo feérico da Dragoa Verde; Rei Aldrien e a druida Maevyn) e **Tapesh** (o mar de areia navegável e os festivais). **Correção de coerência:** Tapesh tinha `aliases` duplicado e capital ambígua (Valencia × Bugdai) — fixei **Bugdai como capital** (a cidade na rocha negra, seguindo o mapa) e **Valencia como cidade cultural** distinta. **Total: 30 reinos** aprofundados nos cinco lotes.
+
+---
+
+## 2E — Sessão 67 · 2026-07-07 · +6 reinos rasos (lote 4)
+
+Quarto lote: **Verdeprado** (o Thane e os halflings como os melhores batedores de Aquilonia, recrutados pela Sociedade dos Desbravadores), **Wolvenjot** (o laço do lobo e a linhagem de Fenraug ligada a Feonir; Rei-Xamã Ulfar), **Cindra** (amarrada agora ao **pacto de seiva** e à revolta de Yssara Folha-Negra da cultura Vhalares), **Habajj** (o Sultão-Mercador, a Rota das Especiarias e a rede clandestina pós-Revolta dos Coleiras), **Halinor** (a corte cosmopolita dos meio-elfos, a Guerra dos Meio-Elfos e o cisma que gerou Draukar; Alto-Senhor Faelar Meio-Sangue) e **Danevar** (o elo comercial anão-nórdico que equilibra comércio e saque; Rei Sigmar Cofre-de-Ferro). **Total: 24 reinos** aprofundados nos quatro lotes.
+
+---
+
+## 2E — Sessão 66 · 2026-07-07 · +6 reinos rasos (lote 3, foco nos clãs nórdicos)
+
+Terceiro lote: **Kjavik** (o Culto da Fúria a Feonir e o "inverno do sangue"; Hrok, o Sem-Medo), **Hordaland** (humanos e orcs sob o mesmo escudo, e a fratura extremista; Jarl Yngwar Mão-Partilhada), **Ulfenhal** (os druidas da geada e os segredos das cavernas de gelo; a Anciã Sigrún), **Drosskar** (a fortaleza mista anões+homens e o equilíbrio frágil; Rei Bralt Dois-Machados), **Krummag** (os povos-lagarto, os templos submersos anteriores aos Três Dragões e Sszakh, a Boca do Brejo) e **Felidaria** (a política das presas felinas/lupinas pós-Guerra das Presas). **Total: 18 reinos** aprofundados nos três lotes. Reservei Tenebria, Uhalla, Zawadi (já bem desenvolvidos) e não os toquei.
+
+---
+
+## 2E — Sessão 65 · 2026-07-07 · +6 reinos rasos aprofundados (lote 2)
+
+Segundo lote: **Yanare** (culto do **Sonhador Submerso** sob o Mar de Sangue que sangra sobre as ruínas de Tarkisium; a Sacerdotisa-Maré Ishvara), **Khadira** (confederação equestre sob um Khan, o cavalo como família sagrada — distinta dos centauros de Khanzia; Khan Berek, o Cavaleiro-Lua), **Anathemar** (o estado-espião cujas guildas viraram a espinha da resistência após a conquista uriana; **O Arquivista**), **Taudrisía** (sociedade sob ocupação e o que Uria realmente cobiça no Abismo de Solazar/Picos de Dragoluz; a Condessa Vestíria), **Kovirstad** (o **Torneio do Gelo**, a caça ao mamute e o segredo da passagem além da Coroa de Gelo; Vraga Quebra-Gelo) e **Kald Jotun** (o reino-fantasma anão que "cavou fundo demais" — eco da queda de Alta Rocha). Total dos dois lotes: **12 reinos** aprofundados.
+
+---
+
+## 2E — Sessão 64 · 2026-07-07 · Aprofundados 6 reinos rasos
+
+Peguei reinos que só tinham um parágrafo e dei-lhes profundidade (sociedade, governo, uma figura e um gancho resolvido com reviravolta): **Venera** (Doge mercante e as Casas de Vidro; a rede de espiões "Vidraceiros" que escuta atrás dos espelhos que exporta), **Costamena** (a Ordem da Bruma e a "porta" que a névoa mantém fechada — eco do véu), **Ancalath** (arma os dois lados da guerra para financiar a própria rebelião; o Rei Doran, o Paciente), **Lenaria** (o Conselho dos Depostos e o dilema guerra-total × negociar; a General Kaela Vorne), **Nalmartis** (a irmandade de caçadores e o dever secreto de manter em Hamada o que não deve cruzar o mar; Torv Mão-de-Ferro) e **Tempéstia** (a maldição de Caelum, o Druida Afogado, preso no olho da tempestade). Edições feitas pelas ferramentas de arquivo (o shell ficou inconsistente após os moves de pasta).
+
+---
+
 ## 2E — Sessão 63 · 2026-07-07 · Home reconstruída em torno das pastas-tema
 
 Depois que o Deivison moveu as pastas para dentro das pastas-tema no Obsidian, reconstruí a home **[[Arcadia]]**: agora abre com "comece por aqui", o enredo do presente, e uma seção **"Navegue por tema"** com os 6 hubs ([[Mundo]], [[Povos & Cultura]], [[História]], [[Cosmos & Fé]], [[Natureza]], [[Elenco & Facções]]), seguida das 5 eras, dos 6 continentes, das facções e do bloco de deuses/cosmos/magia. **Usei só links de nome único** (que resolvem esteja a ficha em qualquer pasta), evitando os nomes duplicados que o Obsidian teve de re-caminhar ([[Religiões]], Linha do Tempo, Luna/Selene). Removi o bloco `folder-index` do rodapé — a navegação agora é 100% curada.

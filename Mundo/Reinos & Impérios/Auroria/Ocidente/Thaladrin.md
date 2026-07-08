@@ -22,6 +22,15 @@ Aurium (pedra dourada rara).
 #### Localizações
 **Marcos:** [[O Cume Dourado]]
 
+#### O aurium
+✦ O **aurium** não é ouro comum: reluz mesmo no escuro e carrega uma **afinidade com a magia** (ver [[O Cume Dourado]]). Feito liga ou runa, potencializa encantamentos — por isso magos de [[Vanov]], anões de [[Alta Rocha]] e mercadores das [[Mercantilhas]] disputam cada veio.
+
+#### Os clãs mineradores
+✦ A nobreza são **clãs mineradores** que monopolizam o aurium e mandam na ilha; a classe trabalhadora sangra nas minas. A riqueza faz de Thaladrin alvo eterno de ladrões e nações — e há um medo mais fundo: quanto mais se cava o Cume Dourado, mais algo lá dentro parece **acordar**.
+
+#### Figura
+✦ **Thane Bruna Veio-de-Ouro** — matriarca do clã minerador dominante, que esconde quanto aurium (e quanto perigo) já extraiu.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

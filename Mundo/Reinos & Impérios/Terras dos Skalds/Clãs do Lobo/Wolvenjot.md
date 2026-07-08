@@ -23,6 +23,15 @@ Frio; charcos, terras baixas e colinas, florestas geladas.
 #### Localizações
 **Marcos:** [[A Escarpa de Sempreinverno]], [[As Montanhas de Ferro]]
 
+#### O laço do lobo
+✦ Em Wolvenjot, cada guerreiro é criado com seu **lobo gigante** desde filhote; o laço é sagrado, e perder o companheiro é desonra que só se lava em batalha. Quem enfrenta Wolvenjot não luta contra homens, mas contra uma matilha.
+
+#### A linhagem de Fenraug
+✦ Os reis-xamãs dizem descender de **Fenraug, o Lobo Primordial** — que muitos identificam com [[Feonir]], o Lobo do Gelo do [[Panteão Nordico]]. Reza a lenda que Fenraug ainda vaga além da [[A Coroa de Gelo|Coroa de Gelo]], e que um dia uivará de volta seus filhos para a caçada final.
+
+#### Figura
+✦ **Rei-Xamã Ulfar Olho-de-Lua** — que dizem entender a língua dos lobos e ter sonhado com o retorno de Fenraug.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 
