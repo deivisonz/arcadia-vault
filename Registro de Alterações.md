@@ -8,12 +8,33 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 72 · 2026-07-08 · +11 fios recentes na 2E + conserto de truncamento
+
+Segundo lote de fios recentes, adensando o caminho para o presente: espiões de Kalinthor sumindo em Zarkovith (476), a disputa Androsa×Auristania por Tarkisium (549), a rivalidade mágica Vectaris×Vanov (561), a primeira transbordada de Xea'yasha sobre Sultaria (611), o pacto frágil pós-Guerra das Presas em Felidaria (631), os monstros se multiplicando com o véu fraco e sobrecarregando Kaermoria (662), Yverius levando suas descobertas ao Conselho das Brumas (674), a disputa pela sucessão de Kargath em Durenor (704), os vampiros de Malachia ousando caçadas abertas sob Selene (709), a primeira grande batalha das três facções de Bruvia (715) e o Culto aos Dragões intensificando os ritos (719).
+
+> [!warning] Conserto importante
+> A última linha da 2ª Era estava **truncada** ("...Mortemnis reapar") e o evento **2E 720** (a queda de Alta Rocha aos horrores das profundezas) havia **sumido** do arquivo — apesar de ser referenciado em [[O Presente de Arcádia]] e em fichas. Completei a linha 718 e **restaurei o 720**.
+
+---
+
+## 2E — Sessão 71 · 2026-07-08 · +12 eventos nas eras antigas (impérios & origens)
+
+Continuei tecendo, agora no passado profundo. **Era dos Heróis (+7):** Azurian escravizando povos para suas runas (620), os primeiros atritos Korvandrin×Azurian por Ethel'Crown (1180), Tarkisium dominando por satrapias (1560), Azurian afundando na magia proibida após as Guerras Rúnicas (2480), as guerras pelo Mithril de Alta Rocha (3155), a Revoada varrendo impérios e gerando refugiados (3420) e — o clímax temático — os Lordes Rúnicos lançando um último feitiço que **rasga o véu e precipita o Cataclisma** (4470). **Era das Trevas (+5):** a dispersão dos povos (18), os feiticeiros drow guardando runas de Azurian — semente dos Narzul (52), os korvandrinos velando as ruínas de Acrópolis — semente de Korvandor (95), os sobreviventes de Tarkisium reerguendo fortalezas — semente dos Tarkos/Androsa (210) e a aliança de reinos contra Draknovir desperto (315). Agora as origens dos povos e reinos atuais têm raízes visíveis nos impérios caídos. **Total das duas sessões: 32 eventos** novos.
+
+---
+
+## 2E — Sessão 70 · 2026-07-08 · +20 eventos tecendo os reinos (guerras + diplomacia)
+
+Agora que os reinos têm governantes e reviravoltas próprios, teci **20 eventos** que os interligam — guerras/rivalidades e comércio/diplomacia. **1ª Era (+6):** a primeira rota das Mercantilhas ao oriente (269), o Pacto do Ferro Kalinthor–Danevar (486), a primeira guerra Taurin×Taurenmar (634), Anathemar virando estado-espião sob a pressão de Uria (767), o resgate das bibliotecas no colapso de Taurin (858) e as casas Tarko de Androsa reivindicando Tarkisium (889). **2ª Era (+14):** o jogo duplo de Venera (66), o casamento mercante Habajj–Tapesh (112), a guerra dinástica de Yux-xai e o Mandato do Céu (179), Khan Berek repelindo os centauros (236), os **Magos Vermelhos** tomando Vashkor (344), o vazamento de uma arma de Zarkovith (461), o embargo das Cadeiras (508), o comércio de sangue Dorfel–Malachia (546), a aliança de sangue Elyria–Myriandor (579), a guerra de clãs de Saewan pela espada perdida do Monte Yuki (626), a rota dos Desbravadores ao oriente (652), Lovária marchando sobre Zawadi (669), a grande incursão de Ghorzuk pelas Trilhas dos Anciãos (689) e Danevar aproveitando a guerra civil de Bruvia (717). Feito pelas ferramentas de arquivo (o shell não alcança a timeline movida); inserções na posição cronológica correta.
+
+---
+
 ## 2E — Sessão 69 · 2026-07-07 · +6 reinos (lote 6 — varredura final)
 
 Último lote: **Thaladrin** (o aurium mágico e o medo do que acorda no Cume Dourado; Thane Bruna Veio-de-Ouro), **Dorfel** (as casas drow Vaeloth/Dûrnaz/Ir'Selka e os horrores das profundezas — os mesmos que engoliram Alta Rocha; Matriarca Vaeloth), **Myriandor** (a cultura híbrida magia+ciência e a paz étnica sob a pressão da Guerra de Contenção; Rainha Aelinor), **Zarkovith** (a forja fechada de Mirograd e o Tsar Voran, o Ferreiro-Rei), **Kalinthor** (os anões do sol e o dilema do primo caído de Alta Rocha; Rei Thordin Portas-Abertas) e **Lovária** (o trono-sol do zigurate e o exército cerimonial; Rei-Sol Mansa Katab). **Total: 36 reinos** aprofundados nos seis lotes — praticamente todos os reinos com ficha rasa agora têm sociedade, governo, figura e uma reviravolta amarrada ao resto do mundo.
 
-> [!note] Observação
-> **[[Durenor]]** ficou de fora: já é rico em conteúdo, mas usa formatação antiga (cabeçalhos com dois-pontos, frontmatter mínimo, sem seções Eventos/Ganchos, "Thralmar" em vez de [[Thrallmar]]). Candidato a uma **normalização** de formato no futuro.
+> [!note] Normalização de Durenor ✅
+> **[[Durenor]]** foi **normalizado** (sessão seguinte): frontmatter completo (referência, continente, região, capital, governo), cabeçalhos no padrão (sem dois-pontos), seções Localizações/Eventos/Ganchos adicionadas, "Thralmar" → [[Thrallmar]], e o deus **Thromgar** amarrado a [[Baelrok]] (o Senhor do Sangue) como possível mesma entidade. Todo o conteúdo rico foi preservado.
 
 ---
 

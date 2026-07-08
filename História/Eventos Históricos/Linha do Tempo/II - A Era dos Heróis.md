@@ -17,14 +17,19 @@ A **Era dos Heróis** abre com a fúria de **[[Draknovir]]**, que mata a Árvore
 	- **EH 175:** Vanov descobre os rituais que selaram Draknovir.
 	- ✦ **EH 250:** enlutados pela morte da Árvore Mãe, os elfos das [[Ilhas da Alvorada]] fecham-se ao mundo.
 	- ✦ **EH 500:** ascensão do **Império de [[Azurianos|Azurian]]** — a magocracia dos Lordes Rúnicos, que usa a magia sem freios.
+	- ✦ **EH 620:** [[Azurianos|Azurian]] subjuga os reinos vizinhos, escravizando magos e povos inteiros para alimentar suas runas.
 	- ✦ **EH 900:** fundação do **Império de Korvandrin**, no istmo de **Ethel'Crown** (então terra firme unindo os continentes — ver [[O Braço Partido]]).
 	- ✦ **EH 1100:** erguem-se as primeiras pólis que um dia formarão [[Tibéria]].
+	- ✦ **EH 1180:** primeiros atritos entre o militarista **Korvandrin** e a mágica [[Azurianos|Azurian]] pelo istmo de **Ethel'Crown**.
 	- ✦ **EH 1500:** apogeu do **Império Tarkisium** no oriente (herança dos [[Tarkos]]).
+	- ✦ **EH 1560:** o **Império Tarkisium** domina o oriente por satrapias e frotas, cobrando tributo de mar a mar.
 	- ✦ **EH 1650:** um povo hoje esquecido ergue as **[[As Colunas de El'Saren|Colunas de El'Saren]]** no oriente — pilares de uma escrita que ninguém mais lê.
 	- ✦ **EH 1800:** os centauros de [[Khanzia]] tornam-se um terror de saque no oriente.
 	- ✦ **EH 2200:** as **Guerras Rúnicas** — [[Azurianos|Azurian]] volta sua magia contra Korvandrin; sentem-se os primeiros desequilíbrios do véu.
+	- ✦ **EH 2480:** após as Guerras Rúnicas, [[Azurianos|Azurian]] mergulha ainda mais fundo na magia proibida — ignorando o véu que já rangia.
 	- ✦ **EH 3000:** navegadores redescobrem a [[A Cidadela do Conhecimento|Cidadela do Conhecimento]].
 	- **EH 3145:** anões de [[Alta Rocha]] descobrem o **Mithril** (culto a [[Tohrum]]).
+	- ✦ **EH 3155:** reinos disputam o **Mithril** de [[Alta Rocha]]; os anões selam suas minas a forasteiros.
 	- **EH 3265:** profecia do retorno de [[Draknovir]].
 	- **EH 3270:** **[[Mortemnis]]** aparece; a **Grande Ruptura** em [[Alta Rocha]].
 	- **EH 3271:** Doren Martelo de Prata sela o monstro das profundezas.
@@ -32,6 +37,8 @@ A **Era dos Heróis** abre com a fúria de **[[Draknovir]]**, que mata a Árvore
 	- **EH 3280:** fundação dos **Caçadores de Dragões** e do [[Forte Draconia]].
 	- **EH 3332:** conclusão do [[Forte Draconia]].
 	- ✦ **EH 3400:** as primeiras grandes caçadas consagram os dragoncidas de [[Draukar]].
+	- ✦ **EH 3420:** a Revoada dracônica varre impérios inteiros; refugiados de Tarkisium e de Azurian fogem para o interior dos continentes.
 	- ✦ **EH 4000:** **[[Harald, o Primeiro Rei]]** unifica os **Sete Reinos** contra a Revoada.
+	- ✦ **EH 4470:** num último esforço, os Lordes Rúnicos de [[Azurianos|Azurian]] lançam um grande feitiço para deter os dragões — e rasgam o véu ainda mais, precipitando o **Cataclisma**.
 	- **EH 4474:** fim da [[A Revoada Draconiana|Revoada Draconiana]].
 	- **EH 4475:** **O Cat
