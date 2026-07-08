@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **O Grande Mercado dos Terraços** — o coração comercial, aberto ao céu. **O Anel das Forjas** — a cinta de oficinas que circunda a cidade. **O Salão das Guildas** — onde o conselho governa. **Os Portões Baixos** — as grandes rotas de superfície que ligam Kalanthir ao mundo.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (um mestre de guilda, um embaixador de Alta Rocha). %%
+- [[Norra Martelo-de-Ouro]] — mestra do conselho de guildas, dividida entre o lucro e a honra do sangue.
 - [[Kalinthor]] — o reino anão de superfície que Kalanthir comanda.
 
 #### Segredos & perigos

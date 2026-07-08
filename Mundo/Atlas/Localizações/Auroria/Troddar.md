@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **O Grande Círculo** — a arena de pedra onde se elege o líder supremo. **Os Campos das Tribos** — planícies reservadas a cada clã durante os ritos. **O Santuário dos Anciãos** — o coração sagrado, sempre habitado. **O Mercado das Quatro Estações** — vazio por anos, lotado por dias.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (um ancião-guardião, o líder supremo do rito atual). %%
+- [[Khoraan Cascotroante]] — o atual líder supremo, eleito no último Grande Círculo.
 - [[Centauros]] — o povo nômade cuja única morada fixa é Troddar.
 
 #### Segredos & perigos

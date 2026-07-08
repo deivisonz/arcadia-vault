@@ -31,7 +31,9 @@ tags: [localização, cidade]
 ✦ **Os Portões Altos** — a fronteira habitada, fortemente guardada. **O Salão dos Mil Pilares** — o coração cerimonial, meio em ruínas. **As Forjas Eternas** — que não se apagam desde a fundação. **Os Selos** — os grandes portões de pedra que trancam os níveis fundos, e o que irrompeu deles.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (um mestre da Confraria da Rocha Eterna, um guardião dos portões). %%
+- [[Durgan, o Rei sem Salão]] — o rei exilado que guarda os portões altos e jura retomar a cidade.
+- [[Brok, o que Desceu]] — o único que voltou dos níveis selados, mudado.
+- [[Rei Brand Martelo-Real]] — o último Rei da Montanha, morto segurando os portões na queda (2E 720).
 - [[Alta Rocha]] — o reino anão do qual Dun Khazâd é o coração ferido.
 
 #### Segredos & perigos

@@ -25,12 +25,14 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 - Relevo: Floresta de Azarak · Planalto de Draugmar
 
 **[[Bruvia]]**
-- Cidades: [[Gwar Penar]] · Bravoforte · Pedralva · Vestravento · Toranthir · [[Invernalto]] · Porto Novo · Shyrena
+- Cidades: [[Gwar Penar]] · Bravoforte · Pedralva · Vestravento · Toranthir · [[Invernalto]] · [[Porto Novo]] · [[Shyrena]] · [[Travessul]] · [[Luadouro]] · [[Dorlumbur]]
+- Ordens: [[Kaer Eldrin]] (priorado-escola junto ao Lago Calendra, aos pés dos [[Os Picos Gêmeos|Picos Gêmeos]])
 - Relevo: [[Os Picos Gêmeos]] · [[A Mata dos Corvos|Mata dos Corvos]] · Cordilheira de Eremore · Bosques Bruvianos · [[A Floresta da Luz Ardente|Floresta da Luz Ardente]]
 - Águas: Estreito de Barbarocha (com [[Kalinthor]])
 
 **[[Bretania]]**
-- Cidades: [[Verdelar]] (capital) · Ventobrisa · Hendelis · Ealdorford · Wyndham · Dorlumbur · Luadouro · Travessul
+- Cidades: [[Verdelar]] (capital) · Ventobrisa · Hendelis · Ealdorford · Wyndham
+- Nota: **Dorlumbur, Luadouro e Travessul** foram reatribuídas a [[Bruvia]] (decisão do Deivison) — antes listadas aqui.
 - Relevo: [[A Floresta Eterna de Sylvandor|Floresta Eterna de Sylvandor]] · [[A Floresta dos Sussurros|Floresta dos Sussurros]] · Floresta dos Ventos Vivantes · Floresta Daynor · Cordilheira de Arka · [[O Círculo de Ithar|Círculo de Ithar]]
 - Águas: Lago Calendra · marco Kaer Eldrin(?)
 

@@ -46,6 +46,16 @@ A pergunta que move o presente não é *se* algo terrível vem — mas **quem es
 
 ---
 
+## O presente por região
+Para o "agora" detalhado de cada continente — conflitos, cidades e ganchos locais (a macro-geografia e os nomes das porções de terra estão em [[As Regiões de Arcádia]]):
+
+- 🛡️ [[O Presente na Aquilonia]] — a Guerra de Contenção no sul e a guerra civil de Bruvia no norte.
+- 🏛️ [[O Presente na Auroria]] — o coração do metaenredo: o véu, os vampiros e a terra caída.
+- ❄️ [[O Presente na Borealis]] — presságios escuros e os clãs Urso × Lobo.
+- 🏜️ [[O Presente na Sultaria]] — a maré goblinoide de [[Aharadoph]] e o deserto que lê o céu.
+
+---
+
 ## Ganchos para começar uma história
 - Investigar, ao lado de [[Yverius]], quem orquestra a fragilização do mundo.
 - Encontrar um sucessor à altura da antiga companhia — ou descobrir o que fez [[Lottus Ignis|Lottus]] desaparecer.

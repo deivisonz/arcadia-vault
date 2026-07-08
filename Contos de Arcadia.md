@@ -93,3 +93,59 @@ Nos canais, barqueiros guiavam suas embarcações silenciosas, onde também se p
 > _E se alguém já estiver agindo para tornar isso possível, é hora de descobrir._
 
 E assim, enquanto a calma aparente do entardecer cedia lugar à noite, o mago solitário sentia o peso de um antigo aviso. Havia muito a fazer, e pouco tempo antes que os primeiros sinais de desequilíbrio começassem a despontar em Arcadia.
+
+---
+
+### **Capítulo 2 – O Conselho das Brumas**
+
+#### **O que se decide sob a névoa**
+
+Há em **Bruma** uma verdade que os mapas não registram: a cidade tem dois governos. Um, visível, de reitores e magistrados que administram a Academia Arcana e cobram por cada consulta à Biblioteca das Brumas. Outro, oculto, que não cobra nada e decide tudo — o **Conselho das Brumas**, a ordem secreta que vela pelos saberes que jamais deveriam ser ensinados e pela própria **Trama**, o tecido invisível de onde toda magia é fiada. Dizem, os que ousam dizer, que a névoa perpétua de Bruma não é clima, mas o fôlego do Conselho: a Academia respirando seus segredos.
+
+Yverius pertencia a esse segundo governo havia mais anos do que a maioria dos vivos tinha de idade. E, no entanto, ao descer naquela noite as escadas que não constavam em planta alguma — degraus de pedra fria que espiralavam para baixo da Torre Astral, cada vez mais fundo, até onde a luz dos cristais adquiria um tom azul de água profunda —, sentia o mesmo aperto no peito de um aprendiz convocado para a prova. Não pelo medo do Conselho. Pelo medo do que vinha dizer a ele.
+
+A câmara no fim da escada era redonda e sem janelas, e mesmo assim havia névoa: uma bruma baixa que se enrolava nos tornozelos e engolia o chão, de modo que os sete assentos de pedra dispostos em círculo pareciam ilhas flutuando no nada. Nem todos estavam ocupados. O Conselho raramente se reunia por inteiro, e convocá-lo fora de hora era um direito que se pagava caro em prestígio se o motivo se revelasse tolo.
+
+Três vultos o aguardavam.
+
+À sua frente, na cadeira mais alta, **Arquimaga Sorvane** — mulher de idade indefinível, rosto liso e olhos velhos, mãos cruzadas sobre um bastão de vidro fumê. Era a voz mais pragmática do Conselho, e a mais perigosa: julgava cada questão pela balança fria do que custava e do que rendia à ordem. À direita dela, de pé porque desprezava sentar, **Mestre Corvinus**, o guardião dos saberes proibidos — um homem magro de dedos manchados de tinta e alma manchada de suspeita, que via em toda novidade uma ameaça a ser enterrada antes que respirasse. E, num assento mais baixo, quase encoberta pela névoa, a jovem **Elaria**, astromante recém-elevada ao círculo, cujos olhos ainda guardavam a fome de quem quer compreender o mundo antes de aprender a temê-lo.
+
+— Yverius — disse Sorvane, sem saudação. — Você convocou o círculo à meia-noite e recusou dizer o motivo ao mensageiro. Espero, por seu bem, que a névoa não tenha subido à sua cabeça.
+
+O velho mago não se sentou. Estendeu sobre o vazio enevoado, onde uma mesa deveria estar e não havia, um único pergaminho — a cópia que fizera de próprio punho da anotação marginal do tratado dos ciclos lunares. As palavras flutuaram, suspensas por um floreio de sua mão, para que todos as lessem ao mesmo tempo.
+
+> _“A Terceira Lua não emerge sozinha… antes que ela brilhe, o sangue e o sacrifício tecerão o véu da noite.”_
+
+— Isto — começou Yverius — não é profecia de almanaque. É instrução. Alguém, há muito, entendeu **como** se ergue a Terceira Lua, e teve o cuidado de anotá-lo à margem de um tratado que ninguém lê, para que ninguém entendesse. E há mais.
+
+Falou-lhes então do que vira e do que calara: da penumbra que descera sobre a Biblioteca por poucos segundos, densa e errada, como se o ar tivesse se lembrado de que podia rasgar. Das cópias que, nos últimos meses, falhavam sem explicação — runas de contenção que se desfaziam sozinhas, feitiços estáveis por séculos que de repente cuspiam fogo. Da Trama, enfim, que a seus dedos treinados andava **tensa demais**, como corda de alaúde afinada meio-tom acima, prestes a arrebentar.
+
+Corvinus foi o primeiro a rir, e riu sem alegria.
+
+— Um copista desastrado, uma tarde nublada e a mão trêmula de um velho. Convocou o círculo por agouros de taverna. — Cruzou os braços. — Sabe qual é o verdadeiro perigo aqui, Yverius? Não é lua nenhuma. É a **palavra**. Deixe que "véu", "Terceira Lua" e "Nihiloth" saiam desta câmara, e teremos pânico nas ruas, príncipes contratando os nossos para guerras de medo, e cultos brotando como cogumelo depois da chuva. O saber que você traz não deve ser corrigido. Deve ser **queimado**, e a mão que o copiou, esquecida.
+
+— Queimar o aviso não apaga o incêndio — retrucou Yverius, sem elevar a voz. — Apaga só a nossa chance de vê-lo chegar.
+
+Foi Elaria quem quebrou o impasse, e o fez com dados, não com fé — o único idioma que Sorvane respeitava. Ergueu-se, hesitante, e confessou o que não ousara relatar: nas últimas luas, ao alinhar seus instrumentos, encontrara nos céus um **erro**. Não um astro novo, ainda não — mas um lugar no firmamento onde os cálculos não fechavam, uma ausência com peso, como o afundamento na palha onde algo pesado esteve deitado. E esse vazio, dissera aos cálculos e agora dizia ao Conselho, não estava parado. Aproximava-se. E — aqui a jovem baixou os olhos — não se movia como um corpo celeste obedecendo às leis do céu. Movia-se como algo **puxado**.
+
+O silêncio que se seguiu tinha textura. Até a névoa pareceu parar.
+
+Sorvane descruzou as mãos pela primeira vez.
+
+— Puxado — repetiu, devagar, como quem prova um veneno para lhe reconhecer o gosto. — Você está me dizendo, criança, que a Terceira Lua não está voltando. Está sendo **chamada**.
+
+— A barreira mais antiga já caiu — disse Yverius, e agora havia cansaço em sua voz, o cansaço de quem carrega uma verdade sozinho há tempo demais. — A Árvore Mãe morreu há eras, e com ela a muralha que segurava o que espreita do outro lado do véu. Cada tremor no tecido do mundo, desde então, é mais fácil que o anterior. E se os tremores vêm com pressa e com desígnio, como Elaria vê nos céus e eu sinto na Trama, então não estamos diante de um ciclo da natureza. Estamos diante de uma **mão**. Alguém está fragilizando o mundo de propósito, sangue por sangue, sacrifício por sacrifício, para que a Terceira Lua se erga — e, atrás dela, o que ela sempre precede.
+
+Não pronunciou o nome. Naquela câmara, os nomes tinham peso, e há um que nem o Conselho das Brumas dizia à toa: **Nihiloth**, o Mundo que Devora, faminto por Arcadia desde antes da memória.
+
+Corvinus abriu a boca para desdenhar de novo, mas Sorvane ergueu dois dedos, e ele calou. A Arquimaga fitou o pergaminho suspenso por um longo momento, e quando falou, sua voz havia perdido o gume do desprezo — o que, vindo dela, era mais assustador que qualquer grito.
+
+— O Conselho não agirá com base num agouro e no palpite de uma astromante de primeira lua — disse. — Mas também não queimará o que não compreende, como quer Corvinus; enterrar um aviso é o luxo de quem tem certeza, e ninguém aqui tem. — Voltou os olhos velhos para Yverius. — Então faremos o que esta ordem faz de melhor: **saberemos**, antes que o mundo saiba. Você tem a Trama e os livros; Elaria tem os céus. Cruzem o que sentem com o que ela vê. Encontrem o **fio** — o lugar, o rito, a mão que puxa. Tragam-me não um medo, mas um culpado. E façam-no em silêncio, porque se estivermos certos, Yverius, então há alguém neste mundo que já sabe muito mais que nós, e que não gostará de ser observado.
+
+Yverius inclinou a cabeça. Era menos do que pedira e mais do que esperava.
+
+Quando tornou a subir a escada sem planta, a névoa vinha atrás dele como um animal fiel, e a Torre Astral o recebeu com o silvo baixo de seus cristais e o tique-taque eterno das engrenagens de Bruma marcando horas que, pela primeira vez em séculos, lhe pareciam **contadas**. Parou junto à janela mais alta. Lá fora, as duas luas de sempre pendiam sobre a cidade adormecida — a prateada e a de âmbar —, e o céu entre elas era só escuridão.
+
+Mas Yverius, que aprendera a ver o que poucos enxergam, olhou para aquele pedaço de nada por um longo tempo. E teve a impressão, que não confiou a ninguém, de que a escuridão olhava de volta.
+
+> *O Conselho lhe dera uma missão e um prazo que ninguém soubera nomear. Restava a pergunta que Sorvane não fizera em voz alta, e que ecoaria em cada passo dos dias por vir: se alguém estava puxando a Terceira Lua para o céu de Arcadia — quem, entre reis, cultos e feiticeiros, teria tanto a ganhar com o fim do mundo?*

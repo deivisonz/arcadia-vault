@@ -8,6 +8,114 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 94 · 2026-07-08 · Crônica: A Neve Não Esquece
+
+Escrita uma **crônica das Skaldlands** — [[Crônica - A Neve Não Esquece]] — em estilo misto (Tolkien, Cornwell, G.R.R.M., Leonel Caldela): narrada em 1ª pessoa por Haldan, um velho guerreiro juramentado do Clã do Urso enviado à fronteira do [[O Deserto Mórbido|Deserto Mórbido]] após um aviso das völvas de [[Branuvik]]. Dramatiza, do ponto de vista de quem vive no gelo, o enfraquecimento do véu com o retorno de [[Mortemnis]]: os mortos de [[Draugrhotar]] começam a se levantar sem deixar rastro. Amarra com [[O Presente na Borealis]] e ecoa o metaenredo dos "ferrolhos do mundo sendo puxados por uma mão distante" (Yverius/Terceira Lua). Personagens originais e locais (Haldan, Sten, Yrsa, Káre, jarl Aldis, povoado de Vetrhal). **Reescrita (v2) a pedido do Deivison:** muito mais densa em ambiente e imersão, ritmo mais lento em 7 partes — a vida no salão de Vetrhal, os detalhes da preparação e da marcha, a psicologia do frio ("rouba as coisas na ordem certa"), e o terror crescendo devagar até o encontro com o morto.
+
+---
+
+## 2E — Sessão 93 · 2026-07-08 · Contos de Arcadia — Capítulo 2 + revisão dos contos
+
+Escrito o **Capítulo 2 – O Conselho das Brumas** (em [[Contos de Arcadia]]), continuação do Cap. 1: Yverius leva sua descoberta sobre a Terceira Lua ao Conselho secreto de [[Bruma]] (dramatiza o evento 2E 674), enfrentando o cético Corvinus e a pragmática Arquimaga Sorvane; a astromante Elaria confirma que o "vazio" nos céus se move como algo **puxado**, não como astro natural — a Terceira Lua está sendo **chamada**. Fecha com a missão de achar a mão por trás dos tremores do véu. Personagens novos do Conselho: Sorvane, Corvinus, Elaria. Totalmente alinhado ao cânone (Trama, véu, [[Nihiloth]], Árvore Mãe caída, [[Conselho das Brumas]]).
+
+**Revisão de [[Contos Arcadianos]] (aplicada, decisões do Deivison):** o reino anão do conto da Brewdery deixou de ser "Durenor" (que é orc no cânone) e passou a **Alta Rocha** — alinhando com a ficha de [[Duren IV]] (Casa Duren, herança de Thirond). Em "Entre as Rochas", o pequeno reino élfico da rainha Dalara foi renomeado de "Elíria/Helíria" para **Elaraen** (para não colidir com Elyria/Valyriath, o grande reino humano); a montanha **El'Saren → Aelryn** (a de El'Saren é canônica em Khadira); **Ethel'Crown → o Braço Partido**; e a grafia da deusa **Xaia → Xaya**. Nomes já corretos preservados (Kaeltar, Alésia Khravort, Leodax, Tyr/Trovark/Gwar Penar).
+
+---
+
+## 2E — Sessão 92 · 2026-07-08 · Kaer Eldrin reconcebida (priorado-escola)
+
+Correção pedida pelo Deivison: Kaer Eldrin **não está na fronteira**, então a premissa de "patrulha" caiu. Reconcebida como um **priorado-escola** recluso à beira do Lago Calendra, de uma ordem de **cavaleiros-sacerdotes** de Bruvia que forja pupilos em armas, letras e fé. Amarrada à lore existente: foi ali que **[[O Prior]]** escondeu e criou o príncipe [[Ragnar Thorn|Ragnar]] sob nome plebeu — o berço secreto do rei-paladino. Ganchos novos: o que O Prior deixou, se a escola esconde o herdeiro oculto de Ragnar, o que o Lago Calendra "mostra". Referências no Índice Toponímico e na ficha de O Prior atualizadas. **Fé ancorada em canon:** a ordem é da **Igreja de [[Solarion]]** — a *Fé da Luz* (verdade, honra, cura), a igreja dominante de Bruvia em modo cavaleiresco-cristão (Bruvia ≈ Inglaterra medieval); Ragnar é um paladino de Solarion. Anglicismo corrigido: "o velho keep" → "o velho torreão" (e "scriptorium" → "sala de cópia").
+
+---
+
+## 2E — Sessão 91 · 2026-07-08 · Cidades de Bruvia + Ordem de Kaer Eldrin
+
+Corrigido o lema da **Casa Toranthir** ("Antes dos Thorn, Nós" → *"A Galhada Não se Curva."*) — uma casa não cita outra no próprio lema. Criadas duas cidades de [[Bruvia]] confirmadas pelo mapa: **[[Porto Novo]]** (~7 mil, porto calmo no Mar Interior, sul/leste, junto à Floresta da Luz Ardente) e **[[Shyrena]]** (~10 mil, entreposto do interior, cavalos e pedreiras — peça logística cobiçada na guerra de sucessão). Criada a **[[Kaer Eldrin]]** — ordem-irmandade jurada da fronteira aos pés dos [[Os Picos Gêmeos|Picos Gêmeos]] e do Lago Calendra (espírito da Patrulha da Noite sem muralha; caça o que desce do gelo, distinta da escola mercenária de [[Valenos]]/[[Kaermoria]]). Índice [[Localizações]] atualizado. **Reatribuição confirmada:** Travessul, Luadouro e Dorlumbur foram **movidas de Bretania para Bruvia** (decisão do Deivison), com fichas criadas e Índice Toponímico + Localizações atualizados. **[[Travessul]]** (~16 mil, cidade-celeiro da coroa, colada em Invernalto — peça logística decisiva na sucessão); **[[Luadouro]]** (~8 mil, cidade do ouro e do luar aos pés de Arka, na fronteira feérica com Bretania/Círculo de Ithar); **[[Dorlumbur]]** (~9 mil, madeireira entre as florestas Avoria e Daynor, no leste). Bruvia agora com 7 cidades fichadas + a Ordem de Kaer Eldrin.
+
+---
+
+## 2E — Sessão 90 · 2026-07-08 · +8 personagens (Faeloria + Khanzia/Arenor/Lovária/Felidaria)
+
+**Faeloria (em torno de [[Lottus Ignis]]):** [[Sanadel, a Voz do Ausente]] (o zelote que governa em nome do tirano sumido), [[Nerith Meia-Noite]] (a meio-elfa que lidera a resistência ao expurgo) e [[Maelor, o Fiel]] (o velho amigo que procura a verdade do desaparecimento). **Quatro reinos:** [[Khoraan Cascotroante]] (líder supremo centauro de [[Troddar]]/[[Khanzia]]), [[Faraó Menkaure, o Sol Vivo]] (deus-rei de [[Osirium]]/[[Arenor]]) e [[Neferu, Sumo-Sacerdote de Azhoros]] (o clero da morte de [[Ankhar]], flertando com a necromancia), [[Mansa Katab, o Rei-Sol]] (formalizado a partir da ficha de [[Lovaria|Lovária]], reina em [[Luminastra]]) e [[Zahra Presa-Dourada]] (matriarca felina de [[Pataluna]]/[[Felidaria]]). Todos ligados às seções Personagens das cidades.
+
+---
+
+## 2E — Sessão 89 · 2026-07-08 · Casas de Bruvia reescritas (dinastia ramificada)
+
+Retrabalho pedido pelo Deivison (a versão anterior estava genérica e a família de Ragnar, pequena demais). A **dinastia Thorn** ganhou **cinco gerações** e ramos colaterais: o fundador **Torvald, o Primeiro Espinho**; **Hakon, o Velho**, de quem descendem o **Ramo Cinzento** (sangue Thorn puro, empobrecido) e a gota de sangue real que casou com **Toranthir**; **Rei Sigmar** (pai de Ragnar, casado com a Rainha Ingrith de **Pedralva**). A geração de Ragnar virou uma **família partida** — Aldric (maldito), Roderyk (morto jovem em Gwar Penar), Ragnar (com a Rainha Freydis, o Príncipe Eirik morto aos 10, e o bastardo sussurrado) e **Astrid** (viva, casada com Bravonor → o pretendente **Corwin Bravonor-Thorn**), além do tio **Lorde Regente Halvar**. Agora a sucessão é uma **teia de coroas** (Corwin, Halvar, Toranthir, o Ramo Cinzento, o bastardo), e cada Grande Casa tem cabeça nomeada e laço de sangue/casamento com os Thorn.
+
+---
+
+## 2E — Sessão 88 · 2026-07-08 · Presente reestruturado por regiões + "Terras da Aurora"
+
+"As Terras do Poente" renomeada para **As Terras da Aurora** (metade oeste de Auroria, a oeste da Espinha), a pedido do Deivison — ecoa o nome do continente. Os **4 relatórios do Presente** foram reescritos para se organizarem pelas **seções nomeadas** de [[As Regiões de Arcádia]]: Aquilonia (*Norte Bravio · Coração Verde · Sul Contestado*), Auroria (*Terras da Aurora · Terras do Levante*, com as três faixas do Levante), Borealis (*Terras do Urso · do Lobo · Ermos do Fim*) e Sultaria (*Costa das Caravanas · Terras Rubras · Verde Sem Fim*). O conteúdo agora entrelaça as cidades, os personagens (Sigvald×Hrólf, Vharzok, Durgan, Corvian) e os conflitos ativos dentro de cada região nomeada.
+
+---
+
+## 2E — Sessão 87 · 2026-07-08 · As Casas de Bruvia (dinastia Thorn)
+
+Criada [[As Casas de Bruvia]] — as Grandes Casas de um reino nórdico dividido, ao estilo GoT. Formalizada a **dinastia Thorn** e a herança de [[Ragnar Thorn]]: a Casa Thorn quase se extinguiu quando o primogênito [[Aldric Thorn]] se vendeu a Nihiloth; o caçula escondido Ragnar voltou como príncipe perdido e reinou como Grande Rei, morrendo sem herdeiro direto (2E 712) e lançando a guerra de sucessão. Seis casas com sede, brasão, lema e postura na guerra: **Thorn** (a coroa sem cabeça, [[Invernalto]]), **Bravonor** (o escudo legitimista), **Pedralva** (os guardiães dos passos, fazedores de reis), **Vhestra** (os oportunistas de Vestravento), **Toranthir** (o sangue antigo que reclama a coroa) e **Penmark** (a muralha remendada de [[Gwar Penar]]). Ligada a Invernalto e a [[O Presente na Aquilonia]]. Gancho vivo: o herdeiro oculto de Ragnar.
+
+---
+
+## 2E — Sessão 86 · 2026-07-08 · Regiões nomeadas + 4 lendas mortas
+
+**Macro-geografia:** criada [[As Regiões de Arcádia]], dividindo cada continente em **porções de terra nomeadas** (a pedido do Deivison): Aquilonia → *O Norte Bravio · O Coração Verde · O Sul Contestado*; Auroria → *As Terras do Poente · As Terras do Levante* (com *Rotas das Especiarias*, *Canatos das Estepes*, *Reinos do Sol Nascente*); Borealis (Skaldlands) → *As Terras do Urso · As Terras do Lobo · Os Ermos do Fim*; Sultaria → *A Costa das Caravanas · As Terras Rubras · O Verde Sem Fim*; Drakavir → *O Abismo Draconiano*. Ligada a [[O Presente de Arcádia]].
+
+**Elenco de mortos ilustres** (o roster tinha vivos demais): [[Kael Korvann, o Último Rei-Imperador]] (afundou com Korvandrin no Cataclisma), [[Vaelith, o Lorde Rúnico]] (o feitiço de Azurian que rasgou o véu — EH 4470), [[Sigrún, a Lança do Amanhecer]] (caiu derrubando [[Draknovir]] no Braço Partido, ET 333) e [[Rei Brand Martelo-Real]] (morreu segurando os portões de [[Dun Khazâd]], 2E 720). Ligados às cidades e eventos correspondentes.
+
+---
+
+## 2E — Sessão 85 · 2026-07-08 · +5 personagens (Alta Rocha + Auristania/Taurin)
+
+**Núcleo anão:** [[Durgan, o Rei sem Salão]] (rei exilado de [[Alta Rocha]], guarda os portões altos de [[Dun Khazâd]]), [[Norra Martelo-de-Ouro]] (mestra de guilda de [[Kalanthir]], dividida entre lucro e sangue) e [[Brok, o que Desceu]] (o único que voltou dos níveis selados — mudado). **O "império romano" — Ocidente livre × Oriente tradicional:** [[Tauredon III, o Chifre de Bronze]] (Imperador minotauro de [[Taurin]], resolve o gancho de [[General Leodax|Leodax]]), [[Aurélio Vantis, o Primeiro Cônsul]] (líder de [[Auristania]], guardião da ordem livre) e [[Legado Corvian, o Lobo das Legiões]] (o general ambicioso — a "legião tentada a marchar sobre a capital"). Todos ligados às fichas de cidade.
+
+---
+
+## 2E — Sessão 84 · 2026-07-08 · +6 personagens nórdicos (Borealis)
+
+Personagens específicos para os reinos do norte, ligados às cidades: **[[Sigvald, o Urso de Ferro]]** (jarl de [[Nordvalen]]/[[Tordenheim]], sonha com a grande incursão), **[[Hrólf Presa-Negra]]** (jarl de [[Ulenthor]]/[[Danevar]], o saqueador — rival do Urso), **[[Gerda, a Völva Cega]]** (völva-mestra de [[Branuvik]], vê o véu se rompendo), **[[Ingmar, o Jarl do Lamento]]** ([[Alfrjord]]/[[Helvenmark]]), **[[Yrsa de Velkrania]]** (a bruxa seiðr da mata, sombra sobre [[Torval]]) e **[[Thrain Barba-de-Ferro]]** (thane anão de [[Doranherim]]). Cada um amarrado à seção Personagens da sua cidade; a rivalidade Sigvald × Hrólf alimenta o Urso × Lobo de [[O Presente na Borealis]].
+
+---
+
+## 2E — Sessão 83 · 2026-07-08 · O Presente por região + Aharadoph e a horda goblinoide
+
+Expansão da frente **O Presente de Arcádia**. Criados **4 relatórios regionais do "agora"** (em `O Presente/`): [[O Presente na Aquilonia]] (Guerra de Contenção + guerra civil de Bruvia), [[O Presente na Auroria]] (o véu, os vampiros, Alta Rocha caída, os impérios), [[O Presente na Borealis]] (presságios escuros, Urso × Lobo) e [[O Presente na Sultaria]] (a maré goblinoide + o deserto que lê o céu) — todos ligados à nota-mãe, tecendo as cidades e reinos nos conflitos ativos.
+
+A pedido do Deivison, criada a ficha rica de **[[Aharadoph]]** — a cidade-horda capital de [[Xea'yasha]] (~280 mil, a maior concentração de corpos do sul), fábrica de guerra das legiões de goblins, hobgoblins e ogros. Com 3 personagens novos: **[[Vharzok, o Punho de Ferro]]** (hobgoblin unificador — resolve o gancho da identidade do líder), **[[Skreel, o Olho-Vermelho]]** (xamã-oráculo que lê Mortemnis) e **[[Brakkuth, o Quebra-Muralhas]]** (campeão ogro). Atualizada a ficha de [[Xea'yasha]] (capital + figuras + gancho resolvido) e o índice [[Localizações]].
+
+---
+
+## 2E — Sessão 82 · 2026-07-08 · Ajustes demográficos (feedback do Deivison)
+
+Recalibragem de quatro fichas: **Invernalto** (35→**70 mil**, capital de um grande reino, à la Winterfell — grande mesmo sendo no frio); **Valencia** (40→**85 mil**, precisa ser grande para se autossustentar no deserto, o que a magia da rocha permite); **Azhagoth** (20→**15 mil**, pois os povos-lagarto são descentralizados, com Azhagoth mais centro ritual que moradia de todos); e **Fortaleza de Luchen** reclassificada de cidade para **fortificação** (`porte: fortificação`), com no máximo **5.000** almas (guarnição e serviçais), não uma cidade.
+
+---
+
+## 2E — Sessão 81 · 2026-07-08 · +7 cidades (lote 7 — migração concluída)
+
+Último lote, fechando a migração de **todas as ~55 cidades com ficha** para o formato rico com população calibrada: **Jadelume** (~90 mil, a "mente" erudita de Yux-xai), **Sombrelar** (~60 mil, capital drow de subsolo), **Invernalto** (~35 mil, praça-forte sobre fontes termais), **Valencia** (~40 mil, cidade da rocha negra mágica), **Ankhar** (~25 mil, cidade-necrópole), **Fortaleza de Luchen** (~20 mil, baluarte do Mar de Sangue) e **Azhagoth** (~20 mil, cidade-pântano dos povos-lagarto). Ajuste de coerência: **Valencia** rebaixada a `cidade` (coração cultural/comercial) para não conflitar com **Bugdai** como capital política de Tapesh, conforme o mapa. **Migração concluída: Solária + 55 cidades no formato rico, todas com população segundo critério histórico/geográfico/racial.**
+
+---
+
+## 2E — Sessão 80 · 2026-07-08 · +8 cidades (lote 6)
+
+Sexto lote no formato rico: **Mirograd** (~80 mil, cidade-fábrica de guerra de Zarkovith), **Nova Aurelia** (~70 mil, cidade-modelo livre de Auristania), **Isenholm** (~30 mil, cidade humana par de Doranherim), **Nosteria** (~30 mil vivos+mortos, cidade vampírica), **Nyxoria** (~25 mil, cidade-templo de Nyx), **Delphos** (~20 mil, cidade-oráculo de Argon), **Kagehara** (~15 mil, cidade das sombras de Saewan) e **Kaermoria** (~1,5 mil, fortaleza-escola dos caçadores). **Total migrado: Solária + 48 cidades.** Restam poucas cidades secundárias (Jadelume, Ankhar, Sombrelar, Fortaleza de Luchen, Valencia, Invernalto, Azhagoth).
+
+---
+
+## 2E — Sessão 79 · 2026-07-08 · +8 cidades (lote 5)
+
+Quinto lote no formato rico, misturando capitais menores e cidades notáveis: **Fortis Legionis** (~120 mil, cidade-quartel legionária de Auristania), **Sangrenia** (~55 mil vivos+mortos, capital vampírica), **Bugdai** (~45 mil, porto sobre o Mar de Finareia), **Gwar Penar** (~40 mil, porto-mártir de Bruvia), **Doranherim** (~35 mil, cidade anã do norte), **Sythria** (~30 mil, mercado das sombras rumo a Dorfel), **Vectaris** (~8 mil, a cidade voadora) e **Branuvik** (~5 mil, santuário das völvas). Populações por critério racial/geográfico (a cidade voadora limitada pela plataforma; o santuário oracular pequeno mas influente). **Total migrado: Solária + 40 cidades.**
+
+---
+
+## 2E — Sessão 78 · 2026-07-08 · +8 capitais (lote 4) + revisão de termos nórdicos
+
+Revisão de tradução pedida pelo Deivison: **"longhouse" → "casa comunal"** (e o salão do jarl → "grande salão comunal") e **"thing" → "Assembleia dos Clãs"** / "A Pedra da Assembleia", corrigidos em Nordvalen, Alfrjord e Torval. Quarto lote de capitais no formato rico: **Trovantis** (~70 mil, cidade-caravana sem rei), **Thrallmar** (~45 mil flutuante, fortaleza-acampamento orc), **Jahariyah** (~40 mil, cidade das guerreiras), **Vashkor** (~35 mil, capital saudosa de um império morto), **Silvaruna** (~30 mil, baluarte élfico), **Neblinéia** (~25 mil, porto sob tempestade perpétua), **Alfrjord** (~10 mil, Clã do Urso das montanhas) e **Torval** (~9 mil, à beira de Velkrania). As duas nórdicas ficaram claramente abaixo de Nordvalen/Ulenthor, como pedido. **Total migrado: Solária + 32 capitais.**
+
+---
+
 ## 2E — Sessão 77 · 2026-07-08 · +8 capitais (lote 3) + ajuste demográfico do norte
 
 Ajuste pedido pelo Deivison: **Nordvalen** (14→**35 mil**) e **Ulenthor** (12→**30 mil**) elevadas às **duas maiores cidades das Skaldlands**, gigantes para o norte gelado mas ainda modestas frente ao sul — população agora respeitando critério histórico/geográfico/racial. Terceiro lote de capitais no formato rico, com populações calibradas por raça e história: **Kalanthir** (~110 mil, anões de superfície, empório aberto), **Zyanara** (~90 mil, seda e veneno), **Valenoria** (~85 mil, caçadores de monstros), **Pataluna** (~60 mil, medina felina vertical), **Lumenara** (~55 mil, artífices gnômicos), **Sylvaryn** (~45 mil, cidade-árvore élfica dos meio-elfos), **Cascoforte** (~40 mil, baluarte pastoril tauren) e **Dun Khazâd** (~25 mil hoje / >150 mil no ápice — capital anã que caiu em 2E 720). **Total migrado: Solária + 24 capitais.**

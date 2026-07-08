@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **O Palácio Radiante** — a residência dourada do monarca-sol, no ponto mais alto. **A Praça dos Tambores** — o coração cívico e comercial. **A Casa dos Griôs** — onde se guarda e canta a memória do reino. **A Muralha de Barro** — o grande anel que cerca e protege a cidade da savana.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (o monarca-sol, um mestre griô, um chefe rebelde das tribos). %%
+- [[Mansa Katab, o Rei-Sol]] — o monarca quase divino que reina do Palácio Radiante.
 - [[Lovaria|Lovária]] — o reino-sol que Luminastra comanda.
 
 #### Segredos & perigos

@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **O Salão do Jarl** — o coração político, onde se bebe e se decide a guerra. **As Docas dos Lobos** — de onde partem os dracares de proa entalhada. **A Rua das Fornalhas** — o bairro fumegante dos ferreiros. **A Pedra dos Juramentos** — onde os capitães selam as expedições.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (o jarl de Danevar, um capitão de dracar temido). %%
+- [[Hrólf Presa-Negra]] — o jarl de Ulenthor, o mais temido saqueador do Lobo.
 - [[Danevar]] — o Clã do Lobo cuja capital é Ulenthor.
 
 #### Segredos & perigos

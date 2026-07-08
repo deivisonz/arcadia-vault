@@ -27,7 +27,7 @@ Encarna o poder e a crueldade do império minotauro. Um obstáculo (ou peça) de
 - [[Duren IV]] — rei forçado a cumprir seu decreto.
 
 #### Segredos / ganchos
-%% ✦ Leodax serve ao imperador de Taurin, ou tem ambições próprias? %%
+%% ✦ Leodax serve ao Imperador [[Tauredon III, o Chifre de Bronze|Tauredon III]] — mas com lealdade sincera ou ambição própria? %%
 
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.

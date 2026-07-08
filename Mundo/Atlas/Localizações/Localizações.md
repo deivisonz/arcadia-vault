@@ -12,7 +12,7 @@ tipo: índice
 - **[[Anathemar]]** — **Marcos:** [[A Selva da Resistência]]
 - **[[Aquilonia - Continente Oeste]]** — **Marcos:** [[O Mar de Elendil]]
 - **[[Bretania]]** — **Cidades:** [[Verdelar]] · **Marcos:** [[A Floresta Eterna de Sylvandor]], [[A Floresta dos Sussurros]], [[Cordilheira de Arka]], [[O Círculo de Ithar]]
-- **[[Bruvia]]** — **Cidades:** [[Gwar Penar]], [[Invernalto]] · **Marcos:** [[A Cordilheira de Eremore]], [[A Floresta da Luz Ardente]], [[A Mata dos Corvos]], [[Os Picos Gêmeos]]
+- **[[Bruvia]]** — **Cidades:** [[Gwar Penar]], [[Invernalto]], [[Porto Novo]], [[Shyrena]], [[Travessul]], [[Luadouro]], [[Dorlumbur]] · **Marcos:** [[A Cordilheira de Eremore]], [[A Floresta da Luz Ardente]], [[A Mata dos Corvos]], [[Os Picos Gêmeos]] · **Ordens:** [[Kaer Eldrin]]
 - **[[Draukar]]** — **Cidades:** [[Nehrim]], [[Nyxoria]] · **Marcos:** [[Angra da Fuligem]], [[Forte Draconia]], [[Monte Drakthal]]
 - **[[Durenor]]** — **Cidades:** [[Thrallmar]] · **Marcos:** [[O Escudo de Gromash]], [[Os Sertões de Orgrim]]
 - **[[Halinor]]** — **Cidades:** [[Sylvaryn]]
@@ -76,7 +76,7 @@ tipo: índice
 - **[[Normantis]]** — **Cidades:** [[Trovantis]]
 - **[[Shebrevia]]** — **Cidades:** [[Jahariyah]] · **Marcos:** [[As Minas de Jofar]]
 - **[[Sultaria - Continente Sul]]** — **Marcos:** [[As Serpentinas de Zephyro]]
-- **[[Xea'yasha]]** — **Marcos:** [[As Selvas Intermináveis]]
+- **[[Xea'yasha]]** — **Cidades:** [[Aharadoph]] · **Marcos:** [[As Selvas Intermináveis]]
 - **[[Zawadi]]** — **Marcos:** [[Os Montes Nyambé]]
 
 ## 🌐 Marcos especiais e entre-mundos

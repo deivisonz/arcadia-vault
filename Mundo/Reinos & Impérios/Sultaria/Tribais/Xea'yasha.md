@@ -17,11 +17,16 @@ Selva profunda; "Selvas Intermináveis".
 #### Localização
 Extremo sul de [[Sultaria - Continente Sul|Sultaria]].
 
-#### Tribos importantes
-- [[Aharadoph]]
+#### Capital
+- [[Aharadoph]] — a cidade-horda no coração das [[As Selvas Intermináveis|Selvas Intermináveis]], fábrica de guerra das legiões goblinoides (~280 mil).
+
+#### Figuras
+- [[Vharzok, o Punho de Ferro]] — o hobgoblin que unificou as tribos (~2E 604) e transformou a horda em legião.
+- [[Skreel, o Olho-Vermelho]] — xamã-oráculo que lê os presságios das trevas e de [[Mortemnis]].
+- [[Brakkuth, o Quebra-Muralhas]] — o campeão ogro, aríete vivo das legiões.
 
 #### Diplomacia
-Ameaça expansionista contra [[Zawadi]] ao norte.
+Ameaça expansionista contra [[Zawadi]] ao norte e contra as Cidades Livres (ver [[O Presente na Sultaria]]).
 
 #### Localizações
 **Marcos:** [[As Selvas Intermináveis]]
@@ -31,4 +36,4 @@ Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta
 
 ---
 #### Ganchos de expansão
-%% A identidade do líder que unificou os goblinoides. %%
+%% ✦ O líder unificador é [[Vharzok, o Punho de Ferro]] (revelado). Restam: o que empurra a maré a se expandir agora; o que há no centro das Selvas Intermináveis que nem os goblinoides tocam; a guerra de sucessão latente entre os marechais. %%

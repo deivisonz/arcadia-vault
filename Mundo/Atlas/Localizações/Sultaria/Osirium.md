@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **O Templo do Sol** — o coração do culto de Solarion. **A Casa das Estrelas** — o grande observatório dos sacerdotes-astrônomos. **A Necrópole** — a cidade dos mortos, do outro lado do rio, com as pirâmides-túmulo. **O Cais Real** — onde atracam as barcas cerimoniais. Ao longe, a [[A Esfinge de Arenor|Esfinge]] vela o horizonte.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (o deus-rei de Arenor, um sumo-sacerdote de Azhoros). %%
+- [[Faraó Menkaure, o Sol Vivo]] — o deus-rei de Arenor, que reina de Osirium.
 - [[Azhoros]] — senhor das tumbas, cujo clero domina os ritos funerários.
 
 #### Segredos & perigos

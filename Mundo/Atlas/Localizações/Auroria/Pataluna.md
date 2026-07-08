@@ -31,7 +31,7 @@ tags: [localização, cidade]
 ✦ **Os Telhados Altos** — a verdadeira cidade, lá em cima, das passarelas e terraços. **A Praça dos Nove Clãs** — onde o conselho se reúne e as famílias se medem. **O Mercado dos Sussurros** — onde a mercadoria mais cara é a informação. **A Trégua** — o bairro neutro onde felinos e lupinos ainda comerciam.
 
 #### Personagens
-%% Ligar a [[Personalidades]] conforme surgirem (um chefe de clã felino, um emissário lupino). %%
+- [[Zahra Presa-Dourada]] — a matriarca que sustenta a paz frágil com os lupinos.
 - [[Felidaria]] — o reino felino que Pataluna comanda.
 
 #### Segredos & perigos
