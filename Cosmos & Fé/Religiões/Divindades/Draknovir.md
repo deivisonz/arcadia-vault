@@ -22,3 +22,4 @@ A escama rubra, a asa partida e o ovo intocado (o retorno prometido).
 ---
 #### Ganchos de expansão
 %% Draknovir pode realmente voltar? A relação do culto com os [[Os Três Dragões]]. %%
+%% ✦ Reconstrução herética ([[A Fome e os Dragões]]): Draknovir teria sido o dragão **corrompido pela Fome** ([[Nihiloth]]) — a primeira mão de Vhorruun em Arcádia. Se for verdade, foi a Fome, vestida de dragão, que destruiu a **Árvore Mãe** (a maior tranca do véu), e sua queda em ET 333 foi a primeira vitória contra ela. O "retorno prometido" que o culto aguarda seria, então, uma **Maré**. %%

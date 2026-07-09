@@ -30,3 +30,4 @@ Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta
 ---
 #### Ganchos de expansão
 %% ✦ Se restou registro do feitiço de Vaelith — e se alguém ousaria repeti-lo; o que sobrou dele nas ruínas de Azurian; se sua alma paga, de algum modo, pelo véu que rasgou. %%
+%% ✦ Reconstrução herética ([[A Fome e os Dragões]]): o feitiço de Vaelith não foi acidente isolado, mas o **último fio** de gerações de soberba rúnica de Azurian — e há quem creia que a Fome ([[Nihiloth]]) lhe sussurrou o ritual, e ele o tomou por genialidade própria. O erro de Azurian sobreviveu nele e nos drow [[Narzul]] que fugiram das ruínas. %%

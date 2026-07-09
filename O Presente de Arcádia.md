@@ -30,8 +30,8 @@ O que torna tudo pior: a barreira mais antiga do mundo **já caiu**. A [[A Queda
 ---
 
 ## A antiga companhia — perdida
-Os três heróis que uma vez **frustraram a primeira Maré de [[Nihiloth]]** ([[A Primeira Maré de Nihiloth]]) tiveram fins trágicos, e hoje **nenhum deles pode ser convocado**:
-- **[[Ragnar Thorn]]** virou o **Grande Rei** de [[Bruvia]] — e **morreu** (2E 712), deixando o reino numa guerra civil de sucessão.
+Os três heróis que, **há dois séculos**, frustraram a primeira Maré de [[Nihiloth]] ([[A Primeira Maré de Nihiloth]], 2E 499) tiveram fins trágicos, e hoje **nenhum deles pode ser convocado**:
+- **[[Ragnar Thorn]]** foi o **Grande Rei fundador** de [[Bruvia]] (2E 500–522); sua dinastia governou por quase dois séculos — até **extinguir-se agora** (2E 712), lançando o reino na guerra civil de sucessão.
 - **[[Trovark Thoraldsson]]** ascendeu à lenda — um **dragão branco** que dorme nas montanhas do norte.
 - **[[Lottus Ignis]]** tornou-se o tirano de [[Faeloria]] e então **desapareceu** (2E 713), enlouquecido, dizem — uma incógnita.
 
@@ -57,7 +57,7 @@ Para o "agora" detalhado de cada continente — conflitos, cidades e ganchos loc
 ---
 
 ## Ganchos para começar uma história
-- Investigar, ao lado de [[Yverius]], quem orquestra a fragilização do mundo.
+- Investigar, ao lado de [[Yverius]], quem orquestra a fragilização do mundo — e descobrir a verdade terrível por trás de **[[A Mão Faminta]]**: que não há um "quem".
 - Encontrar um sucessor à altura da antiga companhia — ou descobrir o que fez [[Lottus Ignis|Lottus]] desaparecer.
 - Descer sob [[Alta Rocha]] para enfrentar o que expulsou os anões.
 - Desmascarar os vampiros de [[Sangrenia]] antes que [[Selene]] chegue ao auge.

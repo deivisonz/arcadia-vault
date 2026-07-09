@@ -26,3 +26,4 @@ Um milênio depois, os dragões abandonaram seu velho continente e chegaram ao m
 ---
 #### Ganchos de expansão
 %% Onde estão os três ovos perdidos? Quem é o ser imortal a quem o Dragão Vermelho delegou seu poder? %%
+%% ✦ **Por que Drakavir caiu, e de que os dragões realmente fugiram** — uma reconstrução herética propõe que foi da Fome ([[Nihiloth]]) que consumiu o continente. Ver [[A Fome e os Dragões]]. (Teoria, não cânone confirmado — respeitar [[A Natureza do Divino]].) %%

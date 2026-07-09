@@ -17,13 +17,13 @@ tags: [personalidade]
 Estatura média (baixa para um nortenho), barba ruiva e cabelos longos ondulados presos com corda. Traja armadura leve sob uma capa de peles. Espirituoso e mordaz, mas leal.
 
 #### História
-Nascido no sul das Skaldlands, passou a vida buscando um herói digno de ser seguido — até encontrar [[Trovark Thoraldsson|Trovark]] no **Grande Saque de Gwar Penar** (2E 642). É um **skald** (bardo cronista) e também **arúspice**: lê presságios nas entranhas dos mortos, prática que evita. Certa vez viu um agouro sobre Trovark tão delicado que o guardou em segredo, temendo alterar seu destino. Porta uma lira e uma **trombeta de guerra de chifre de mamute**.
+Nascido no sul das Skaldlands, Tyr é o maior **guardião vivo da Saga da Antiga Companhia** — o ciclo de cantos sobre [[Ragnar Thorn|Ragnar]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis|Lottus]], os heróis de **dois séculos atrás** que barraram a [[A Primeira Maré de Nihiloth|Primeira Maré]]. Não os conheceu: herdou seus cantos, fragmentos e segredos dos skalds que vieram antes, e devotou a vida a preservá-los. É um **skald** e também **arúspice**: lê presságios nas entranhas dos mortos, prática que evita. Guarda da saga um **agouro** delicado demais sobre o destino de Trovark, que teme repetir em voz alta. Porta uma lira e uma **trombeta de guerra de chifre de mamute**.
 
 #### Papel no mundo
 Memória viva do norte: preserva em canto os feitos, quedas e lendas dos Clãs. Onde passa, troca histórias por abrigo e comida.
 
 #### Relações
-- [[Trovark Thoraldsson]] — o herói que escolheu seguir e cronicar.
+- [[Trovark Thoraldsson]] — o herói ancestral cuja saga Tyr guarda e canta (sem tê-lo conhecido).
 - Ligado aos ritos e presságios de [[Uhalla]] e [[Kyneholm]].
 
 #### Segredos / ganchos

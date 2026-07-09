@@ -18,7 +18,7 @@ O **líder de um povo élfico sem-terra** que virou o **tirano de [[Faeloria]]**
 Um elfo de beleza fria e orgulho absoluto. O peso de guiar um povo perdido endureceu-o até o fanatismo — e, dizem, além dele.
 
 #### História
-✦ Lottus liderava um povo élfico errante, exilado de sua terra natal arruinada. Aliou-se a [[Ragnar Thorn|Ragnar]] e [[Trovark Thoraldsson|Trovark]] e ajudou a derrotar [[Aldric Thorn]]. Depois, tomou [[Faeloria]] (2E 705) para dar um lar ao seu povo — e, corrompido pela obsessão da "pureza" élfica, iniciou o expurgo dos meio-elfos.
+✦ Lottus liderava um povo élfico errante, exilado de sua terra natal arruinada. Há **dois séculos**, aliou-se a [[Ragnar Thorn|Ragnar]] e [[Trovark Thoraldsson|Trovark]] e ajudou a derrotar [[Osric Thorn]] na [[A Primeira Maré de Nihiloth|Primeira Maré]] (2E 499) — e foi ele quem mergulhou no rito para desfazê-lo por dentro, chegando perto demais da voz da Fome. Sendo **elfo**, sobreviveu aos companheiros humanos e vagou pelos séculos seguintes carregando o seu povo — e, talvez, uma semente plantada naquele dia. Só muito mais tarde, já ancião, **tomou [[Faeloria]]** (2E 705) para dar um lar aos seus — e, corrompido pela obsessão da "pureza" élfica, iniciou o expurgo dos meio-elfos.
 
 Em **2E 713, Lottus simplesmente desapareceu**. Rumores dizem que **enlouqueceu**; alguns o creem morto, outros escondido, outros consumido por algo maior. Seu regime de pureza persiste sem ele, tocado por lugar-tenentes zelosos que governam **em nome de um tirano ausente** — e temem o dia de seu retorno tanto quanto o povo o teme.
 
@@ -30,7 +30,7 @@ Uma **incógnita** que paira sobre [[Faeloria]] e sobre o presente: onde está L
 - Seu povo élfico, dividido entre Faeloria e o norte ([[Helvenmark]]).
 
 #### Segredos / ganchos
-%% ✦ O que fez Lottus sumir/enlouquecer? Um segredo da aventura? A influência de [[Nihiloth]]? Ele voltará? %%
+%% ✦ A semente de sua ruína pode datar da [[A Primeira Maré de Nihiloth|Primeira Maré]] (2E 695): foi Lottus quem mergulhou no rito de Osric para desfazê-lo por dentro, e chegou perto demais da voz da Fome. A obsessão pela "pureza", a tirania e o sumiço (2E 713) seriam a fatura cobrada tarde — e ele seria hoje a "mão que foi mais longe" da [[A Mão Faminta]]. Ele voltará? Como o quê? %%
 
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.

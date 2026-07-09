@@ -13,7 +13,7 @@ tags: [reino]
 > A ficha antiga descrevia Bruvia como a teocracia de Vohzro (Emeline, Dominus IV). Isso foi **movido para [[Malachia]]**, onde a linha do tempo o situa. Bruvia é o **reino feudal** do rei-paladino [[Ragnar Thorn]].
 
 #### História
-Fundada em **1E 702** pela junção de pequenos condados do planalto de Zephyra, Bruvia cresceu como uma **monarquia feudal** de nobreza guerreira, que vê o aço e a fé como os alicerces da terra. Suas fronteiras nunca conhecem paz: grupos nórdicos de [[Borealis - Continente Norte|Borealis]] assolam suas costas. Foi governada pelo lendário **rei-paladino [[Ragnar Thorn]]** — o príncipe perdido que retornou ao trono (ver [[A Primeira Maré de Nihiloth]]). Com sua **morte (2E 712) sem herdeiro direto**, porém, o reino mergulhou numa **guerra civil de sucessão** que dilacera o presente.
+Fundada em **1E 702** pela junção de pequenos condados do planalto de Zephyra, Bruvia cresceu como uma **monarquia feudal** de nobreza guerreira, que vê o aço e a fé como os alicerces da terra. Suas fronteiras nunca conhecem paz: grupos nórdicos de [[Borealis - Continente Norte|Borealis]] assolam suas costas. Sua era de ouro foi fundada há dois séculos pelo lendário **rei-paladino [[Ragnar Thorn]]** — o príncipe perdido que retornou, derrotou o irmão traidor e frustrou a [[A Primeira Maré de Nihiloth|Primeira Maré]] (2E 499). A **dinastia Thorn** reinou por quase dois séculos, até **extinguir-se** com o Rei Halgar (2E 712) — e a falta de herdeiro lançou o reino numa **guerra civil de sucessão** que dilacera o presente (ver [[As Casas de Bruvia]]).
 
 #### Geografia
 Terra de contrastes, com a **[[Cordilheira de Arka]]** ao sudoeste e a de **Eremore** a leste dividindo o reino em três seções. Entre elas estende-se o **planalto de Zephyra**, ladeado pelos **Bosques Bruvianos** e pela **Floresta de Avoria**. Ao norte, o grande **[[Lago Calendra]]**, rodeado pelos **Picos Gêmeos**. Corta-o o **Rio Senara**.
@@ -41,7 +41,7 @@ Nobreza guerreira e camponeses leais aos senhores feudais. Majoritariamente huma
 Vigilância constante contra as incursões de [[Danevar]] e [[Tordenheim]]; muralhas reforçadas (2E 710).
 
 #### Personagens
-[[Aldric Thorn]], [[O Prior]], [[Ragnar Thorn]], [[Terna]]
+[[Osric Thorn]], [[O Prior]], [[Ragnar Thorn]], [[Terna]]
 
 #### Localizações
 **Cidades:** [[Gwar Penar]], [[Invernalto]]

@@ -8,7 +8,7 @@ tipo: índice
 
 | Personagem | Origem | Era | Status |
 |---|---|---|---|
-| [[Aldric Thorn]] | [[Bruvia]] | 2E | morto |
+| [[Osric Thorn]] | [[Bruvia]] | 2E | morto |
 | [[Alésia Khravort]] | [[Mercantilhas]] | 2E | vivo |
 | [[Amidio Mondessa]] | [[Tibéria]] | 2E | vivo |
 | [[Arlegis, o Sombra]] | [[Mercantilhas]] | Primeira Era | lenda (morto) |
@@ -37,7 +37,7 @@ tipo: índice
 | [[Minoxius III]] | [[Taurin]] | Primeira Era | morto (assassinado 1E 898) |
 | [[Névoa]] | [[Felidaria]] (?) | 2E | vivo |
 | [[O Prior]] | [[Bruvia]] | 2E | morto |
-| [[Ragnar Thorn]] | [[Bruvia]] | 2E (†2E 712) | morto (lenda) |
+| [[Ragnar Thorn]] | [[Bruvia]] | 2E (~500, †522) | lenda ancestral |
 | [[Rainha Dalara]] | [[Elíria]] | 2E | vivo |
 | [[Rainha Emeline]] | [[Malachia]] | Segunda Era | morto (deposta) |
 | [[Samael]] | [[Vandria]] | atemporal (desde a [[III - A Era das Trevas|Era das Trevas]]) | morto-vivo |

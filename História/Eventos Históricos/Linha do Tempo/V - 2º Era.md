@@ -61,11 +61,16 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - ✦ **2E 476:** espiões de [[Kalinthor]] tentam roubar os segredos de forja de [[Zarkovith]] — e desaparecem sem deixar rastro.
     - ✦ **2E 483:** um inverno cruel castiga [[Borealis - Continente Norte|Borealis]]; clãs inteiros migram para o sul.
     - ✦ **2E 488:** [[Kald Lundar]] e [[Drosskar]] disputam o comércio de ferro do norte.
+    - ✦ **2E 495:** o **Grande Saque de [[Gwar Penar]]** — [[Trovark Thoraldsson|Trovark]] ganha fama, e o príncipe escondido [[Ragnar Thorn|Ragnar]] é capturado e levado ao norte.
     - ✦ **2E 497:** [[Alta Rocha]] fecha-se sobre si mesma, emergindo apenas contra ameaças diretas.
+    - ✦ **2E 499:** a **antiga companhia** ([[Ragnar Thorn|Ragnar]], [[Trovark Thoraldsson|Trovark]], [[Lottus Ignis|Lottus]]) derrota [[Osric Thorn]] e frustra a **[[A Primeira Maré de Nihiloth|Primeira Maré de Nihiloth]]** — o mundo quase é devorado.
+    - ✦ **2E 500:** [[Ragnar Thorn|Ragnar]], o príncipe perdido, herda o trono de [[Bruvia]] e funda a era de ouro da **dinastia Thorn**.
+    - ✦ **2E 504:** [[Trovark Thoraldsson|Trovark]] mata um dragão do gelo na montanha mais alta das Skaldlands e **torna-se um dragão branco**.
     - ✦ **2E 508:** as [[As Cadeiras|Cadeiras]] impõem um embargo que arruína uma casa rival — aviso a quem desafia as [[Mercantilhas]].
     - ✦ **2E 512:** a [[Igreja de Vohzro]] sela o **[[O Vale dos Imortais|Vale dos Imortais]]** como sanctum dos vampiros anciãos de [[Malachia]].
     - ✦ **2E 513:** astrônomos notam os primeiros sinais de que [[Cosmos & Fé/Religiões/Divindades/Selene]], a lua rubra, volta a se aproximar.
     - ✦ **2E 519:** [[Cosmos & Fé/Religiões/Divindades/Selene]], a lua rubra, provoca as primeiras "marés de sangue" nas costas de [[Malachia]].
+    - ✦ **2E 522:** morre **[[Ragnar Thorn|Ragnar]], o Grande Rei**; a dinastia Thorn que ele fundou seguirá por quase dois séculos.
     - ✦ **2E 523:** a Rainha [[Rainha Emeline|Emeline]] resiste ao Sacro Corvo — mas a lua rubra já a cerca.
     - **2E 526:** a Rainha **[[Rainha Emeline|Emeline]]** cede ao **Sacro Corvo**; [[Malachia]] torna-se teocracia da [[Igreja de Vohzro]].
     - **2E 532:** o **Conflito dos Credos** — a [[Igreja de Vohzro]] torna-se a única fé permitida em [[Malachia]] (ver [[O Conflito dos Credos]]).
@@ -116,11 +121,11 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - **2E 688:** **[[Dominus IV]]** torna-se **Sacro Corvo**.
     - ✦ **2E 689:** **Ghorzuk** lança a maior incursão de [[Kharzug]] ao sul de [[Auroria - Continente Leste|Auroria]], surgindo pelas **Trilhas dos Anciãos**.
     - ✦ **2E 691:** os clãs de [[Saewan]] firmam uma trégua tensa; a busca pela espada perdida do [[Monte Yuki]] segue em segredo.
-    - ✦ **2E 693:** [[Trovark Thoraldsson|Trovark]] mata um dragão do gelo na montanha mais alta das Skaldlands e **torna-se um dragão branco**.
-    - ✦ **2E 695:** a antiga companhia ([[Ragnar Thorn]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis]]) derrota [[Aldric Thorn]] e frustra a **[[A Primeira Maré de Nihiloth|primeira Maré de Nihiloth]]**.
+    - ✦ **2E 693:** a linhagem [[Ragnar Thorn|Thorn]] enfraquece — o Rei **Halgar** de [[Bruvia]] perde o único filho, o príncipe **Eirik**, e fica sem herdeiro.
+    - ✦ **2E 695:** as völvas de [[Branuvik]] começam a ler presságios de que **[[Mortemnis]]** se aproxima outra vez.
     - ✦ **2E 697:** [[Faeloria]] mergulha numa guerra civil entre facções élficas e meio-élficas.
     - ✦ **2E 698:** [[Lottus Ignis]] retorna à sua [[Faeloria]] em ruína e vê nela a chance de forjar um reino "puro".
-    - ✦ **2E 701:** [[Ragnar Thorn]], o príncipe perdido, herda o trono de [[Bruvia]]; os elfos errantes de [[Lottus Ignis|Lottus]] assentam-se em Bruvia e no norte ([[Helvenmark]]).
+    - ✦ **2E 701:** os elfos errantes de [[Lottus Ignis|Lottus]] assentam-se em [[Bruvia]] e no norte ([[Helvenmark]]).
     - **2E 702:** descoberta do continente **Sudoeste**; exploração comandada por [[Draukar]].
     - ✦ **2E 703:** o Chefe de Guerra **Kargath Mão de Lâmina** mantém a tênue união das tribos de [[Durenor]].
     - ✦ **2E 704:** em [[Durenor]], chefes rivais já disputam a sombra de **Kargath**, que envelhece sem herdeiro claro.
@@ -131,7 +136,7 @@ A era **atual**. Palco de guerras, ascensão de guildas e reinos, novos dogmas e
     - ✦ **2E 709:** com a lua rubra [[Cosmos & Fé/Religiões/Divindades/Selene|Selene]] se aproximando, os vampiros de [[Malachia]] ousam as primeiras caçadas abertas fora de [[Sangrenia]].
     - ✦ **2E 710:** [[Bruvia]] reforça muralhas e fortalezas contra as incursões nórdicas crescentes.
     - ✦ **2E 711:** assassinos misteriosos rondam as cortes do norte — os primeiros sinais da crise de sucessão.
-    - ✦ **2E 712:** morre **[[Ragnar Thorn]]**, o grande rei-paladino. Sem herdeiro direto, [[Bruvia]] mergulha numa **guerra civil de sucessão** entre as casas nobres.
+    - ✦ **2E 712:** morre o **Rei Halgar**, o último [[Ragnar Thorn|Thorn]] da linha direta. **Extinta a linhagem sagrada do Grande Rei Ragnar**, [[Bruvia]] mergulha numa **guerra civil de sucessão** entre as casas descendentes.
     - ✦ **2E 713:** **[[Lottus Ignis]]** desaparece de [[Faeloria]] — dizem que enlouqueceu. Seu regime de pureza persiste sem ele, e seu paradeiro é uma incógnita.
     - ✦ **2E 714:** as casas de [[Bruvia]] agrupam-se em **três facções rivais** pelo Trono de Inverno.
     - ✦ **2E 715:** as três facções de [[Bruvia]] travam a primeira grande batalha pelo Trono de Inverno, arrasando o interior.

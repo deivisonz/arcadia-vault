@@ -109,6 +109,8 @@ Dello toca nos ombros de Cella fazendo-a voltar de seu transe, seus olhos voltam
   
 
 - TYR E TROVARK ENTRAM EM UM BAR -
+
+> *Cena da **Saga da Antiga Companhia** (~2E 500), preservada por [[Tyr Skaldsson]]: retrata o [[Trovark Thoraldsson|Trovark]] ancestral, ainda mortal, dois séculos antes do presente.*
     
 
 O ambiente era ameno, mesas espalhadas com cadeiras em sua volta, o chão e paredes eram feitos de madeira e polidos por banha de mamute, uma prática comum em locais frios para evitar que o calor escape. Em uma das paredes havia uma lareira que trazia calor ao local. As janelas estavam fechadas e um lustre de ferro provia a luz central enquanto que em certas mesas algumas velas proviam uma luz para quem quisesse ler ou jogar cartas. Podia se contar 20, talvez 30 pessoas, sendo eles caçadores, criadores de gado ou pescadores. Em dias de nevasca como esse, a taverna era o principal refúgio dos que ali residiam. O silêncio do local era apenas quebrado pelo mover de algumas moedas em mesas de apostas onde jogavam um carteado local conhecido como cabresto de peixe. 

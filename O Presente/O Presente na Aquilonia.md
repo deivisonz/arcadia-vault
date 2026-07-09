@@ -14,7 +14,7 @@ O Continente Oeste vive **duas guerras ao mesmo tempo** — uma santa, no sul; o
 ## O Norte Bravio
 A fronteira gélida e guerreira, dividida contra si mesma.
 
-- **[[Bruvia]] em chamas:** morto o Grande Rei [[Ragnar Thorn]] (2E 712), as [[As Casas de Bruvia|Grandes Casas]] travam uma **guerra civil de sucessão** — legitimistas, usurpadores e oportunistas puxando o reino em direções opostas, com o trono vazio em [[Invernalto]].
+- **[[Bruvia]] em chamas:** extinta a dinastia do lendário [[Ragnar Thorn]] com a morte do Rei Halgar (2E 712), as [[As Casas de Bruvia|Grandes Casas]] travam uma **guerra civil de sucessão** — legitimistas, usurpadores e oportunistas puxando o reino em direções opostas, com o trono vazio em [[Invernalto]].
 - **Sob os dracares:** [[Gwar Penar]] e o litoral sangram sob as incursões de [[Danevar]] e [[Tordenheim]] (2E 598), que aproveitam o caos.
 - **[[Bretania]]:** de [[Verdelar]], a coroa reina por pacto com as [[Fadas]] — e um antigo pacto feérico se aproxima do vencimento.
 - **[[Tempestia|Tempéstia]]:** [[Neblinéia]] vive sob tormenta perpétua; ninguém sabe se é clima ou maldição.

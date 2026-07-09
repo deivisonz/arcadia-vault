@@ -8,9 +8,61 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 102 · 2026-07-08 · A antiga companhia recuada 2 séculos (2E ~500)
+
+Retcon pedido pelo Deivison: os heróis morriam recente demais. **A antiga companhia agora é ancestral (~2E 500).** A [[A Primeira Maré de Nihiloth]] recuou de 2E 695 → **2E 499**; o Saque de [[Gwar Penar]] → **~2E 495**; [[Ragnar Thorn]] vira **rei-paladino fundador** (reinou 2E 500–522) que **deixou descendentes**; a **dinastia Thorn** governou ~2 séculos e só agora se **extinguiu** (Rei **Halgar**, †2E 712, sem herdeiro) — este é o novo motor da guerra de sucessão. [[Trovark Thoraldsson|Trovark]] virou dragão ~2E 504 (atemporal). [[Lottus Ignis|Lottus]], sendo **elfo**, sobreviveu dois séculos e só caiu recentemente (Faeloria 2E 705, some 2E 713) — a fatura da Fome cobrada tardíssimo. [[Tyr Skaldsson|Tyr]] reformulado como **guardião da saga** (não testemunha). **As Casas de Bruvia** reescrita (fundação ancestral × extinção recente; nova geração: Halgar/Eirik/Astrid/Halvar). Timeline reancorada (eventos antigos inseridos em 2E 495–522; seção recente limpa). Cross-fixes em O Presente, O Presente na Aquilonia, A Trama Central, Bruvia, Gwar Penar, Personalidades e o conto de Tyr (marcado como cena ancestral).
+
+---
+
+## 2E — Sessão 101 · 2026-07-08 · Aldric → Osric + orgulho humano + imortalidade élfica
+
+**Rename:** a pedido do Deivison, **Aldric Thorn → [[Osric Thorn]]** (o Herdeiro Negro) em **16 arquivos** — ficha nova criada, links atualizados em toda parte (fichas, índice, timeline, Casas de Bruvia, cosmologia, changelog). A ficha antiga `Aldric Thorn.md` virou tumba (apagar no Obsidian). **Consolidação:** descoberta uma **duplicata** de [[Guerras/A Primeira Maré de Nihiloth|A Primeira Maré de Nihiloth]] (o mapa do sandbox não via a original em `Guerras/`); conteúdo rico movido para a canônica de `Guerras/`, a duplicata virou tumba. Ambas as tumbas listadas na Manutenção do [[Roadmap]].
+
+**Ajustes em [[A Trama Central de Arcádia]]:** (1) a seção da soberba virou **"o orgulho humano"** — o mais humano dos defeitos, mesmo quando o comete um elfo (Azurian) ou um anão (Alta Rocha), com o humano Osric em destaque; anglicismo "os proud" → "os orgulhosos". (2) Adicionada a **perda da imortalidade élfica** como a "primeira cicatriz" da trama: a Árvore Mãe era fonte da imortalidade dos elfos, e sua destruição (por [[Draknovir]]) os fez começar a morrer — cada elfo ancião é hoje testemunha viva e mortal (ver [[A Queda dos Elfos]]).
+
+---
+
+## 2E — Sessão 100 · 2026-07-08 · Pluralidade de causas (ajuste de tom)
+
+Ajuste pedido pelo Deivison: **nem tudo gira em torno da Fome.** Reescrita [[A Trama Central de Arcádia]] para deixar de ser "chave-mestra que explica tudo" e virar **uma leitura, não uma sentença** — o grande medo de fundo, mas com dois princípios no coração: (1) a maioria dos conflitos de Arcádia é real e independente (política, ganância, guerra têm história própria e completa); (2) as conexões são hipótese contestável, não fato (respeitando [[A Natureza do Divino]]). A soberba virou *padrão que se repete*, não *lei/conspiração única*; a seção "Como usar" agora prega parcimônia e ambiguidade ("se tudo for a Fome, ela deixa de assustar"). Suavizado também o trecho dos "fios visíveis" de [[A Mão Faminta]] (a imensa maioria é só o mundo sendo o mundo; a Fome *talvez* toque uns poucos, e ninguém prova).
+
+---
+
+## 2E — Sessão 99 · 2026-07-08 · Guia da trama central
+
+Criada [[A Trama Central de Arcádia]] — um **guia-panorama apresentável** que conta o plot principal de ponta a ponta, unindo todos os pontos num fio só (para mostrar a outros e dar a visão do problema central do mundo). Em 7 partes + "como usar": a Fome ([[Nihiloth]]); os dragões como primeiras vítimas que fugiram de [[Drakavir -  Abismo Draconiano|Drakavir]]; as barreiras (véu, Árvore Mãe, selos); a soberba que abre a porta (Azurian, anões, Draknovir); a [[A Primeira Maré de Nihiloth|Primeira Maré]] (o quase-fim de 2E 695); o presente ([[Mortemnis]], [[A Mão Faminta]] sem cabeça, os heróis perdidos); e a pergunta central ("como se mata uma fome?") com a esperança-preço (reunir as salvaguardas dos Três). Hub de links para todos os aprofundamentos.
+
+---
+
+## 2E — Sessão 98 · 2026-07-08 · Consistência: o que os heróis salvaram (A Primeira Maré)
+
+Consertado um nó de cânone apontado pelo Deivison. **Slip corrigido:** o pacto de [[Osric Thorn]] era "Maré de **Vandria**" (dimensão dos vampiros) em duas fichas — trocado para **Maré de [[Nihiloth]]** (a Fome), coerente com a timeline. **Escala reconciliada:** distinção entre *arranhão* (véu ferido de fora — Draknovir, Cataclisma) e *Maré* (véu escancarado de dentro — o devorar); uma Maré plena nunca se completou. **Criada [[A Primeira Maré de Nihiloth]]** (evento, 2E 695) — o link estava quebrado e nunca fora escrito. Responde "o que os heróis salvaram?": [[Ragnar Thorn|Ragnar]], [[Trovark Thoraldsson|Trovark]] e [[Lottus Ignis|Lottus]] impediram o **fim do mundo** — Osric, seduzido pelo sussurro da Fome e usando a runaria maldita de [[Azurianos|Azurian]], tentou rasgar o véu de par em par (a semente da [[A Mão Faminta]]); o trio o deteve no último instante (Ragnar matando o próprio irmão). Preço trágico: Ragnar→rei→morto; Trovark→dragão; **Lottus**, que desfez o rito por dentro, chegou perto demais da voz da Fome — semente de sua tirania, sumiço e possível papel como "a mão que foi mais longe". Osric ganhou método concreto (soberba + rito profano, ligando-o ao tema de [[A Fome e os Dragões]]). Cross-links em Osric, Trovark, Lottus e Nihiloth.
+
+---
+
+## 2E — Sessão 97 · 2026-07-08 · Amarrando as pontas + a soberba dos mortais
+
+Fechadas as pontas soltas de [[A Fome e os Dragões]] (seção "Amarrando as pontas"): **Drakavir** é uma zona de Fome *meio-digerida* (o prato que a Fome largou ao farejar Arcádia); nela restam as mutações dracônicas, a Prole e "algo que já foi dragão"; **[[Draknovir]] foi corrompido pela Fome** (a mão que destruiu a Árvore Mãe — a maior tranca), e o [[Culto aos Dragões]] aguarda, sem saber, uma Maré; os **Três Dragões sabiam** e fugiram para *preparar* defesas (a magia/Cidadela do Azul, os ovos-âncora da Verde, o bastião adormecido do Vermelho) que o tempo dispersou; e a "cura" (esquecer de novo) exige reunir essas salvaguardas perdidas — hesperança com preço.
+
+Adicionada a seção-chave **"A chave é sempre o orgulho"** (pedido do Deivison; inspiração Senhor dos Anéis): a Fome não arromba a porta, é **convidada** pela soberba mortal. Os **Lordes Rúnicos de [[Azurianos|Azurian]]** — magia sem limite e ritos profanos que desgastaram o véu por gerações, culminando no feitiço de [[Vaelith, o Lorde Rúnico|Vaelith]] (Cataclisma); seus drow [[Narzul]] herdeiros ainda cortam as runas proibidas (a "porta para a noite eterna" de [[Nyxoria]]). E os anões de [[Alta Rocha]] que **cavaram fundo demais** e arrombaram, por cobiça, um selo dos antigos (2E 720 — Moria). Runa, pá ou pacto: a chave é a mesma — a certeza de que o limite é para os outros. Cross-links em Draknovir, Culto aos Dragões e Vaelith.
+
+---
+
+## 2E — Sessão 96 · 2026-07-08 · A Fome e os Dragões (cosmologia do medo)
+
+Criada [[A Fome e os Dragões]] — a origem e a metafísica da grande ameaça, no espírito de Tormenta + Call of Cthulhu, mas com virada original: **[[Nihiloth]] não é um mundo estrangeiro, é o estado final de um mundo que se consumiu** (o futuro pressionando de volta); e **não invade — faz a realidade lembrar que já esteve morta** (por isso mortos se levantam, a entropia corre, as mentes quebram, e nascem as "zonas de Fome" à la Tempestade). Amarra a ideia do Deivison com o cânone dos [[Os Três Dragões|Três Dragões]] (que tem o buraco perfeito: nunca explica *por que* Drakavir caiu): **a Fome comeu [[Drakavir -  Abismo Draconiano|Drakavir]] primeiro, e os dragões fugiram para Arcádia** — os Três cedo e como fundadores, o resto um milênio depois como a debandada apavorada da [[A Revoada Draconiana|Revoada]]. [[Mortemnis]] é o *cheiro* de que a Fome farejou a nova presa. Tudo enquadrado como **reconstrução herética** (não fato), respeitando [[A Natureza do Divino]]. Cross-links em Nihiloth, Os Três Dragões (só no gancho, sem tocar o corpo canônico) e [[A Mão Faminta]].
+
+---
+
+## 2E — Sessão 95 · 2026-07-08 · O antagonista: A Mão Faminta
+
+Definida a **mão oculta** por trás do metaenredo — [[A Mão Faminta]], o culto secreto que serve a [[Nihiloth]]/Vhorruun e fragiliza o véu de propósito ("puxa os ferrolhos do mundo"). Unifica num só desenho de antagonista os fios espalhados: o selo rompido sob [[Dun Khazâd|Alta Rocha]], os mortos do norte, a "porta para a noite eterna" de [[Nyxoria]], a "grande marcha" de [[Skreel, o Olho-Vermelho|Skreel]], o sumiço de [[Lottus Ignis]]. Herdeira do pacto de [[Osric Thorn]] (que não morreu com ele). Método: romper selos antigos, sacrificar em "lugares finos" e **alimentar as crises que já existem** (Contenção, sucessão de Bruvia, maré goblinoide) sem precisar criá-las. **Decisão do Deivison sobre o Arauto da Fome: "Ninguém — e todos"** — não há mestre nem trono; a coordenação é a própria fome de Vhorruun sussurrada em muitas mentes (ressonância, não conspiração). Impossível de decapitar; a pergunta que impõe aos heróis não é "quem é o inimigo?" mas "como se mata uma fome?". Cross-links: [[Nihiloth]], [[Osric Thorn]], [[O Presente de Arcádia]]; ecoa a "mão distante" de [[Contos de Arcadia]] e [[Crônica - A Neve Não Esquece]].
+
+---
+
 ## 2E — Sessão 94 · 2026-07-08 · Crônica: A Neve Não Esquece
 
-Escrita uma **crônica das Skaldlands** — [[Crônica - A Neve Não Esquece]] — em estilo misto (Tolkien, Cornwell, G.R.R.M., Leonel Caldela): narrada em 1ª pessoa por Haldan, um velho guerreiro juramentado do Clã do Urso enviado à fronteira do [[O Deserto Mórbido|Deserto Mórbido]] após um aviso das völvas de [[Branuvik]]. Dramatiza, do ponto de vista de quem vive no gelo, o enfraquecimento do véu com o retorno de [[Mortemnis]]: os mortos de [[Draugrhotar]] começam a se levantar sem deixar rastro. Amarra com [[O Presente na Borealis]] e ecoa o metaenredo dos "ferrolhos do mundo sendo puxados por uma mão distante" (Yverius/Terceira Lua). Personagens originais e locais (Haldan, Sten, Yrsa, Káre, jarl Aldis, povoado de Vetrhal). **Reescrita (v2) a pedido do Deivison:** muito mais densa em ambiente e imersão, ritmo mais lento em 7 partes — a vida no salão de Vetrhal, os detalhes da preparação e da marcha, a psicologia do frio ("rouba as coisas na ordem certa"), e o terror crescendo devagar até o encontro com o morto.
+Escrita uma **crônica das Skaldlands** — [[Crônica - A Neve Não Esquece]] — em estilo misto (Tolkien, Cornwell, G.R.R.M., Leonel Caldela): narrada em 1ª pessoa por Haldan, um velho guerreiro juramentado do Clã do Urso enviado à fronteira do [[O Deserto Mórbido|Deserto Mórbido]] após um aviso das völvas de [[Branuvik]]. Dramatiza, do ponto de vista de quem vive no gelo, o enfraquecimento do véu com o retorno de [[Mortemnis]]: os mortos de [[Draugrhotar]] começam a se levantar sem deixar rastro. Amarra com [[O Presente na Borealis]] e ecoa o metaenredo dos "ferrolhos do mundo sendo puxados por uma mão distante" (Yverius/Terceira Lua). Personagens originais e locais (Haldan, Sten, Yrsa, Káre, jarl Aldis, povoado de Vetrhal). **Reescrita (v2) a pedido do Deivison:** muito mais densa em ambiente e imersão, ritmo mais lento em 7 partes — a vida no salão de Vetrhal, os detalhes da preparação e da marcha, a psicologia do frio ("rouba as coisas na ordem certa"), e o terror crescendo devagar até o encontro com o morto. **Termo "steading" → "povoado"** (e "swordthane" → "guerreiro juramentado") — sem anglicismos. **Densificação (v3):** elevada a densidade concreta ao nível Cornwell/G.R.R.M. — cultura material específica (o mingau de cevada com sebo, o arenque defumado nas vigas, esfregar o congelado com neve antes do fogo, a cota de malha deixada em casa e por quê, o justilho de escamas de chifre), corpo sentido por dentro, cheiros nomeados (lodo de fundo de lago no morto), sem perder ritmo nem as frases-chave.
 
 ---
 
@@ -42,7 +94,7 @@ Corrigido o lema da **Casa Toranthir** ("Antes dos Thorn, Nós" → *"A Galhada 
 
 ## 2E — Sessão 89 · 2026-07-08 · Casas de Bruvia reescritas (dinastia ramificada)
 
-Retrabalho pedido pelo Deivison (a versão anterior estava genérica e a família de Ragnar, pequena demais). A **dinastia Thorn** ganhou **cinco gerações** e ramos colaterais: o fundador **Torvald, o Primeiro Espinho**; **Hakon, o Velho**, de quem descendem o **Ramo Cinzento** (sangue Thorn puro, empobrecido) e a gota de sangue real que casou com **Toranthir**; **Rei Sigmar** (pai de Ragnar, casado com a Rainha Ingrith de **Pedralva**). A geração de Ragnar virou uma **família partida** — Aldric (maldito), Roderyk (morto jovem em Gwar Penar), Ragnar (com a Rainha Freydis, o Príncipe Eirik morto aos 10, e o bastardo sussurrado) e **Astrid** (viva, casada com Bravonor → o pretendente **Corwin Bravonor-Thorn**), além do tio **Lorde Regente Halvar**. Agora a sucessão é uma **teia de coroas** (Corwin, Halvar, Toranthir, o Ramo Cinzento, o bastardo), e cada Grande Casa tem cabeça nomeada e laço de sangue/casamento com os Thorn.
+Retrabalho pedido pelo Deivison (a versão anterior estava genérica e a família de Ragnar, pequena demais). A **dinastia Thorn** ganhou **cinco gerações** e ramos colaterais: o fundador **Torvald, o Primeiro Espinho**; **Hakon, o Velho**, de quem descendem o **Ramo Cinzento** (sangue Thorn puro, empobrecido) e a gota de sangue real que casou com **Toranthir**; **Rei Sigmar** (pai de Ragnar, casado com a Rainha Ingrith de **Pedralva**). A geração de Ragnar virou uma **família partida** — Osric (maldito), Roderyk (morto jovem em Gwar Penar), Ragnar (com a Rainha Freydis, o Príncipe Eirik morto aos 10, e o bastardo sussurrado) e **Astrid** (viva, casada com Bravonor → o pretendente **Corwin Bravonor-Thorn**), além do tio **Lorde Regente Halvar**. Agora a sucessão é uma **teia de coroas** (Corwin, Halvar, Toranthir, o Ramo Cinzento, o bastardo), e cada Grande Casa tem cabeça nomeada e laço de sangue/casamento com os Thorn.
 
 ---
 
@@ -54,7 +106,7 @@ Retrabalho pedido pelo Deivison (a versão anterior estava genérica e a famíli
 
 ## 2E — Sessão 87 · 2026-07-08 · As Casas de Bruvia (dinastia Thorn)
 
-Criada [[As Casas de Bruvia]] — as Grandes Casas de um reino nórdico dividido, ao estilo GoT. Formalizada a **dinastia Thorn** e a herança de [[Ragnar Thorn]]: a Casa Thorn quase se extinguiu quando o primogênito [[Aldric Thorn]] se vendeu a Nihiloth; o caçula escondido Ragnar voltou como príncipe perdido e reinou como Grande Rei, morrendo sem herdeiro direto (2E 712) e lançando a guerra de sucessão. Seis casas com sede, brasão, lema e postura na guerra: **Thorn** (a coroa sem cabeça, [[Invernalto]]), **Bravonor** (o escudo legitimista), **Pedralva** (os guardiães dos passos, fazedores de reis), **Vhestra** (os oportunistas de Vestravento), **Toranthir** (o sangue antigo que reclama a coroa) e **Penmark** (a muralha remendada de [[Gwar Penar]]). Ligada a Invernalto e a [[O Presente na Aquilonia]]. Gancho vivo: o herdeiro oculto de Ragnar.
+Criada [[As Casas de Bruvia]] — as Grandes Casas de um reino nórdico dividido, ao estilo GoT. Formalizada a **dinastia Thorn** e a herança de [[Ragnar Thorn]]: a Casa Thorn quase se extinguiu quando o primogênito [[Osric Thorn]] se vendeu a Nihiloth; o caçula escondido Ragnar voltou como príncipe perdido e reinou como Grande Rei, morrendo sem herdeiro direto (2E 712) e lançando a guerra de sucessão. Seis casas com sede, brasão, lema e postura na guerra: **Thorn** (a coroa sem cabeça, [[Invernalto]]), **Bravonor** (o escudo legitimista), **Pedralva** (os guardiães dos passos, fazedores de reis), **Vhestra** (os oportunistas de Vestravento), **Toranthir** (o sangue antigo que reclama a coroa) e **Penmark** (a muralha remendada de [[Gwar Penar]]). Ligada a Invernalto e a [[O Presente na Aquilonia]]. Gancho vivo: o herdeiro oculto de Ragnar.
 
 ---
 
@@ -576,7 +628,7 @@ Revisão dos rascunhos revelou dados centrais ainda não migrados. Migrados agor
 
 - **[[Vandria]]** reescrita: agora é a **dimensão oculta dos vampiros**, o "Reino Rubro" ligado a [[Cosmos & Fé/Religiões/Divindades/Selene]] — de onde os vampiros saíram na Era das Trevas (ET 32).
 - O mundo invasor foi **renomeado para [[Malruun]]**, "O Mundo que Devora" (+ Vhorruun, o Faminto), ligado a [[Mortemnis]] e à profecia de [[Yverius]].
-- Referências atualizadas: [[Aldric Thorn]], [[Ragnar Thorn]], [[Lottus Ignis]] e a timeline agora citam **Malruun**.
+- Referências atualizadas: [[Osric Thorn]], [[Ragnar Thorn]], [[Lottus Ignis]] e a timeline agora citam **Malruun**.
 - Novo: **[[Samael]]** — senhor vampírico ancestral de Vandria.
 
 **A refinar (✦):** nome final de Malruun/Vhorruun; as casas vampíricas de Vandria.
@@ -596,11 +648,11 @@ Revisão dos rascunhos revelou dados centrais ainda não migrados. Migrados agor
 - [[Ragnar Thorn]] reescrito: príncipe caçula escondido, criado plebeu por [[O Prior]], capturado pelos nórdicos, cresce com Trovark, derrota o irmão e herda [[Bruvia]].
 - [[Trovark Thoraldsson]]: matou um dragão do gelo e **tornou-se um dragão branco** (machado de duas mãos).
 - [[Lottus Ignis]]: líder de um povo élfico errante que vira tirano de [[Faeloria]].
-- **Novos:** [[Aldric Thorn]] (irmão vilão, pactuário), [[O Prior]] (mentor).
+- **Novos:** [[Osric Thorn]] (irmão vilão, pactuário), [[O Prior]] (mentor).
 - **Novo mundo-ameaça:** [[Vandria]], "O Mundo que Devora" (+ Vhorruun, o Faminto) — invasão original amarrada a [[Mortemnis]] e à profecia de [[Yverius]]. Preencheu o plano [[Vandria]] antes vazio.
 - [[Helvenmark]] e a timeline (2E 690–700) ligados à saga.
 
-**A refinar (✦):** nomes finais (Aldric, Vandria/Vhorruun, o Prior); a terra natal perdida dos elfos de Lottus.
+**A refinar (✦):** nomes finais (Osric, Vandria/Vhorruun, o Prior); a terra natal perdida dos elfos de Lottus.
 
 ---
 

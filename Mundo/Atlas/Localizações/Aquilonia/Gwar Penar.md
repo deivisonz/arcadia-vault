@@ -8,7 +8,7 @@ região: "[[Aquilonia - Continente Oeste|Aquilonia]]"
 porte: cidade
 população: ~40.000
 governo: senhorio portuário — um lorde de [[Bruvia]] e a guilda dos mercadores
-fundação: 1E / 2E (arrasada e reerguida no Grande Saque, 2E 642)
+fundação: 1E / 2E (arrasada e reerguida vezes sem conta — o lendário Saque de ~2E 495 e o Grande Saque de 2E 642)
 aliases: []
 tags: [localização, cidade]
 ---
@@ -32,7 +32,7 @@ tags: [localização, cidade]
 
 #### Personagens
 %% Ligar a [[Personalidades]] conforme surgirem. %%
-- [[Tyr Skaldsson]] e [[Trovark Thoraldsson]] — que se conheceram em meio às chamas do Grande Saque.
+- [[Trovark Thoraldsson]] — que ganhou fama no lendário Saque de ~2E 495 (dois séculos atrás); [[Tyr Skaldsson]] guarda a saga daquele dia.
 
 #### Segredos & perigos
 ✦ A ameaça de Gwar Penar é cíclica e sempre iminente: um **novo saque se armando no horizonte**, com dracares reunindo-se para descer de novo. E corre a lenda de um **tesouro que os nórdicos deixaram para trás** no caos do Grande Saque (**2E 642**) — enterrado, esquecido ou escondido nas ruínas de um bairro incendiado —, que mais de um aventureiro procura sob as camadas da cidade remendada.

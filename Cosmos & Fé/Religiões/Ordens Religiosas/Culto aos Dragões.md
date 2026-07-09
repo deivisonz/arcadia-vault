@@ -33,3 +33,4 @@ Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta
 ---
 #### Ganchos de expansão
 %% Como o culto reagiria ao retorno de [[Mortemnis]] — sinal do retorno de Draknovir? %%
+%% ✦ A ironia trágica ([[A Fome e os Dragões]]): se Draknovir era corrompido pela Fome, o culto aguarda e apressa, sem saber, o retorno de uma **Maré de [[Nihiloth]]** — não de um deus. Seriam, então, uma célula involuntária da [[A Mão Faminta]]. %%
