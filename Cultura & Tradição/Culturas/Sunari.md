@@ -25,6 +25,9 @@ Culto ao sol [[Solarion]] e, para os mortos, a [[Azhoros]], o Senhor das Tumbas.
 #### Língua e aparência
 Falam o **[[Línguas de Sultaria|sunari]]**, língua de hinos ao amanhecer. Pele bronzeada de sol, adornos de ouro.
 
+#### Cotidiano e mesa
+✦ Come-se à sombra e com parcimônia num mundo de escassez: **tâmaras, pão de mel, leite de cabra e carne seca** — e os pratos mais ricos são reservados aos **mortos**, que "comem" primeiro nos altares antes dos vivos. No nascimento, os sacerdotes leem o céu do dia e escrevem o **horóscopo** da criança; os solstícios e eclipses trazem **festivais de espelhos e tambores**, quando se acende o bronze para "prender o último raio" antes que a noite reclame o céu.
+
 #### Relações
 Resistem, antigos e orgulhosos, entre a expansão de [[Lovaria|Lovária]] e [[Arenor]].
 

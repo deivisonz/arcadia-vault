@@ -33,6 +33,9 @@ Temperado; colinas e florestas.
 #### Figura
 ✦ **Imperatriz Wu-Lien** — a atual portadora do Mandato, tão temida por seus versos quanto por seus exércitos.
 
+#### Cotidiano e mesa
+✦ À mesa, tudo é cerimônia e hierarquia: o **chá** é servido em ordem de posto, os pratos são minúsculos e perfeitos, e **comer depressa é insulto**. O precioso **orvalho azul** é iguaria reservada a imperadores. A refinação é uma arma — sabe-se o lugar de cada um pela forma como segura a xícara.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

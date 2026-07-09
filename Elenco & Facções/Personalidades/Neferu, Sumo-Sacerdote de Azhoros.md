@@ -2,7 +2,7 @@
 tipo: personalidade
 status: rascunho
 referência: o guardião das tumbas que caminha na linha entre o rito e a necromancia
-ancestralidade: "[[Sunari]]"
+ancestralidade: "[[Humanos]]" ([[Sunari]])
 origem: Ankhar ([[Arenor]])
 era: 2E (vivo)
 status-vital: vivo

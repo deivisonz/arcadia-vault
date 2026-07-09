@@ -2,7 +2,7 @@
 tipo: personalidade
 status: rascunho
 referência: o deus-rei vivo, filho do sol, senhor de escravos e de tumbas
-ancestralidade: "[[Sunari]]"
+ancestralidade: "[[Humanos]]" ([[Sunari]])
 origem: Osirium ([[Arenor]])
 era: 2E (vivo)
 status-vital: vivo

@@ -40,6 +40,9 @@ Nobreza guerreira e camponeses leais aos senhores feudais. Majoritariamente huma
 #### Diplomacia
 Vigilância constante contra as incursões de [[Danevar]] e [[Tordenheim]]; muralhas reforçadas (2E 710).
 
+#### Cotidiano e fé
+✦ Bruvia segue a **Igreja de [[Solarion]]** (a Fé da Luz) no modo cavaleiresco de uma igreja medieval: o calendário transborda de **festas de luz, procissões e votos**, e um voto dito "sob a luz" é tido por inquebrável. Fé, aço e a palavra dada são os três alicerces da terra.
+
 #### Personagens
 [[Osric Thorn]], [[O Prior]], [[Ragnar Thorn]], [[Terna]]
 

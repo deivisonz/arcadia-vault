@@ -25,5 +25,5 @@ Um milênio depois, os dragões abandonaram seu velho continente e chegaram ao m
 
 ---
 #### Ganchos de expansão
-%% Onde estão os três ovos perdidos? Quem é o ser imortal a quem o Dragão Vermelho delegou seu poder? %%
+%% ✦ Desenvolvidos como [[As Salvaguardas dos Três|salvaguardas contra a Fome]]: os três ovos → [[Os Três Ovos da Dragoa Verde]]; o imortal do Vermelho → [[Kaervon, o Cornígero Eterno]] no [[O Bastião do Vermelho|Bastião]]; o saber do Azul → [[A Cidadela do Conhecimento]]. Resta: onde parou cada ovo, e se Kaervon ainda é são. %%
 %% ✦ **Por que Drakavir caiu, e de que os dragões realmente fugiram** — uma reconstrução herética propõe que foi da Fome ([[Nihiloth]]) que consumiu o continente. Ver [[A Fome e os Dragões]]. (Teoria, não cânone confirmado — respeitar [[A Natureza do Divino]].) %%

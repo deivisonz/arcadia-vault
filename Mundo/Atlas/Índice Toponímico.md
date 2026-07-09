@@ -8,33 +8,62 @@ tags: [sistema, atlas, gazetteer]
 
 > 🔎 Para o **índice curado por continente e reino** (só cidades e marcos com ficha própria), veja [[Localizações]].
 
-Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por reino — cidades, florestas, montanhas, baías, marcos. Base para descrevermos cada local. Nomes de leitura incerta marcados com **(?)**.
+Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por reino — cidades, florestas, montanhas, baías, marcos. Base para descrevermos cada local. **Links `[[ ]]` indicam que o local já tem ficha própria**; nomes em texto simples ainda estão por criar. Nomes de leitura incerta marcados com **(?)**.
 
 > Progresso: **Aquilonia ✅ · Auroria ✅ · Borealis ✅ · Sultaria ✅ · Drakavir ✅** (mapa inteiro catalogado)
 
 ---
 
+## 🌊 Oceanos e Mares de Arcádia
+
+As grandes águas do mundo. *(Nenhum oceano/mar tem ficha própria ainda, salvo onde indicado por link — a criar conforme necessário.)*
+
+**Oceanos** — as águas externas que cercam o mundo:
+
+- **Oceano de Aurilond** — a norte de [[Saewan]] e do continente de [[Auroria - Continente Leste|Auroria]]; abriga o grande [[O Maelstrom de Aurilond|maelstrom]] sem nome.
+- **Oceano de Solária** — a sul de [[Tapesh]] e a leste de [[Arenor]], banhando o extremo sul-oriental do mundo (nome herdado da cidade-farol de [[Solária]]).
+- **Oceano Rubro** — a nordeste de [[Drakavir -  Abismo Draconiano|Drakavir]]; águas avermelhadas em torno do abismo draconiano.
+
+**Mares** — águas interiores e corredores entre terras:
+
+- **Mar Boreal** — o mar gélido do extremo norte, ao largo de [[Borealis - Continente Norte|Borealis]].
+- **Mar Tempestuoso** — o corredor revolto entre o [[Arquipélago de Hamada]] e a região central de [[Aquilonia - Continente Oeste|Aquilonia]].
+- **Mar Interior** — o mar entre [[Aquilonia - Continente Oeste|Aquilonia]] e [[Auroria - Continente Leste|Auroria]]; abriga [[Mercantilhas|Porto Mercantis]].
+- **[[O Mar de Elendil|Mar de Elendil]]** — o grande mar do sul, junto às [[Ilhas da Alvorada]] e às ilhas do [[O Braço Partido|Braço Partido]].
+
+**Águas menores e corredores** (baías, estreitos, canais rotulados no mapa): Canal de Tyrondir · Canal de Baltar · Baía de Ellora *(Auroria)* · Estreito de Barbarocha · Costa Dourada · Costa Solar *(Aquilonia)* · [[A Baía de Agnar|Baía de Agnar]] · Baía de Agbar · Estreito de Draugar · Corredor de Skalavik *(Borealis)* · Baía de Ekundayo *(Sultaria)*. *(Detalhados nas seções de cada continente abaixo.)*
+
+---
+
 ## 🌍 AQUILONIA (Continente Oeste)
 
-**Mares e marcos gerais:** Mar Tempestuoso (oeste) · Mar Interior (leste) · Mar de Elendil (sul) · [[O Braço Partido]] (estreito com ilhas) · Costa Dourada · Costa Solar · Estreito de Barbarocha · [[Arquipélago de Hamada]].
+**Mares e marcos gerais:** Mar Tempestuoso (corredor com o [[Arquipélago de Hamada]], a oeste) · Mar Interior (leste, entre continentes) · [[O Mar de Elendil|Mar de Elendil]] (sul) · [[O Braço Partido]] (estreito com ilhas) · Costa Dourada · Costa Solar · Estreito de Barbarocha · [[Arquipélago de Hamada]].
 
 ### Região Norte
 
-**[[União Ébano]]** (tribos dos Orcs da Neve)
-- Tribos/assentamentos: Rogamesh, Yazagash, Ghoragdush, Garrugak, Narshagar, Burgdurash, Sharog
-- Relevo: Floresta de Azarak · Planalto de Draugmar
+**[[União Ébano]]** (confederação de tribos dos Orcs da Neve)
+- Tribos (8): **Rogamesh** (líder; capital [[Rogaruk]]) · Yazagash (florestas) · Ghoragdush (montanhas/colinas e minas, junto à Fenda) · Garrugak (florestas) · Narshagar (florestas) · Vordarak (montanhas centrais) · Sharog (norte, planícies/florestas) · Burgurash (colinas/montanhas)
+- Relevo: [[Rogaruk]] (capital) · [[A Floresta de Azarak|Floresta de Azarak]] (sul de Rogaruk) · [[Os Picos de Rogrim|Picos de Rogrim]] (norte de Rogaruk) · [[A Fronteira de Vordarak|Fronteira de Vordarak]] (cordilheira central) · [[A Fenda]] (abismo do Cataclismo, fronteira com [[Bruvia]]) · Planalto de Draugmar
+- Personagens: [[Ozruk Manopla-de-Ferro]] · [[Velha Nagra]] · [[Mugra Fura-Rocha]] · [[Skarn, o Vigia do Gelo]] · [[Garrok Dente Quebrado]] (†)
 
 **[[Bruvia]]**
 - Cidades: [[Gwar Penar]] · Bravoforte · Pedralva · Vestravento · Toranthir · [[Invernalto]] · [[Porto Novo]] · [[Shyrena]] · [[Travessul]] · [[Luadouro]] · [[Dorlumbur]]
 - Ordens: [[Kaer Eldrin]] (priorado-escola junto ao Lago Calendra, aos pés dos [[Os Picos Gêmeos|Picos Gêmeos]])
-- Relevo: [[Os Picos Gêmeos]] · [[A Mata dos Corvos|Mata dos Corvos]] · Cordilheira de Eremore · Bosques Bruvianos · [[A Floresta da Luz Ardente|Floresta da Luz Ardente]]
-- Águas: Estreito de Barbarocha (com [[Kalinthor]])
+- Relevo: [[Os Picos Gêmeos]] · [[A Mata dos Corvos|Mata dos Corvos]] · [[A Cordilheira de Eremore|Cordilheira de Eremore]] · Bosques Bruvianos (perto de Invernalto) · Floresta de Avoria (centro, aos pés da [[Cordilheira de Arka]]) · Floresta Dagnor (norte, acima do Lago Calendra) · [[A Floresta da Luz Ardente|Floresta da Luz Ardente]] · Planalto de Zephyra
+- Águas: Estreito de Barbarocha (com [[Kalinthor]]) · Lago Calendra · Rio Senara
 
 **[[Bretania]]**
-- Cidades: [[Verdelar]] (capital) · Ventobrisa · Hendelis · Ealdorford · Wyndham
-- Nota: **Dorlumbur, Luadouro e Travessul** foram reatribuídas a [[Bruvia]] (decisão do Deivison) — antes listadas aqui.
-- Relevo: [[A Floresta Eterna de Sylvandor|Floresta Eterna de Sylvandor]] · [[A Floresta dos Sussurros|Floresta dos Sussurros]] · Floresta dos Ventos Vivantes · Floresta Daynor · Cordilheira de Arka · [[O Círculo de Ithar|Círculo de Ithar]]
+- Cidades: [[Verdelar]] (capital) · Ventobrisa · Hendelis
+- Nota: **Dorlumbur, Luadouro e Travessul** foram reatribuídas a [[Bruvia]]; **Ealdorford, Wyndham e a [[A Floresta dos Sussurros|Floresta dos Sussurros]]** foram reatribuídas a [[O Norlaw]]; **Floresta Dagnor** movida para Bruvia (norte) — antes listadas aqui.
+- Relevo: [[A Floresta Eterna de Sylvandor|Floresta Eterna de Sylvandor]] · Floresta dos Ventos Vivantes · [[Cordilheira de Arka]] · [[O Círculo de Ithar|Círculo de Ithar]]
 - Águas: Lago Calendra · marco Kaer Eldrin(?)
+
+**[[O Norlaw]]** (fronteira contestada NW — o "Danelaw" de Arcádia; bruvianos + nórdicos + orcs)
+- Província **Ulfmark** (metade **norte**, nórdica/órquica): [[Ealdorford]] (porto saxão-holdout, costa oeste) · [[Wyndham]] (vigia interior, sutura com Ealdoria) · encosta no [[Planalto de Draugmar]] · bandos de Ghoragdush descendo da [[A Fenda|Fenda]]; fronteira norte com [[União Ébano]] (Yazagash, Ghoragdush)
+- Província **Ealdoria** (metade **sul**, saxã-bruviana mais segura): [[A Floresta dos Sussurros|Floresta dos Sussurros]] (remanescente feérico, divisa com [[Bretania]]) · condados saxões sob senhores bruvianos; divisa sul pela [[Cordilheira de Arka]]
+- Terra contestada: [[Planalto de Draugmar]] (reivindicado por [[Bruvia]], de facto sem dono — seam Ulfmark ↔ Ghoragdush/[[União Ébano]])
+- Personagens: [[Osgar Fôlego-Curto]] (thegn de Ealdorford) · [[Jarl Hrolf, o Colono]] (Ulfmark) · [[Draznok Casca-de-Pedra]] (Ghoragdush/Draugmar)
+- Divisas: [[Bruvia]] (sul/leste) · [[União Ébano]] (norte, via [[A Fenda]] e [[Planalto de Draugmar]]) · costas saqueadas pelos [[Clãs do Lobo]]
 
 **[[Tempestia|Tempéstia]]**
 - Cidades: [[Neblinéia]] (capital)
@@ -59,16 +88,16 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 
 **[[Uria]]**
 - Cidades: [[Damascena]] (capital) · Valoria · Kal'Dor · Garenhall · Vezzoria · Galmora · Tormenforte · Valikar · Baelroth · Lirabrisa · Varanthil
-- Relevo: O Prato do Diabo (dos Tieflings) · Crista de Valdran · [[As Cordilheiras de Eldoveth|Cordilheiras de Eldoveth]]
+- Relevo: [[O Prato do Diabo]] (dos Tieflings) · Crista de Valdran · [[As Cordilheiras de Eldoveth|Cordilheiras de Eldoveth]]
 
 **[[Draukar]]**
 - Cidades: [[Nehrim]] (capital) · Yuhinfell · Balora · Morlidor · [[Nyxoria]]
-- Relevo: Monte Drakthal · O Escudo de Gromash (fronteira com Durenor)
-- Águas: Angra da Fuligem
+- Relevo: [[Monte Drakthal]] · [[O Escudo de Gromash]] (fronteira com Durenor)
+- Águas: [[Angra da Fuligem]]
 
 **[[Durenor]]**
 - Cidades: [[Thrallmar]] (capital)
-- Relevo: [[Os Sertões de Orgrim|Sertões de Orgrim]] · O Escudo de Gromash
+- Relevo: [[Os Sertões de Orgrim|Sertões de Orgrim]] · [[O Escudo de Gromash]]
 
 **[[Taudrisia|Taudrisía]]**
 - Cidades: Thraexia · Ribeiraval · Vorundar(?) · Fortaleza de Breuval(?)
@@ -106,27 +135,27 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 
 ## 🌍 AURORIA (Continente Leste)
 
-**Mares e marcos gerais:** Oceano de Aurilond (nordeste, com um grande **[[O Maelstrom de Aurilond|maelstrom]]** sem nome) · Canal de Tyrondir · Canal de Baltar · Baía de Ellora · [[A Espinha do Mundo]] (cordilheira que divide Ocidente/Oriente).
+**Mares e marcos gerais:** Oceano de Aurilond (nordeste, com um grande [[O Maelstrom de Aurilond|maelstrom]] sem nome) · Oceano de Solária (sul, ao largo de [[Tapesh]]/[[Arenor]]) · Canal de Tyrondir · Canal de Baltar · Baía de Ellora · [[A Espinha do Mundo]] (cordilheira que divide Ocidente/Oriente).
 
 > [!info] Nota de nomenclatura confirmada pelo mapa
 > A região é **Taurin**; sua capital é a cidade de **Tarov**. Em **Auristania** há uma cidade chamada **Astarov**. Isso confirma o glossário do [[Cânone]].
 
 ### Ocidente
 
-**[[Alta Rocha]]:** [[Dun Khazâd]] (capital) · Montanha da Forja Ígnea · Montanhas de Brasa-arco
+**[[Alta Rocha]]:** [[Dun Khazâd]] (capital) · [[Montanha da Forja Ígnea]] · Montanhas de Brasa-arco
 **[[Kalinthor]]:** [[Kalanthir]] (capital) · Duranbar · Brandhur · Brilhoforja(?) · Montanhas de Martelore · Floresta de Khardunthor(?)
-**[[Vanov]]:** [[Bruma]] (capital) · Silvaros · Pontasul · Vinterfell · [[A Floresta de Lornakai|Floresta de Lornakai]] · [[O Lago dos Ecos Silenciosos|Lago dos Ecos Silenciosos]] · Planícies da Névoa Eterna
-**[[Costamena]]:** Seremar (capital) · Riveria · Aravon · Ventaluma · Floresta de Torrevento · Montanhas de Aldora
+**[[Vanov]]:** [[Bruma]] (capital) · Silvaros · Pontasul · Vinterfell · [[A Floresta de Lornakai|Floresta de Lornakai]] · [[O Lago dos Ecos Silenciosos|Lago dos Ecos Silenciosos]] · [[Planícies da Névoa Eterna]]
+**[[Costamena]]:** Seremar (capital) · Riveria · Aravon · Ventaluma · Floresta de Torrevento · Montanhas de Aldora · [[Planícies da Névoa Eterna]] (fronteira com Vanov)
 **[[Faeloria]]:** Pontealta · Knorr · Karnaris · Auravale · Grinalta · Monteoeste · Porteval · Pedramar · Ventusaria · Floresta de Varna · [[As Montanhas do Sol Poente|Montanhas do Sol Poente]] · Bosques de Veren
 **[[Valenos]]:** [[Valenoria]] (capital) · Valondor · [[Kaermoria]] (Serraguarda) · Rochedina · Gondorim · Ravinegra · Montachuva · Pixen · Nivar · Venoria · Firelun · Acloria · Planalto de Serraguarda · [[O Vale de Dalarah|Vale de Dalarah]] · Vales de Valorn · [[Os Bosques de Lunaris|Bosques de Lunaris]] · Campos de Valondor · Falésias de Valandor · Lago Serenar
-**[[Lumeneria]]:** [[Lumenara]] (capital) · Vectaris (cidade voadora) · Tydhir · Bosques de Lumeria · O Estrelárido
-**[[Elyria]]:** Valyriath (capital) · Ventúria · Dragomir · Altavela · [[A Floresta de Narn|Floresta de Narn]] · Lago Nyulon(?)
+**[[Lumeneria]]:** [[Lumenara]] (capital) · [[Vectaris]] (cidade voadora) · Tydhir · Bosques de Lumeria · [[O Estrelárido]]
+**[[Elyria]]:** [[Valyriath]] (capital) · Ventúria · Dragomir · Altavela · [[A Floresta de Narn|Floresta de Narn]] · Lago Nyulon(?)
 **[[Venera]]:** Gondrihm (capital)
 **[[Mercantilhas]]:** Porto Mercantis (ilha no Mar Interior)
 **[[Tenebria]]:** [[Sythria]] · Shadgor(?)
-**[[Malachia]]:** Bastion Nortis(?) · [[Nosteria]] · [[O Vale dos Imortais|Vale dos Imortais]] · Colinas de Cavernumbra(?)
+**[[Malachia]]:** Bastion Nortis(?) · [[Nosteria]] · [[O Vale dos Imortais|Vale dos Imortais]] · [[Sangrenia]] · Colinas de Cavernumbra(?)
 **[[Auristania]]:** Auristania (capital) · Astarov (cidade) · Peraxtoria(?) · Neptoris · Periyun · [[Fortis Legionis]] · Cartestia · Alletis · [[Nova Aurelia]] · Olympia · Hordemar · Aurum Vale · Flavius Vale · Interseção de Vespásia
-**[[Cindra]]:** Shalavar · Grama(?) · Florentis · Floresta de Elyndrial · Lago de Floralia(?)
+**[[Cindra]]:** Shalavar · Grama(?) · Florentis · [[A Floresta de Elyndrial|Floresta de Elyndrial]] · Lago de Floralia(?)
 **[[Taurin]]:** **Tarov** (capital) · Labirinthia · Lucentis · Trajanis · Tyrios · Ephalos · Domitianis · Venetia · Monteliano · Vallis Centuria · Valis Triumpus · Valis Alba · Lage Minothos · [[A Floresta do Cliffe Tortuoso|Floresta do Cliffe Tortuoso]]
 **[[Kharzug]]:** Thalor · Urzhok · Floresta de Orkthaur · Floresta do Crepúsculo · Cumes de Sangravin(?)
 **[[Taurenmar]]:** [[Cascoforte]] (capital) · Xanthos · [[O Bosque dos Antigos|Bosque dos Antigos]] · [[As Planícies do Touro Trovador|Planícies do Touro Trovador]] · Pradarias do Casco Pesado · Pico da Serpenterra · Montanhas de Caledón
@@ -139,25 +168,25 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 
 **[[Kan'Kaegis]]:** Khaladrun (capital) · Karanth · Mirzakh · Tharik · Keldara · Cordilheiras de Kaljfash(?) · Colinas de Narn'ghul
 **[[Habajj]]:** [[Qalathir]] (capital) · Ghanorf · Sharaz · Almarith · Qaydal · Kalifah · Nadira · Tajir · Al'Sahir · Lahramun · Vale Arenoso
-**[[Khanzia]]:** [[Troddar]] (Cidade-Mãe) · Karnok · Vronskar · Varrokh · Temulun · O Mar Silencioso · Estepes Setentrionais · Estepes Meridionais · [[A Savana de Salahel|Savana de Salahel]] · Florestas de Khatan · [[Os Picos de Mortália|Picos de Mortália]] · Bosque da Penumbra · Colinas dos Ventos Dourados
-**[[Tapesh]]:** [[Bugdai]] (capital) · Mar de Finareia (deserto navegável)
+**[[Khanzia]]:** [[Troddar]] (Cidade-Mãe) · Karnok · Vronskar · Varrokh · Temulun · [[O Mar Silencioso]] · Estepes Setentrionais · Estepes Meridionais · [[A Savana de Salahel|Savana de Salahel]] · Florestas de Khatan · [[Os Picos de Mortália|Picos de Mortália]] · Bosque da Penumbra · Colinas dos Ventos Dourados
+**[[Tapesh]]:** [[Bugdai]] (capital) · [[Mar de Finareia]] (deserto navegável)
 **[[Felidaria]]:** [[Pataluna]] (capital) · Nishapur · Jzandar · Dunar Baandari
 **[[Khadira]]:** [[Zafarabad]] (capital) · Kordruk · Kheldar · Orvak · Tanjipur · Estepes Equestres · [[A Lagoa das Luas|Lagoa das Luas]] · [[As Colunas de El'Saren|Colunas de El'Saren]]
 **[[Yanare]]:** [[Zyanara]] (capital) · [[Fortaleza de Luchen]] · [[A Floresta das Mil Estrelas|Floresta das Mil Estrelas]]
 **[[Yux-xai]]:** [[Huanli]] (capital) · Wufeng · Baoren · Jinhai · Mingyuan · [[Jadelume]] · Fortaleza de Baoshan · [[Os Bosques do Orvalho Azul|Bosques do Orvalho Azul]] · Floresta das Mil Estrelas · Espinha de Guntai(?)
 **[[Saewan]]:** [[Ryokazu]] (capital) · [[Kagehara]] · Kyushin · Asakawa · Hoshigawa · Kirisawa · Tenshiwa · Aoshima · [[Monte Yuki]]
-**Califado de Al-Qasar** (ficha a criar): Al-Qasar (capital) · Colunas de El'Saren
+**[[Califado de Al-Qasar]]:** Al-Qasar (capital) · Colunas de El'Saren
 
 ---
 
 ## ❄️ BOREALIS (Continente Norte)
 
-**Marcos gerais:** A Coroa de Gelo · Cordilheira dos Gigantes Adormecidos · Mar Boreal · [[O Deserto Mórbido|Deserto Mórbido]] · Tundra Protegida · Passagem de Skallandes · Corredor de Skalavik · Desertos de Skogrinn · [[A Baía de Agnar|Baía de Agnar]] · Baía de Agbar.
+**Marcos gerais:** [[A Coroa de Gelo|Coroa de Gelo]] · [[Cordilheira dos Gigantes Adormecidos]] · Mar Boreal · [[O Deserto Mórbido|Deserto Mórbido]] · Tundra Protegida · Passagem de Skallandes · Corredor de Skalavik · [[Tundras de Skogrinn|Desertos de Skogrinn]] · [[A Baía de Agnar|Baía de Agnar]] · Baía de Agbar.
 
 ### Clãs do Urso
 **[[Tordenheim]]:** [[Nordvalen]] (capital) · Isenfall · Valkenhall · Beowulfton · Baía de Agnar · Cordilheira de Hjornmedal
 **[[Helvenmark]]:** [[Alfrjord]] (capital) · Cordilheira de Iriden · [[As Montanhas do Lamento|Montanhas do Lamento]]
-**[[Kald Lundar]]:** [[Doranherim]] (anões) · [[Isenholm]] (humanos) · Montes Indomáveis · [[O Lago Espelho de Eirinn|Lago Espelho de Eirinn]] · Florestas de Gunnar
+**[[Kald Lundar]]:** [[Doranherim]] (anões) · [[Isenholm]] (humanos) · [[Montes Indomáveis]] · [[O Lago Espelho de Eirinn|Lago Espelho de Eirinn]] · Florestas de Gunnar
 **[[Kald Jotun]]:** (ruínas junto ao Deserto Mórbido / Tundra Protegida)
 **[[Kjavik]]:** Galdurvik
 **[[Hordaland]]:** Skogarund
@@ -179,7 +208,7 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 
 ## 🏜️ SULTARIA (Continente Sul)
 
-**Marcos gerais:** Serpentinas de Zephyro (cordilheira) · Baía de Ekundayo · [[As Selvas Intermináveis|Selvas Intermináveis]].
+**Marcos gerais:** [[As Serpentinas de Zephyro|Serpentinas de Zephyro]] (cordilheira) · Oceano de Solária (leste, ao largo de [[Arenor]]) · Baía de Ekundayo · [[As Selvas Intermináveis|Selvas Intermináveis]].
 
 ### Cidades Livres
 **[[Normantis]]:** [[Trovantis]] (capital) · Draharis · Dunista
@@ -190,14 +219,14 @@ Transcrição de **todos os nomes do mapa** (`arcadia.webp`), agrupados por rein
 ### Tribais
 **[[Lovaria|Lovária]]:** [[Luminastra]] (capital) · Escamasol · Ashanti · Mandinka · Kishar · Campos de Ninivah · [[A Savana de Katabau|Savana de Katabau]] · [[A Selva do Véu Branco|Selva do Véu Branco]] · Campos de Babilor
 **[[Zawadi]]:** Kumbasa · Malinkara · [[Os Montes Nyambé|Montes Nyambé]] · Mata Zambara
-**[[Xea'yasha]]:** Aharadoph · Selvas Intermináveis
+**[[Xea'yasha]]:** [[Aharadoph]] · [[As Selvas Intermináveis|Selvas Intermináveis]]
 
 ---
 
 ## 🐉 DRAKAVIR (Abismo Draconiano)
 
-Sem cidades rotuladas — coerente com a lore (continente devastado, quase desconhecido). Apenas o rótulo **Drakavir**, cercado pelo **Oceano Rubro**. Terreno vulcânico e montanhoso.
+Sem cidades rotuladas — coerente com a lore (continente devastado, quase desconhecido). Apenas o rótulo **Drakavir**, cercado pelo **Oceano Rubro** (a nordeste). Terreno vulcânico e montanhoso.
 
 ---
 > [!note] Método
-> Nomes lidos direto do mapa em recortes de alta resolução. Marcados com **(?)** os de leitura duvidosa. Ao descrevermos cada local, ele vira uma nota própria e migra desta lista para a ficha do reino correspondente.
+> Nomes lidos direto do mapa em recortes de alta resolução. Marcados com **(?)** os de leitura duvidosa. Ao descrevermos cada local, ele vira uma nota própria, ganha link `[[ ]]` nesta lista e migra para a ficha do reino correspondente.

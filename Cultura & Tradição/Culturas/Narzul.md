@@ -25,6 +25,9 @@ Cultos sombrios ligados a [[Nyx]] (a escuridão primordial) e à lua rubra [[Cos
 #### Aparência e língua
 Pele escura, cabelos claros, olhos que enxergam no negro. Falam um dialeto cifrado do [[Élfico]].
 
+#### Cotidiano e mesa
+✦ Nas cavernas de [[Sombrelar]] e das fendas, cultivam **cogumelos** e criaturas do escuro, e temperam a mesa com a mesma cautela com que vivem: um bom anfitrião **prova o próprio vinho** antes de servir, e aceitar comida de uma casa rival sem vê-la provada é convite à morte. A cortesia é elaborada e mortal — cada gentileza esconde um cálculo.
+
 #### Relações
 Espreitam a superfície a partir das fendas da Espinha; comerciam segredos até com os vampiros de [[Vandria]]. Inimigos ancestrais dos elfos da luz.
 

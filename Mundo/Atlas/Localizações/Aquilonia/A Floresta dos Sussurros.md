@@ -2,15 +2,15 @@
 tipo: localização
 subtipo: floresta
 status: rascunho
-reino: "[[Bretania]]"
-referência: bosque assombrado que fala (voz do vento)
+reino: "[[O Norlaw]]"
+referência: bosque assombrado que fala (voz do vento), remanescente feérico nas marcas
 tags: [localização]
 ---
 #### Descrição
-✦ Na **Floresta dos Sussurros**, em [[Bretania]], o vento carrega vozes: nomes, avisos, retalhos de conversas que ninguém teve. Viajantes juram ouvir a própria voz chamá-los para fora da trilha.
+✦ Na **Floresta dos Sussurros**, na borda da província de **Ealdoria** (no [[O Norlaw|Norlaw]]), o vento carrega vozes: nomes, avisos, retalhos de conversas que ninguém teve. Viajantes juram ouvir a própria voz chamá-los para fora da trilha.
 
 #### O que sussurra
-✦ Druidas do [[Sylvanismo]] dizem que a mata guarda a memória de tudo que se falou sob suas copas, e que as [[Fadas]] a usam para enlouquecer ou guiar quem entra. Ouvir demais é perder-se; ouvir com sabedoria é, às vezes, saber o que ainda não aconteceu.
+✦ A mata é um **remanescente feérico das antigas marcas bruvianas** — quando esta terra ainda tocava as florestas encantadas de [[Bretania]]. Druidas do [[Sylvanismo]] dizem que ela guarda a memória de tudo que se falou sob suas copas, e que as [[Fadas]] a usam para enlouquecer ou guiar quem entra. No Norlaw crioulo, bruvianos, nórdicos e orcs a temem por igual: ouvir demais é perder-se; ouvir com sabedoria é, às vezes, saber o que ainda não aconteceu.
 
 ---
 #### Ganchos

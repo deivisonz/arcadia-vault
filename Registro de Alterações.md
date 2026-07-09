@@ -8,6 +8,190 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 132 · 2026-07-09 · Coerência: ancestralidades quebradas + Luna/Selene
+
+**Links de ancestralidade quebrados resolvidos.** Personagens apontavam para fichas inexistentes — criadas 4 ancestralidades incomuns: **[[Ogros]]** (quebra-muralhas da horda de [[Xea'yasha]], p/ [[Brakkuth, o Quebra-Muralhas|Brakkuth]]), **[[Lupinos]]** (povos-lobo de [[Felidaria]], p/ [[Kiba]]), **[[Meio-Elfos]]** (cerne da resistência de [[Faeloria]], p/ [[Nerith Meia-Noite|Nerith]]) e **[[Ursinos]]** (povos-urso dos ermos — já prometido no índice, sem ficha). Índice de Incomuns atualizado. Corrigida a **ancestralidade de [[Faraó Menkaure, o Sol Vivo|Menkaure]] e [[Neferu, Sumo-Sacerdote de Azhoros|Neferu]]**: eram "[[Sunari]]" (cultura, não ancestralidade) → "[[Humanos]] ([[Sunari]])".
+
+**Luna/Selene (divindade × astro) resolvido** (item do Roadmap): as fichas de astro estavam vazias e colidiam de nome com as divindades. Consolidei cada lua na **ficha da divindade** (nova seção "Como astro"), corrigi os self-links quebrados ("corpo celeste" apontava para a própria nota) e transformei os astros vazios em redirects. A 3ª lua, [[Mortemnis]], segue como astro próprio (não tem divindade). Tumbas a apagar registradas no Roadmap.
+
+---
+
+## 2E — Sessão 131 · 2026-07-09 · Passe de coerência (índice de elenco + colisão de epíteto)
+
+Manutenção pedida pelo Deivison. **[[Personalidades]] reconstruído do zero** a partir das fichas reais: passou de 49 para **77 personagens** — entraram os ~28 que nunca haviam sido tabelados (nórdicos: [[Sigvald, o Urso de Ferro]], [[Hrólf Presa-Negra]], [[Ingmar, o Jarl do Lamento]], [[Gerda, a Völva Cega]], [[Yrsa de Velkrania]]; anões: [[Rei Brand Martelo-Real]], [[Durgan, o Rei sem Salão]], [[Thrain Barba-de-Ferro]], [[Norra Martelo-de-Ouro]], [[Brok, o que Desceu]]; taurinos/minotauros: [[Tauredon III, o Chifre de Bronze]], [[Kaervon, o Cornígero Eterno]]; auristanos: [[Aurélio Vantis, o Primeiro Cônsul]], [[Legado Corvian, o Lobo das Legiões]]; sunari/lovários: [[Faraó Menkaure, o Sol Vivo]], [[Neferu, Sumo-Sacerdote de Azhoros]], [[Mansa Katab, o Rei-Sol]], [[Zahra Presa-Dourada]]; goblinoides de Aharadoph: [[Vharzok, o Punho de Ferro]], [[Skreel, o Olho-Vermelho]], [[Brakkuth, o Quebra-Muralhas]]; faelorianos: [[Nerith Meia-Noite]], [[Maelor, o Fiel]], [[Sanadel, a Voz do Ausente]]; lendas: [[Kael Korvann, o Último Rei-Imperador]], [[Vaelith, o Lorde Rúnico]], [[Sigrún, a Lança do Amanhecer]], [[Khoraan Cascotroante]]). **Colisão de epíteto resolvida:** o Ozruk que criei na sessão 128 colidia com [[Vharzok, o Punho de Ferro]] (hobgoblin) → renomeado **[[Ozruk Manopla-de-Ferro]]** (mantém a identidade da manopla), refs atualizadas em 6 notas, ficha antiga vira stub. Roadmap de manutenção atualizado (tumbas a apagar no Obsidian: Aldric Thorn, duplicata Primeira Maré, Ozruk antigo, Eldorford).
+
+---
+
+## 2E — Sessão 130 · 2026-07-09 · Norlaw: personagens + Draugmar como terra contestada
+
+**Draugmar reformulado:** não é reino — é **terra contestada reivindicada por [[Bruvia]]** (fronteira norte, de facto sem dono), a soleira onde Ulfmark roça Ghoragdush/[[União Ébano]] junto à [[A Fenda|Fenda]]. Ficha, nota de [[O Norlaw]] e [[Índice Toponímico]] ajustados. **Três personagens do Norlaw** (o triângulo do Danelaw): [[Osgar Fôlego-Curto]] (thegn saxão encurralado em [[Ealdorford]], leal a uma coroa distante, joga as facções da guerra civil), [[Jarl Hrolf, o Colono]] (o mais forte jarl nórdico de Ulfmark — neto de saqueadores dos [[Clãs do Lobo]] que "tomaram terra e ficaram", quer ser jarl de direito) e [[Draznok Casca-de-Pedra]] (chefe de bando órquico de Ghoragdush, saqueador-mercenário do [[Planalto de Draugmar]], ligado a [[Mugra Fura-Rocha]]). Os três se cortejam e se traem, com a guerra civil bruviana e o segredo da Fenda ao fundo. [[Personalidades]]: 49 fichados.
+
+---
+
+## 2E — Sessão 129 · 2026-07-09 · O Norlaw (o "Danelaw" NW de Bruvia) + alinhamento ao mapa
+
+Criada a fronteira contestada **[[O Norlaw]]** (Região Norte, Aquilonia) — análogo do Danelaw da Inglaterra Viking: terra NW de [[Bruvia]] onde senhores bruvianos, colonos nórdicos ([[Clãs do Lobo]]) e bandos órquicos ([[União Ébano]], via Ghoragdush) dividem o mesmo lodo, com a guerra civil bruviana transbordando para cá. Duas províncias = **as duas regiões nomeadas no mapa**: **[[Ealdorford|Ulfmark]]** (metade **norte**, nórdica/órquica, encostada na [[A Fenda|Fenda]] e na União Ébano — com os burgos saxões [[Ealdorford]] e [[Wyndham]] sobrevivendo como ilhas cercadas) e **Ealdoria** (metade **sul**, saxã-bruviana mais segura, com a [[A Floresta dos Sussurros|Floresta dos Sussurros]] na divisa com [[Bretania]]). Fichas novas: [[Ealdorford]] (porto saxão-holdout, ~6k), [[Wyndham]] (~2,5k, vigia/sutura), [[Planalto de Draugmar]] (soleira órquica). [[A Floresta dos Sussurros]] reatribuída de Bretania → Norlaw/Ealdoria.
+
+**Correções pelo mapa (`arcadia.webp`, recorte em alta):** as duas regiões vêm **nomeadas** — Ulfmark (norte) e Ealdoria (sul), invertendo minha suposição inicial (Ealdorford/Wyndham estão em **Ulfmark**, não em Ealdoria). Grafia confirmada **Ealdorford** (com "a"; meu "Eldorford" foi erro, virou stub a apagar). **Floresta Daynor → Floresta Dagnor**, movida de [[Bretania]] → [[Bruvia]] (norte, acima do Lago Calendra). **Floresta de Avoria** confirmada em Bruvia (centro, aos pés da [[Cordilheira de Arka]]). Dorlumbur confirmada bruviana (a leste da linha do Norlaw). [[Índice Toponímico]] atualizado em todos esses pontos.
+
+---
+
+## 2E — Sessão 128 · 2026-07-09 · União Ébano: fichas de lugares e personagens
+
+Fichas próprias para os lugares-chave e o elenco da [[União Ébano]]. **Lugares (5):** [[Rogaruk]] (capital-fortaleza dos Orcs da Neve, ~22k, acampamento de guerra permanente); [[A Fenda]] (o abismo do Cataclismo que a separa de [[Bruvia]], com o calor e o brilho errados subindo do fundo — gancho de metaenredo); [[A Floresta de Azarak]] (a mata-celeiro das tribos florestais); [[Os Picos de Rogrim]] (a muralha-norte de Rogaruk, grutas funerárias dos chefes); [[A Fronteira de Vordarak]] (a cordilheira central que parte a União e a rivalidade Vordarak×Rogamesh). **Personagens (4):** [[Ozruk, o Punho de Ferro]] (senhor atual da Ébano, paciente e não o mais brutal); [[Velha Nagra]] (guardiã das sagas, memória viva e poder à parte); [[Mugra Fura-Rocha]] (chefe mineradora de Ghoragdush que cava perto demais da Fenda — orgulho/ganância do metaenredo); [[Skarn, o Vigia do Gelo]] (chefe de Sharog, o único que teme o norte, não o sul). Índices atualizados: União Ébano no [[Índice Toponímico]] (lugares agora linkados + linha de personagens) e os 4 novos em [[Personalidades]] (46 fichados).
+
+---
+
+## 2E — Sessão 127 · 2026-07-09 · União Ébano aprofundada (reino a reino)
+
+Início do ciclo "um reino por vez" (Deivison guiando). **[[União Ébano]]** reescrita com vida: a confederação de **Orcs da Neve** como pacto entre tribos (lidera a mais forte), clima de Terras Altas, e as **8 tribos** detalhadas por terreno — **Rogamesh** (líder; capital **Rogaruk**, entre a Floresta de Azarak ao sul e os Picos de Rogrim ao norte); Yazagash, Garrugak e Narshagar (florestas); **Ghoragdush** (montanhas/colinas e minas, junto à **Fenda** do Cataclismo que a separa de [[Bruvia]] — orcs de caverna e mina); **Vordarak** (montanhas centrais da **Fronteira de Vordarak** que parte o território); **Sharog** (norte, planícies/florestas, guarda do gelo); **Burgurash** (colinas/montanhas). Adicionada cultura própria (força provada > sangue, cremação dos mortos, guardião das sagas, cerveja preta). Geografia listada (Rogaruk, A Fenda, Fronteira de Vordarak, Picos de Rogrim, Floresta de Azarak, Planalto de Draugmar). **Índice Toponímico** atualizado: Vordarak adicionado, Burgdurash→Burgurash, capital e relevo posicionados.
+
+---
+
+## 2E — Sessão 126 · 2026-07-09 · Fichas de oceanos e mares
+
+Criadas 6 fichas próprias para as grandes águas (em `Localizações\_Especiais`, por serem transcontinentais). **Oceanos:** [[Oceano de Aurilond]] (frio, o Maelstrom sem nome, o norte que "some do mapa"); [[Oceano de Solária]] (quente e luminoso, o farol de [[Solária]], recifes e calmarias mortais, ilhas que aparecem e somem); [[Oceano Rubro]] (o fosso avermelhado de [[Drakavir -  Abismo Draconiano|Drakavir]], ligado a [[A Fome e os Dragões]]). **Mares:** [[Mar Boreal]] (a estrada gélida dos Skalds, funerais marinhos, o gelo que fecha rotas nos Longos Invernos); [[Mar Tempestuoso]] (o corredor de fúria entre [[Arquipélago de Hamada]] e Aquilonia central, pilotos e covis insulares); [[Mar Interior]] (a artéria comercial entre os dois continentes, [[Mercantilhas|Porto Mercantis]] no centro). O [[O Mar de Elendil|Mar de Elendil]] já tinha ficha. *(Índice Toponímico não editado — Deivison está revisando; falta apenas linkar estes 6 novos lá quando ele terminar.)*
+
+---
+
+## 2E — Sessão 125 · 2026-07-09 · Índice Toponímico revisado + Oceanos e Mares
+
+Revisão do arquivo-mestre [[Índice Toponímico]] (o gazetteer completo do mapa por continente/reino). Adicionada a seção **🌊 Oceanos e Mares de Arcádia** consolidando a lista canônica do Deivison: **Oceanos** — Aurilond (norte de [[Saewan]]/[[Auroria - Continente Leste|Auroria]]), **Solária** (sul de [[Tapesh]], leste de [[Arenor]] — *novo*), Rubro (nordeste de [[Drakavir -  Abismo Draconiano|Drakavir]]); **Mares** — Boreal, Tempestuoso (corredor [[Arquipélago de Hamada]]↔Aquilonia central), Interior (Aquilonia↔Auroria), [[O Mar de Elendil|Elendil]] (junto às [[Ilhas da Alvorada]]). Corrigidas as linhas de "mares e marcos gerais" de cada continente para refletir esse cânone (Oceano de Solária adicionado a Auroria e Sultaria). Além disso, **convertidos em wikilinks ~18 marcos que já ganharam ficha** e estavam em texto simples: Cordilheira de Eremore, Cordilheira de Arka, O Prato do Diabo, Monte Drakthal, O Escudo de Gromash (×2), Angra da Fuligem, Montanha da Forja Ígnea, Planícies da Névoa Eterna, O Estrelárido, Floresta de Elyndrial, Mar de Finareia, Coroa de Gelo, Gigantes Adormecidos, Desertos/Tundras de Skogrinn, Montes Indomáveis, Serpentinas de Zephyro, Sangrenia, Vectaris, Aharadoph, Califado de Al-Qasar. Agora **links = ficha existe; texto simples = a criar**.
+
+---
+
+## 2E — Sessão 124 · 2026-07-09 · Marcos rasos (Mar de Elendil, O Estrelárido)
+
+Mais dois marcos, antes só "a desenvolver". **Aquilonia/sul:** [[O Mar de Elendil]] — o grande mar quente que une os três continentes do sul, a **encruzilhada líquida** do comércio (e da rapina) mundial, os corsários das [[Ilhas da Alvorada]], e o leito-cemitério de naufrágios (inclusive o que afundou com Ethel'Crown no [[O Braço Partido|Braço Partido]]). **Auroria:** [[O Estrelárido]] ([[Lumeneria]]) — a cratera vitrificada e fosforescente do meteoro, os **cristais estelares** que sustentam a cidade voadora e a economia do reino, e o que caiu junto: as criaturas de além das estrelas e as escavações que se abrem para *baixo* (ancorado no tema do orgulho de cavar fundo demais). Atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 123 · 2026-07-09 · Marcos rasos (Tundras de Skogrinn, Cordilheira de Eremore)
+
+Mais dois marcos, antes só "a desenvolver". **Borealis:** [[Tundras de Skogrinn]] — os ermos brancos onde o inverno "nunca perdeu", a terra dos **gigantes de gelo** (os filhos despertos dos [[Cordilheira dos Gigantes Adormecidos|Adormecidos]]) e da megafauna da era do gelo (mamutes, ursos das cavernas), o homem como presa recém-chegada, e a ligação ao Longo Inverno (de onde o branco de fato avança). **Aquilonia:** [[A Cordilheira de Eremore]] ([[Bruvia]]) — a espinha oriental feudal que guarda [[Invernalto]], os castelos-nos-passos e casas menores juradas à coroa, os **Bosques Bruvianos** de caça real e as superstições que a Igreja preferiu esquecer. Atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 122 · 2026-07-09 · Marcos rasos (Espinha do Mundo, Montanha da Forja Ígnea)
+
+Mais dois marcos da Auroria, antes só "a desenvolver". [[A Espinha do Mundo]] — a maior cordilheira de Arcádia, a "espinha" de vértebras que divide Auroria em Ocidente e Oriente (dois mundos climáticos e culturais), os passos-gargalo de [[Kan'Kaegis]] e [[Zarkovith]], e o subsolo que a Espinha *une*: os túneis Narzul ([[Dorfel]]) cruzando o continente por baixo. [[Montanha da Forja Ígnea]] ([[Alta Rocha]]) — Dûn Khazâd como catedral invertida, as defesas de Brasa-arco e Fendanorte que a tornavam inexpugnável **por fora**, e o horror que subiu **de baixo** na queda de 2E 720 (o orgulho anão de cavar fundo demais); a cidade não vazia, mas *ocupada*, com o tesouro guardado por aquilo que a tomou. Ancorados no metaenredo do orgulho sem cair no exagero.
+
+---
+
+## 2E — Sessão 121 · 2026-07-09 · Marcos rasos (Angra da Fuligem, Planícies da Névoa Eterna)
+
+Mais dois marcos, antes só "a desenvolver". **Aquilonia:** [[Angra da Fuligem]] (baía de [[Draukar]]) — o porto negro sob o céu cinza-carvão do [[Monte Drakthal]], a areia negra e a água oleosa, a obsidiana dos elfos negros que escoa por ali, a cinza que "preserva" e guarda os mortos, e a Angra como porta discreta de Draukar para o mundo. **Auroria:** [[Planícies da Névoa Eterna]] ([[Costamena]]) — a bruma perpétua à altura do peito onde o som mente, os costamenos que fizeram da névoa uma muralha (e guardam algo por ela), e o mistério do que a exala no coração das planícies (ruínas, nascente ou véu-prisão). Atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 120 · 2026-07-09 · Marcos rasos (Floresta de Elyndrial, Montes Indomáveis)
+
+Mais dois marcos, antes só "a desenvolver". **Auroria:** [[A Floresta de Elyndrial]] (floresta vertical de [[Cindra]]) — a descida por camadas de luz (dossel dourado → escuro sem sol), a sociedade [[Vhalares]] tornada geografia (Alta Cindra nas copas, Baixa Cindra no fundo frio), as raízes antigas que "se lembram" e a tensão vertical como revolta latente. **Borealis:** [[Montes Indomáveis]] — a montanha mais alta das Skaldlands, o cume proibido onde [[Trovark Thoraldsson|Trovark]] matou o dragão do gelo e virou dragão branco, o "algo branco" que cruza o pico, e a cidadela anã de **Doranherim** ([[Kald Lundar]]) cavando fundo demais sob uma montanha nada comum. Atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 119 · 2026-07-09 · Marcos rasos (Prato do Diabo, Serpentinas de Zephyro)
+
+Mais dois marcos, antes só "a desenvolver". **Aquilonia:** [[O Prato do Diabo]] (cratera de [[Uria]]) — a caldeira redonda demais para ser acaso, as fumarolas de enxofre e fendas de brasa, os [[Urianos|Tieflings]] que o vale "chamou", os metais raros que só a terra ferida dá, e o mistério do que caiu do céu ou emergiu de baixo (ainda adormecido sob o fundo). **Sultaria:** [[As Serpentinas de Zephyro]] — a cordilheira sinuosa que filtra o comércio entre o oeste verde ([[Lovaria|Lovária]], [[Shebrevia]]) e o leste rubro ([[Arenor]]) pelos **passos-gargalo** com pedágio, os ventos-zéfiro que "respiram" nos desfiladeiros, os oásis suspensos e os clãs de montanheses que vendem (e traem) passagem. Atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 118 · 2026-07-09 · Marcos rasos (Finareia, Vale dos Imortais, Escudo de Gromash, Gigantes Adormecidos)
+
+Enriquecidos quatro marcos, antes só "a desenvolver", de sub-regiões distintas. **Auroria:** [[Mar de Finareia]] (deserto de [[Tapesh]]) — o oceano de areia finíssima com **marés e correntes de areia**, os **barcos-de-areia** e as **cartas das dunas** de [[Bugdai]], a rocha negra de [[Valencia]], o cemitério sob o pó ([[Verme das Areias]], o que a maré baixa revela); e [[O Vale dos Imortais]] (montanhas de [[Malachia]]) — o sanctum vampírico em penumbra rubra de [[Selene]], os mausoléus de mármore, a interdição da [[Igreja de Vohzro]] e o **portão vivo para [[Vandria]]** com o ancião ([[Samael]]) no fundo. **Aquilonia:** [[O Escudo de Gromash]] — a muralha-escudo sagrada aos orcs de [[Durenor]], os passos vigiados, Morlidor draukarense de sentinela, e as grutas que os xamãs proíbem escavar. **Borealis:** [[Cordilheira dos Gigantes Adormecidos]] — os picos corpóreos, o rumor que sobe do gelo, a lenda dos primeiros gigantes e a profecia do despertar num Longo Inverno. Atmosfera e ganchos concretos, ancorados nas culturas locais.
+
+---
+
+## 2E — Sessão 117 · 2026-07-08 · Locais rasos de outras regiões (Braço Partido, Esfinge)
+
+Enriquecidos dois marcos de regiões distintas: **[[O Braço Partido]]** (Aquilonia/oeste) — o labirinto de ilhotas e canais sobre a **ponte de terra afundada de Ethel'Crown**, os "ossos de um mundo partido", as [[Ruínas de Acrópolis]] de Korvandrin e os ossos de [[Draknovir]] (ET 333) num canal onde a água "não gela"; limpo o "{X}" solto e mantido Ethel'Crown como o nome da antiga ponte (correto aqui). **[[A Esfinge de Arenor]]** (Sultaria/sul) — o guardião de pedra desgastado e meio soterrado, a sombra que aponta, a **câmara selada** com a advertência sobre a Terceira Lua aberta por um **enigma**, o mistério de quem a ergueu (mais antiga que os registros sunari), e o "abrir um olho" a cada Mortemnis. Atmosfera e ganchos concretos, ancorados nas culturas Korvandrina e Sunari.
+
+---
+
+## 2E — Sessão 116 · 2026-07-08 · Locais rasos aprofundados (o extremo norte gelado)
+
+Enriquecidos dois marcos do fim do mundo, antes só "a desenvolver": **[[A Coroa de Gelo]]** (a muralha natural do limite norte — paredões de gelo azul-antigo, o silêncio que esmaça, ruínas de civilizações do gelo ao pé, o que "respira" além, e a passagem de Skallandes que se abre nos Longos Invernos) e **[[O Deserto Mórbido]]** (o descampado cinzento sem neve onde o frio *preserva* — corpos mumificados aflorando do solo, os mortos de Solheimr/[[Draugrhotar]] que não descansam, e os **xamãs-de-osso** do [[Povos dos Ermos|Povo Livre]] como os únicos que ousam atravessá-lo). Ambos ancorados na cultura dos Ermos recém-criada e no presente (os mortos inquietos), com atmosfera e ganchos concretos.
+
+---
+
+## 2E — Sessão 115 · 2026-07-08 · Ciclo cultural fechado (Tarovianos, Durenorianos, Azurianos)
+
+Últimas três: **[[Tarovianos]]** (o cerne endurecido de [[Taurin]] — a escravidão como ordem sagrada herdada do Dragão Vermelho, as arenas até a morte, o culto aos imperadores-ancestrais, o desprezo pelos "traidores brandos" de Auristania); **[[Durenorianos]]** (orcs de [[Durenor]] — o acampamento de guerra permanente, a **pedra de combate** onde a liderança se ganha no aço, Baelrok com tambores e cicatrizes, os mortos com seus troféus); **[[Azurianos]]** (a magocracia extinta — como viviam sob os Lordes Rúnicos, a arrogância cósmica sem freio, e o legado nas runas proibidas dos [[Narzul]]). **Ciclo cultural concluído:** todas as ~24 culturas do vault agora têm cotidiano, ritos e/ou costumes próprios, a maioria autossuficiente (sem depender do metaenredo do terror).
+
+---
+
+## 2E — Sessão 114 · 2026-07-08 · Mais culturas (Tibéricos, Halinorianos)
+
+**[[Tibéricos]]** (Tibéria, clássico) — a vida na **cidade**: a ágora do debate, o anfiteatro, o **simpósio** (vinho aguado onde a retórica vale mais que o prato), a cidadania como maior tesouro, a **oração fúnebre** e os **grandes jogos** entre pólis rivais. **[[Halinorianos]]** (Halinor, meio-elfos) — **arte e convivência** (música à mesa, poesia, diplomacia como dom), o único lugar onde elfos e humanos se casam sem escândalo e os meio-elfos são orgulho; e o toque comovente dos **dois tempos** — um elfo que vê os amados humanos partirem, e "ama sabendo da perda", de onde nasce sua melhor poesia. Ciclo cultural quase completo (restam Tarovianos, Durenorianos, Azurianos, e as bestiais/já-feitas).
+
+---
+
+## 2E — Sessão 113 · 2026-07-08 · Mais culturas (Korvandrinos, Taurinos)
+
+**[[Korvandrinos]]** (Korvandor) — a cultura do **luto**: comem de frente para o mar que afundou o império, deixam um lugar vazio para o Rei-Imperador, ajoelham-se na maré baixa quando as ruínas reaparecem; a maioridade é um **mergulho** às [[Ruínas de Acrópolis|ruínas submersas]] e os mortos são entregues ao mar. **[[Taurinos]]** (Taurin/Auristania) — força e cerimônia: a **arena** como coração da vida, os **chifres de bronze** por posto, a maioridade atravessando um **labirinto ritual**, e a veneração ao **Dragão Vermelho** como criador (elo com [[O Bastião do Vermelho]]); Taurin escravista × Auristania cívica. Contraste elegante: o korvandrino vive do que **afunda**, o taurino do que **prova em combate**.
+
+---
+
+## 2E — Sessão 112 · 2026-07-08 · Mais culturas (Zarkovithianos, Krummagmanos)
+
+Dois sabores novos: **[[Zarkovithianos]]** (Zarkovith) — a vida em torno da **forja e da lareira** no longo inverno, a forja sagrada (nunca deixar o fogo morrer, oferendas de ferro aos espíritos do gelo, a 1ª lâmina como juramento), e a reserva desconfiada do Estado fechado; **[[Krummagmanos]]** (Krummag) — o **pântano como lar/templo/despensa**, comida crua ou secada (a fumaça denuncia), os anciãos que leem a água, a maioridade a sós no brejo ou caçando um basilisco, e os mortos que **afundam** junto às coisas velhas do fundo. Todas autossuficientes, sem amarrar ao terror.
+
+---
+
+## 2E — Sessão 111 · 2026-07-08 · O Povo Livre dos Ermos + limpeza de redundância
+
+**Novo povo do norte:** criada [[Povos dos Ermos]] (o **Povo Livre** / selvagens de GoT) — os que vivem além dos clãs, no branco do fim (Coroa de Gelo, Skallandes, Draugrhotar, margens do Deserto Mórbido). Toque único: são os **únicos que vivem entre os mortos** — seus **xamãs-de-osso** (não völvas) sabem andar entre os mortos sem despertá-los, e **expõem** seus mortos ao gelo em vez de queimar/enterrar. Sem jarls nem salões; bandos livres; desprezam os "ajoelhados" dos clãs. **Limpeza de redundância (feedback do Deivison):** os [[Nórdicos]] são o *tronco compartilhado* e Urso/Lobo os *galhos*; movi o funeral (que difere por ramo — Urso sob pedra, Lobo ao mar) para fora do tronco, e clarifiquei que o Povo Livre é cultura à parte, não um ramo dos clãs.
+
+---
+
+## 2E — Sessão 110 · 2026-07-08 · Culturas sombrias aprofundadas (Urianos, Draukarianos)
+
+Mais duas culturas ganharam cotidiano/costumes: **[[Urianos]]** (Uria) — vida austera cadenciada por sinos, a conquista como **dever sagrado**, a **marca do pacto** (chifres/olhos de brasa) usada como favor divino, a maioridade na 1ª campanha e os mortos-mártires da guerra santa; **[[Draukarianos]]** (Draukar) — tudo em **obsidiana** e intriga das cinco casas, a **caça ao dragão** como rito de maioridade e herança dos dragoncidas, a mesa fria e formal, urnas de obsidiana para os mortos, e o rancor eterno do exílio das Ilhas da Alvorada. Leque cultural agora cobre norte, deserto, sombras, felino, élfico, oriente, mediterrâneo, arturiano, teocrático e elfo-negro.
+
+---
+
+## 2E — Sessão 109 · 2026-07-08 · Culturas mediterrâneas aprofundadas (Tarkos, Bretanianos)
+
+Diversificando do norte, duas culturas ganharam camadas autossuficientes (cotidiano/festas/costumes, sem amarrar ao terror): **[[Tarkos]]** (Androsa, era do bronze) — mesa mediterrânea (azeite, vinho, figos), **jogos fúnebres** em honra aos mortos, culto aos ancestrais nas tumbas-colmeia e consulta obrigatória ao **oráculo do Monte Argon** ([[Delphos]]) antes de guerra ou casamento; **[[Bretanianos]]** (arturiano) — banquetes de hidromel e caça, **torneios** e a **vigília de armas** da sagração cavaleiresca, e os costumes da fronteira feérica (oferendas nas soleiras, nunca insultar as [[Fadas]], votos que as fadas cobram como maldição). As cidades ligadas (Delphos, Mycenas, Verdelar) já estavam ricas.
+
+---
+
+## 2E — Sessão 108 · 2026-07-08 · Nórdicos divididos (Urso × Lobo) + inverno refinado
+
+**Inverno refinado (feedback do Deivison):** a maioria dos invernos é **normal e sobrevivível** (por isso se estoca); só *de tempos em tempos* um **Longo Inverno** se estende por anos — e é *aí* que descer ao sul vira sobrevivência. Isso explica por que o norte não se esvazia sempre. **Split das culturas:** os [[Nórdicos]] viram a **cultura-base** compartilhada, e ganham dois ramos com fichas próprias e costumes distintos: **[[Clãs do Urso]]** (montanha/fiorde, enraizados, os peles-de-urso/berserkers, völvas e lei, mortos sob montes de pedra, glória mais que saque) e **[[Clãs do Lobo]]** (mar/dracar, errantes, lealdade de matilha e astúcia, mortos entregues ao mar, saque mais frequente — "os primeiros à presa"). Figuras redistribuídas (Sigvald/Ingmar/Gerda = Urso; Hrólf = Lobo).
+
+---
+
+## 2E — Sessão 107 · 2026-07-08 · Os invernos longos do norte (à la GoT)
+
+Pergunta do Deivison: as Skaldlands têm invernos longos/irregulares como em GoT? **Estava só parcialmente no cânone** (o **Longo Inverno** histórico ET 28–272, ~244 anos; "invernos implacáveis" em 2E 447) — não sistematizado. Agora **canonizado** na cultura [[Nórdicos]] (seção *O inverno que não acaba*): no extremo norte as estações não seguem o calendário — frio e calor vêm em ciclos longos e imprevisíveis, um inverno pode durar **anos**; o dia/noite segue normal, mas a estação se estende. Isso reancora a cultura (o frenesi de estocar no verão, o fatalismo, o saque como **sobrevivência** quando o inverno se alonga) e amarra ao Longo Inverno lendário. A *Grande Assembleia* ajustada para "quando o verão enfim vem — dure ele uma estação ou anos". *(A fazer: espelhar na ficha do continente [[Borealis - Continente Norte|Borealis]].)*
+
+---
+
+## 2E — Sessão 106 · 2026-07-08 · Nórdicos aprofundados (festas, sagas, tabus)
+
+Aprofundada a cultura [[Nórdicos]] com três camadas de alma: **Festas & calendário** (a *Longa Noite/Jólnätt* de meio-inverno — fogueiras, ancestrais, votos; o *Retorno da Luz* no degelo; a *Grande Assembleia* de verão), **Sagas & memória** (cada clã com seu ciclo; ser cantado é a única imortalidade), e **Tabus** (hospitalidade, votos no ferro/lareira, o norte no funeral, e superstições de aldeia). **Ajuste (feedback do Deivison):** afrouxadas as amarras com o terror/luas — a cultura se sustenta sozinha; as luas são cenário do mundo, não o gatilho de cada festa e tabu. Modelo de profundidade a replicar em outras culturas.
+
+---
+
+## 2E — Sessão 105 · 2026-07-08 · A Vida em Arcádia — mais folding (cultura nórdica)
+
+Continuada a distribuição do cotidiano nas fichas certas. **Criada a ficha de cultura [[Nórdicos]]** (Skaldianos) — os humanos das Skaldlands não tinham uma (Ursinos/Lupinos são raças bestiais): valores (honra/saga/palavra), estrutura (jarls + Assembleia dos Clãs), religião (Panteão Nórdico, Valder, völvas) e todo o **cotidiano nórdico** (mesa de sebo/arenque/hidromel, hospitalidade sagrada, ritos — nome após o 1º inverno, maioridade na 1ª incursão, piras/montes com pés ao norte). **Luto élfico** dobrado em [[Sylvarinos]] (os elfos mortais desde a queda da Árvore Mãe; árvores funerárias; o medo do véu). Rastreador [[A Vida em Arcádia]] atualizado. **Folding concluído:** também dobrados a mesa cerimonial de [[Yux-xai]] (chá por posto, orvalho azul), o bazar de [[Habajj]] (açafrão, partir o pão com o inimigo), as festas de luz de [[Solarion]] em [[Bruvia]] (seção *Cotidiano e fé*) e as luas no cotidiano ([[A Natureza do Divino]]). Todo o conteúdo do antigo agregador agora vive nas fichas certas de cultura/reino; a nota-índice só rastreia.
+
+---
+
+## 2E — Sessão 104 · 2026-07-08 · A Vida em Arcádia (cotidiano & costumes)
+
+Criada e depois **reorganizada** a pedido do Deivison: em vez de um agregador solto, o **cotidiano mora na ficha do povo/reino/cidade**. [[A Vida em Arcádia]] virou um **rastreador/índice** (tipo sistema) que mapeia onde cada costume vive e o que já foi dobrado. **Dobrados nas fichas de cultura:** [[Sunari]] (mesa do deserto, oferendas aos mortos, horóscopo de nascimento, festivais de espelhos), [[Narzul]] (cogumelos, provar o próprio vinho, cortesia mortal) e [[Felidarios]] (comida nos telhados, Salto dos Nove Telhados, status por reputação). **A dobrar** (listado no rastreador): cotidiano nórdico → [[Ursinos]]/[[Lupinos]]/[[Terras dos Skalds]]; mesa de Yux-xai; bazar de Habajj; luto élfico → [[Sylvarinos]]; luas no cotidiano; etc.
+
+---
+
+## 2E — Sessão 103 · 2026-07-08 · As Salvaguardas dos Três (a face da esperança)
+
+Desenvolvida a **contraparte do metaenredo**: as defesas que os Três Dragões deixaram contra a Fome, hoje perdidas — a saga jogável de "fazer o mundo esquecer de novo". Hub **[[As Salvaguardas dos Três]]** + quatro relicários: **[[Os Três Ovos da Dragoa Verde]]** (âncoras de vida — marrom/centauros, verde/dríades, branco/sylvarinos; o marrom talvez seja o "tesouro" de Troddar); **[[O Bastião do Vermelho]]** (o dragão adormecido sob as montanhas de [[Taurin]]) e seu guardião **[[Kaervon, o Cornígero Eterno]]** (o primeiro minotauro, imortal — resolve o gancho canônico do "ser imortal do Vermelho"); **[[As Sementes da Árvore Mãe]]** (reerguer a grande tranca — objeto, bosque ou pessoa?); e a **[[A Cidadela do Conhecimento]]** aprofundada (o saber do Azul para reteceer o véu, distinta das Ilhas da Alvorada). Ganchos do mito [[Os Três Dragões]] (cânone) resolvidos só no comentário. A Mão Faminta ganha o objetivo-espelho: **destruir** as salvaguardas.
+
+---
+
 ## 2E — Sessão 102 · 2026-07-08 · A antiga companhia recuada 2 séculos (2E ~500)
 
 Retcon pedido pelo Deivison: os heróis morriam recente demais. **A antiga companhia agora é ancestral (~2E 500).** A [[A Primeira Maré de Nihiloth]] recuou de 2E 695 → **2E 499**; o Saque de [[Gwar Penar]] → **~2E 495**; [[Ragnar Thorn]] vira **rei-paladino fundador** (reinou 2E 500–522) que **deixou descendentes**; a **dinastia Thorn** governou ~2 séculos e só agora se **extinguiu** (Rei **Halgar**, †2E 712, sem herdeiro) — este é o novo motor da guerra de sucessão. [[Trovark Thoraldsson|Trovark]] virou dragão ~2E 504 (atemporal). [[Lottus Ignis|Lottus]], sendo **elfo**, sobreviveu dois séculos e só caiu recentemente (Faeloria 2E 705, some 2E 713) — a fatura da Fome cobrada tardíssimo. [[Tyr Skaldsson|Tyr]] reformulado como **guardião da saga** (não testemunha). **As Casas de Bruvia** reescrita (fundação ancestral × extinção recente; nova geração: Halgar/Eirik/Astrid/Halvar). Timeline reancorada (eventos antigos inseridos em 2E 495–522; seção recente limpa). Cross-fixes em O Presente, O Presente na Aquilonia, A Trama Central, Bruvia, Gwar Penar, Personalidades e o conto de Tyr (marcado como cena ancestral).

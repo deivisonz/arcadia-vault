@@ -22,6 +22,9 @@ Nobreza guerreira e feudal, guardiã das antigas estradas pavimentadas e dos por
 #### Costumes e religião
 Fé em **divindades locais** herdadas do velho império, mescladas ao [[Panteão Tiberico]]. Grandes torneios e ritos de linhagem.
 
+#### Cotidiano, jogos e ritos
+✦ À mesa mediterrânea: **azeite, vinho, pão, queijo, peixe e figos**, em banquetes onde a conversa e a bebida valem tanto quanto o prato, e um bom anfitrião honra o hóspede como honra os deuses. A morte de um grande homem se marca com **jogos fúnebres** — corridas, lutas e provas de força em honra ao morto, onde a glória atlética é quase tão cobiçada quanto a da guerra. E a linhagem é tudo: cultuam-se os ancestrais nas **tumbas-colmeia**, e nenhuma casa faz guerra ou casamento sem antes consultar o oráculo do [[O Monte Argon|Monte Argon]] (ver [[Delphos]]).
+
 #### Língua
 Falam o **tárkio**, um ramo fragmentado do [[Clássico Tibérico]].
 

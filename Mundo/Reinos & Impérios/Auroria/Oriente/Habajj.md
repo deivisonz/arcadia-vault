@@ -35,6 +35,9 @@ Habajj é um centro comercial fervilhante, no cruzamento de várias rotas, onde 
 #### Figura
 ✦ **Sultão Nasir-al-Qalathir** — que sorri aos abolicionistas de dia e enche seus cofres com coleiras de noite.
 
+#### Cotidiano e mesa
+✦ Nos bazares que nunca fecham de [[Qalathir]], come-se de pé e depressa: espetos, **açafrão**, doces pegajosos, tudo temperado a fumaça. A **hospitalidade à mesa é sagrada** — parte-se o pão até com um inimigo, e volta-se a odiá-lo no balcão. Fora da mesa, porém, a mesma cidade compra e vende gente sem pestanejar.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 

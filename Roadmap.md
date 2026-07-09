@@ -69,9 +69,9 @@ Transformar os topônimos do [[Índice Toponímico]] que existem mas não têm n
 
 ## 🧹 Manutenção (fazer no Obsidian — sandbox não deleta)
 - [ ] Apagar redirects: `Tarov.md`, `Taurov.md`, `Malruun.md`, o Tormentilhas antigo (reino) e o arquivo quebrado de Kan'Kaegis.
-- [ ] Apagar as **tumbas** do rename/consolidação: `Aldric Thorn.md` (→ [[Osric Thorn]]) e a duplicata `Eventos Históricos/A Primeira Maré de Nihiloth.md` (a canônica é a de `Guerras/`).
+- [ ] Apagar as **tumbas** do rename/consolidação: `Aldric Thorn.md` (→ [[Osric Thorn]]); a duplicata `Eventos Históricos/A Primeira Maré de Nihiloth.md` (a canônica é a de `Guerras/`); `Ozruk, o Punho de Ferro.md` (→ [[Ozruk Manopla-de-Ferro]], colisão com [[Vharzok, o Punho de Ferro]]); `Localizações/Aquilonia/Eldorford.md` (grafia errada → [[Ealdorford]]).
 - [ ] Apagar a pasta temporária `Atlas/_analise_mapa/`.
-- [ ] Resolver nomes duplicados: [[Cosmos & Fé/Religiões/Divindades/Luna]] e [[Cosmos & Fé/Religiões/Divindades/Selene]] (divindade × corpo celeste).
+- [x] **Luna/Selene (divindade × astro)** resolvido — consolidados na ficha da divindade (com seção "Como astro"); as fichas de astro vazias viraram redirects. Falta só apagar no Obsidian: `Astrologia/Corpos Celestiais/Luna.md` e `Selene.md` (a 3ª lua, [[Mortemnis]], segue como astro próprio).
 - [x] **[[Elíria]] = [[Elyria]]** resolvido — "Elíria" adicionado aos `aliases` de Elyria; os 6 links dos contos resolvem.
 
 ---

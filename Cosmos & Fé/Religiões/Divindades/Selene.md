@@ -14,7 +14,10 @@ As criaturas da noite, os vampiros, a transformação e os instintos que a civil
 Uma mulher de olhos vermelhos e pele pálida sob um manto escarlate, ou a **lua rubra** baixa no horizonte. Símbolos: o lobo, o morcego e a gota de sangue.
 
 #### Mito e papel no cosmos
-Selene é a face perigosa da noite (ver [[Cosmos & Fé/Religiões/Divindades/Selene|corpo celeste]]). Foi sob seus ciclos que surgiram os **primeiros vampiros**, na [[III - A Era das Trevas|Era das Trevas]], e quando a lua rubra se aproxima de Arcádia, o poder dessas criaturas cresce. Não é vista como puramente maligna — antes, como a força indomável do instinto e da fome, que a maioria teme e alguns adoram. Os [[Felidaria|povos felinos]] a reverenciam sob outra face, como senhora da graça predatória.
+Selene é a face perigosa da noite. Foi sob seus ciclos que surgiram os **primeiros vampiros**, na [[III - A Era das Trevas|Era das Trevas]], e quando a lua rubra se aproxima de Arcádia, o poder dessas criaturas cresce. Não é vista como puramente maligna — antes, como a força indomável do instinto e da fome, que a maioria teme e alguns adoram. Os [[Felidaria|povos felinos]] a reverenciam sob outra face, como senhora da graça predatória.
+
+#### Como astro
+✦ A **lua rubra** de Arcádia — baixa e avermelhada, que só se aproxima em certos ciclos. Deusa e astro são a mesma coisa: quando a lua vermelha sobe no horizonte, o poder das criaturas noturnas cresce. (Esta nota reúne a divindade **e** o corpo celeste; a antiga ficha de astro foi consolidada aqui.)
 
 #### Culto e fiéis
 Vampiros, licantropos, caçadores noturnos e cultos proscritos. Reverenciada com medo em terras assombradas e, veladamente, em [[Felidaria]].
