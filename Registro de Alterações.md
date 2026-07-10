@@ -14,6 +14,24 @@ Mais cinco plantas, cobrindo usos ainda ausentes. **[[Cogumelo-pão]]** (o "trig
 
 ---
 
+## 2E — Sessão 148 · 2026-07-09 · A trama do presente (situações jogáveis)
+
+Criado **[[As Tramas do Presente]]** (raiz) — companheiro de [[O Presente de Arcádia]] (sinopse) e [[A Trama Central de Arcádia]] (leitura de fundo). Transforma os focos de conflito do "agora" (2E 718) em **7 situações jogáveis**, cada uma com *Agora / Quem move / O estopim / O relógio / Fio da Fome*, puxando toda a lore nova: (1) **A Coroa Vazia de Bruvia** (guerra de sucessão + [[Auroluz, a Espada dos Thorn|Auroluz]] + a [[A Chave de Osso|Chave de Osso]] perdida); (2) **A Mão Faminta e a [[A Taça Oca|Taça Oca]]** ([[Yverius]] investigando o culto sem cabeça); (3) **O Que Subiu em Alta Rocha** (exilados + [[Kazadûr, o Malho-Real|Kazadûr]] + o horror vazando pelos túneis); (4) **O Norte Que Não Descansa** ([[Skarn, o Vigia do Gelo|Skarn]], [[Gerda, a Völva Cega|Gerda]], o Longo Inverno); (5) **A Lua Rubra e Vandria** ([[Selene]] no auge, [[O Anel de Samael|Samael]]); (6) **A Maré Goblinoide** ([[Vharzok, o Punho de Ferro|Vharzok]] × [[Zawadi]]); (7) **A Esperança nas Ilhas** (reacender a Árvore Mãe — o [[O Cálice da Alvorada|Cálice]], a [[Prata-viva]]). Fecha com "como os fios se cruzam". Linkado a partir de O Presente de Arcádia.
+
+---
+
+## 2E — Sessão 147 · 2026-07-09 · Fauna comum-mas-única, lote 3 (final)
+
+Último lote do ciclo. **[[Ovelhas-de-bruma]]** (ovinos de montanha cuja lã não gela nem encharca — o tecido que atravessa o inverno em [[Kalinthor]]/[[O Norlaw|Ulfmark]]); **[[Tromboduros]]** (paquidermes de tromba e presas, besta de guerra e labuta do sul tropical — [[Zawadi]], [[Lovaria|Lovária]], os aríetes vivos de [[Xea'yasha]]); **[[Açores-de-caça]]** (falcões de falcoaria que enxergam através de ilusões e apontam o oculto — terror de ilusionistas e assassinos); **[[Porcos-de-veio]]** (suínos que farejam metal e [[O Aurium|aurium]] sob a rocha, sócios silenciosos dos clãs mineradores de [[Thaladrin]]); **[[Grilos-cantores]]** (grilos de gaiola do oriente que desafinam diante de veneno e mau ar — provadores vivos das cortes de [[Yux-xai]]/[[Saewan]]). *Pendente:* renomear os **Bois-do-brejo** (Deivison decide o nome depois — opções: Lodões / Grumaks / Búfalos-do-charco / Coaxantes).
+
+---
+
+## 2E — Sessão 146 · 2026-07-09 · Fauna comum-mas-única, lote 2
+
+Mais cinco bichos do cotidiano sem par no mundo real. **[[Abelhas-de-luar]]** (abelhas noturnas cujo mel brilha e cuja cera faz velas de luz fria — despensa e candeeiro das terras feéricas); **[[Bois-do-brejo]]** (anfíbios gigantes de carga dos povos-lagarto de [[Krummag]], que andam sobre o lodo e nadam sob ele); **[[Caramujos-de-púrpura]]** (o múrex que dá a púrpura real imperecível — a cor dos reis, indústria e lei suntuária de [[Mercantilhas]]/[[Venera]]/[[Auristania]]); **[[Bichos-de-seda-lunar]]** (lagartas élficas que fiam seda prateada mais forte que aço fino — vestes e cordas de arco dos elfos); **[[Gatos-cinéreos]]** (gatos de lareira que pressentem os mortos e afastam espectros menores — guardiões de soleira em [[Malachia]] e terras assombradas). Cada um: papel cotidiano (produto, transporte, indústria, ofício, companhia) + torção fantástica + ganchos.
+
+---
+
 ## 2E — Sessão 145 · 2026-07-09 · Fauna comum, mas única de Arcádia
 
 Após feedback do Deivison (bicho igual ao real não precisa de ficha — 5 mundanos criados e **apagados** de vez, sem tumba), lote de fauna comum no *papel* mas sem par no mundo real: **[[Bois-cegos das minas]]** (gado subterrâneo cego criado a [[Cogumelo-pão|cogumelo-pão]] pelos anões/[[Narzul]] — carne e leite do escuro; estanca diante de gás ou perigo); **[[Peixes-das-dunas]]** (cardumes prateados que *nadam na areia* do [[Mar de Finareia]], a pesca de [[Bugdai]]); **[[Ecoaves]]** (aves que repetem uma mensagem na voz exata do remetente — o correio dos que não escrevem, e o pesadelo dos que guardam segredos); **[[Alces-de-guerra]]** (montarias imensas de galhada-aríete dos [[Clãs do Urso]]/[[O Norlaw|Ulfmark]], que se orientam pela aurora); **[[Traças-de-runa]]** (praga prateada que *come magia e tinta*, esvaziando relíquias por dentro — pesadelo de [[A Grande Biblioteca de Akashiki|Akashiki]], [[Vanov]], [[Lumeneria]]). Princípio registrado: só fichar fauna/flora com diferencial fantástico.

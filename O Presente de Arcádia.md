@@ -65,3 +65,4 @@ Para o "agora" detalhado de cada continente — conflitos, cidades e ganchos loc
 
 > [!note] Uso
 > Esta é a "sinopse jogável" de Arcádia. Conforme a história avançar, atualize aqui o estado do mundo.
+> Para os **fios em detalhe** — cada foco como situação jogável, com quem move a peça, o estopim e o relógio —, veja **[[As Tramas do Presente]]**.
