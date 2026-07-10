@@ -10,10 +10,10 @@ tags: [item]
 Um conjunto de **sete pedras negras**, cada uma gravada com uma runa que os olhos custam a fixar — as marcas se movem quando não se olha direto. Frias ao toque, zumbem baixo, e o ar em volta delas fica pesado, como antes de uma tempestade.
 
 #### História
-✦ Foram a obra-prima de **[[Vaelith, o Lorde Rúnico]]**, o maior dos magos de [[Azurianos|Azurian]], que gravou nelas feitiços poderosos demais para uma mente mortal. Sobreviveram ao **Cataclisma** que engoliu Azurian — e são um dos fios que ligam a soberba dos Lordes Rúnicos ao que se rompeu no mundo (ver [[A Fome e os Dragões]], [[A Trama Central de Arcádia]]).
+✦ Foram a obra-prima de **[[Vaelith, o Lorde Rúnico]]**, o maior dos magos de [[Azurianos|Azurian]], que gravou em cada uma o **Nome verdadeiro** de uma grande força do mundo — a pedra, a chama, a maré, os mortos, as feras, a tormenta e o próprio **véu**. Na Língua dos Nomes de Azurian, gravar o Nome de uma coisa é comandá-la. Sobreviveram ao **Cataclisma** que gravar o sétimo Nome ajudou a causar — e são um dos fios que ligam a soberba dos Lordes Rúnicos ao que se rompeu no mundo (ver [[A Fome e os Dragões]], [[A Trama Central de Arcádia]]).
 
 #### Propriedades ✦
-Cada pedra guarda um feitiço de força cataclísmica — e um preço. Usá-las **rasga o véu** um pouco mais a cada vez, e quem as domina sente uma fome que não é sua crescer por dentro. Os [[Narzul]] as procuram para reerguer a glória rúnica; os que entendem o perigo, para enterrá-las de novo.
+Cada pedra **comanda a força que nomeia** — poder divino, e um preço: cada uso **gasta** a coisa nomeada e **rasga o véu** um pouco mais, e quem as domina sente uma fome que não é sua crescer por dentro. Os [[Narzul]] as procuram para reerguer a glória rúnica; os que entendem o perigo, para enterrá-las de novo. Ver a aventura **[[Aventura - As Sete Runas de Vaelith]]**.
 
 #### Paradeiro
 Dispersas pelo mundo desde o Cataclisma — algumas em [[Dorfel]], uma murmurando no fundo de uma coleção em [[Mercantilhas]], outras perdidas. Reuni-las todas seria poder sem igual, ou o próximo passo em direção à Maré.

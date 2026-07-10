@@ -13,9 +13,9 @@ O "agora" do mundo — o cenário vivo em que qualquer história ou campanha com
 ## O grande presságio: o retorno de Mortemnis
 Pela primeira vez em milênios, **[[Mortemnis]]**, a Lua dos Presságios Sombrios, reapareceu nos céus (2E 718). A cada aparição anterior, ela precedeu catástrofes — a Revoada Draconiana, o Cataclisma.
 
-O arquimago **[[Yverius]]**, de [[Vanov]], descobriu a verdade por trás dela: a Terceira Lua **não surge sozinha**. Ela precisa que o mundo se **fragilize** — por guerras, crises e sacrifícios — até que o **véu entre os mundos** se rompa. E do outro lado desse véu espera **[[Nihiloth]]**, o Mundo que Devora, faminto por Arcádia.
+Ninguém sabe **o que Mortemnis é**, nem por que volta. O arquimago **[[Yverius]]**, de [[Vanov]], tem uma teoria — e é o primeiro a admitir que é só isso: que a Terceira Lua e a fragilidade do mundo **andam juntas**, mas não sabe se a lua *causa* o enfraquecimento do véu, se apenas o *anuncia*, ou se é *atraída* por ele como corvo por carniça. As aparições antigas — a Revoada, o Cataclisma — não esclarecem: vieram com Mortemnis, mas ninguém viu qual chegou primeiro. O que os sábios concordam é apenas isto: onde Mortemnis brilha, o **véu entre os mundos** está fino — e do outro lado espera algo faminto que os poucos ousados chamam de **[[Nihiloth]]**.
 
-O que torna tudo pior: a barreira mais antiga do mundo **já caiu**. A [[A Queda dos Elfos|Árvore Mãe]], morta por Draknovir há eras, era a muralha planar que segurava essas forças. Sem ela, cada tremor no véu é mais fácil — e alguém, nas sombras, parece estar **provocando** esses tremores de propósito.
+O que se sabe com certeza é pior que a teoria: a barreira mais antiga do mundo **já caiu**. A [[A Queda dos Elfos|Árvore Mãe]], morta por Draknovir há eras, era a muralha planar que segurava essas forças. Sem ela, cada tremor no véu é mais fácil — e há quem jure que alguém, nas sombras, os **provoca** de propósito. Mas isso também é só o que dizem.
 
 ---
 
@@ -40,9 +40,9 @@ A ameaça volta, mas os heróis que a barraram já não estão. Resta a pergunta
 ---
 
 ## Os fios que convergem
-Tudo aponta para o mesmo horizonte: **[[Mortemnis]]** enfraquece o véu → **[[Nihiloth]]** espreita para devorar → os **vampiros de [[Vandria]]** se agitam sob [[Selene]] → os **horrores do subsolo** despertam → e a **Árvore Mãe** caída já não protege ninguém. Os sábios temem uma só palavra: **um novo Cataclisma**.
+Os sábios mais pessimistas leem os sinais como um só desenho — o véu fino sob **[[Mortemnis]]**, os **horrores do subsolo** que despertam, a **Árvore Mãe** caída que já não protege ninguém — e temem uma só palavra: **um novo Cataclisma**. Mas é uma leitura, não uma sentença: nem todo sinal aponta para a mesma coisa, e nem todo poder que se agita quer o mesmo fim. Os **vampiros de [[Vandria]]**, por exemplo, fervilham sob [[Selene]] por conta própria — e um mundo devorado por Nihiloth não lhes serve de nada (ver [[As Tramas do Presente]]).
 
-A pergunta que move o presente não é *se* algo terrível vem — mas **quem está apressando** sua chegada, e se alguém conseguirá impedi-lo a tempo.
+A pergunta que move o presente não é *se* algo terrível vem — mas **quem está apressando** sua chegada, quem a atrasa sem saber, e se há sequer um "quem".
 
 ---
 

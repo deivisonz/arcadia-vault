@@ -14,6 +14,91 @@ Mais cinco plantas, cobrindo usos ainda ausentes. **[[Cogumelo-pão]]** (o "trig
 
 ---
 
+## 2E — Sessão 160 · 2026-07-09 · Ajuste: o Primeiro Dragão não é "do tamanho de um continente"
+
+O Deivison achou o "vasto como um continente" exagerado e sem lógica (se era tão grande, por que se dividir?). Reformulado o mito na [[Campanha - A Herança dos Dragões]]: o **Primeiro Dragão** é agora o **ancestral de toda a linhagem dracônica** — poder ancorado na *origem*, não no tamanho. Ao chegar a Fome, ele **partiu-se em sacrifício**, gastando a própria vida para gerar os seis dragões-progenitores (as seis cores/linhagens) e forjar a muralha das seis partes. "Foi menos um monstro colossal do que uma origem: o preço de existir todo dragão é que o Primeiro deixou de existir inteiro." Ficha de [[Nihilthar, a Coroa de Bocas|Nihilthar]] permanece coerente.
+
+---
+
+## 2E — Sessão 159 · 2026-07-09 · Correção: Sigrún é anterior à cisão Urso × Lobo
+
+O Deivison notou o furo: [[Sigrún, a Lança do Amanhecer|Sigrún]] não podia ser "fundadora" de dois clãs distintos ([[Clãs do Urso]] e [[Clãs do Lobo]]). Explicado na ficha dela: viveu na **Era das Trevas** (†ET 333), **séculos antes** da cisão; foi campeã da **Aliança do Amanhecer**, a última vez que *todos* os clãs do norte foram um só povo — e a queda da aliança (com a morte dela) semeou as rivalidades que gerações depois viraram a divisão Urso × Lobo. Por isso **os dois ramos a reivindicam** hoje, e sua linhagem espalhou-se pelos dois (com disputa sobre o herdeiro legítimo). Isso virou textura no arco das Skaldlands da [[Campanha - A Herança dos Dragões]]: os jogadores podem se enredar na disputa Urso×Lobo pela herança de Sigrún (escolher lado, provar a verdade ou reconciliar) para ganhar o descendente-aliado e a bênção da saga.
+
+---
+
+## 2E — Sessão 158 · 2026-07-09 · O fio de Sigrún costurado na campanha
+
+A pedido do Deivison (gostou de [[Sigrún, a Lança do Amanhecer|Sigrún]] e quer que os jogadores conheçam a história dela no arco das Skaldlands). **Saga de Sigrún enriquecida** na ficha dela: a Aliança do Amanhecer, a profecia da völva (ligada aos [[Os Ossos da Völva]] de Gerda), o sacrifício no [[O Braço Partido|Braço Partido]] (ET 333) cravando a lança no coração de [[Draknovir]], os corpos nunca recuperados, o clã e um descendente vivo, e o par de sagas Trovark×Sigrún (o que virou dragão × a que matou um). **Costurada na [[Campanha - A Herança dos Dragões]]:** no arco das Skaldlands (S8–10) os jogadores *descobrem* a Saga do Amanhecer via [[Gerda, a Völva Cega|Gerda]]/[[Tyr Skaldsson|Tyr]] e o clã dela, plantando que a **[[A Lança do Amanhecer|Lança do Amanhecer]]** jaz no mesmo Braço Partido onde o Culto pegou o Olho Negro; no arco Negro (S18–20) recuperá-la vira missão à parte no mergulho; e no clímax a lança é a **única arma cuja saga já provou** derrubar um Colosso — o pagamento poético contra [[Nihilthar, a Coroa de Bocas|Nihilthar]] ("terminar a obra de Sigrún").
+
+---
+
+## 2E — Sessão 157 · 2026-07-09 · Campanha expandida: mundo, jornada do herói e a Coroa de Bocas
+
+Aprimoramento da [[Campanha - A Herança dos Dragões]] a pedido do Deivison (chefe final como besta tipo Tiamat, não "só um dragão"; menos monotonia dracônica; mais reinos explorados, NPCs, relíquias e jornada do herói; mais sessões). Mudanças:
+- **Chefe final reimaginado:** ficha nova [[Nihilthar, a Coroa de Bocas]] — **não um dragão, mas uma abominação multicéfala à moda de Tiamat**, oca: mil cabeças de dragão mortas-vivas de todas as cores, cada boca exalando uma *ausência*. O espelho sombrio do Primeiro Dragão (seis cores de vida × mil cores de fome). É o rosto da Fome em [[Drakavir -  Abismo Draconiano|Drakavir]].
+- **Menos "só dragões":** cada arco regional virou aventura completa com **conflito local** (via [[As Tramas do Presente]]), **NPC/aliado** e muitas vezes uma **relíquia não-dracônica** ([[Os Ossos da Völva]], [[A Máscara Dourada de Osirium]], [[A Coroa Afogada de Korvandrin]]). O caco é só o ápice de cada arco.
+- **Jornada do herói** como espinha emocional (mentora **Maevyn** que cai no Ato I; aliados um por reino; Vhaeleth como espelho; Nihilthar como provação suprema).
+- **Reinos explorados de verdade:** Taurin (arenas/escravidão + gladiador aliado), Skaldlands (Longo Inverno + mortos de Draugrhotar + Trovark), Arenor (intriga faraônica), + **dois interlúdios sem dragão** (mistério em [[Neblinéia]], capa e espada em [[Venera]]).
+- **Expandida para ~26–28 sessões** (5 atos), com notas de ritmo para grupo que joga pouco.
+
+---
+
+## 2E — Sessão 156 · 2026-07-09 · Campanha completa: A Herança dos Dragões (~20 sessões)
+
+Com a direção do Deivison (cacos = partes de dragões, de cores/dragões distintos; início por acaso com um caco, um já com um grupo do mal; volta ao mundo; laço com a Fome no reino do chefe final; ~20 sessões para grupo que joga pouco), criada a campanha-esqueleto [[Campanha - A Herança dos Dragões]] (raiz). **Mito original que reconcilia tudo:** houve **um** Primeiro Dragão que se **dividiu em seis** (seis cores) para semear a vida e **murar o mundo contra a Fome**, fugindo de [[Drakavir -  Abismo Draconiano|Drakavir]] — mas um sétimo caco (o coração) ficou lá e virou o **dragão oco**, arauto da Fome. **Seis cacos** (Escama Verde/[[Bretania]], Olho Negro/[[Draknovir]] já com o [[Culto aos Dragões]], Coração Vermelho/[[Kaervon, o Cornígero Eterno|Kaervon]], Presa Branca/[[Trovark Thoraldsson|Trovark]], Garra Dourada/[[Arenor]], Asa Azul/[[Neblinéia]]). **Vilão:** Vhaeleth, o Arauto Escamado (Culto), que acha que ressuscitar o Primeiro Dragão salva o mundo mas serve à Fome sem saber. **Estrutura em 20 sessões** (Ato I: a primeira escama, S1–3; Ato II: volta ao mundo, S4–15; Ato III: Oceano Rubro, S16–17; Ato IV: coração de Drakavir, S18–20), com desfechos ramificados (refazer o dragão / forjar arma / sacrifício / falha) e notas de ritmo para grupo que joga pouco. Evolui de [[Aventura - As Sete Runas de Vaelith]] (mantida como variante).
+
+---
+
+## 2E — Sessão 155 · 2026-07-09 · Originalidade: dos sete pecados para os Sete Nomes
+
+O Deivison achou o mapa "sete runas = sete pecados" cópia direta da Thassilon/Runelords. Reformulada [[Aventura - As Sete Runas de Vaelith]] mantendo a *referência* mas com núcleo próprio de Arcádia:
+- **Runas = os Sete Nomes**, não pecados. Os Lordes Rúnicos descobriram a **Língua dos Nomes**: cada grande força (pedra, chama, maré, mortos, feras, tormenta e o **véu**) tem um Nome verdadeiro, e gravá-lo é comandá-la. Comandar gasta a coisa e range o véu — a soberba de nomear em vez de conviver. Seis Nomes espalhados + o **Nome do Véu** (o proibido) no trono de Vaelith.
+- **Locais re-tematizados** por afinidade (Maré no [[Mar de Finareia]] navegável; Chama no [[Monte Drakthal]]; Mortos sob [[Draugrhotar]]; Fera nas [[As Selvas Intermináveis|Selvas]] de [[Zawadi]]; Tormenta no olho da tempestade de [[Neblinéia]]; Pedra no fundo de [[Dun Khazâd]]).
+- **Vilã trágica original — Ilyra da Torre Cinzenta, "a Seladora":** quer falar o Nome do Véu para **selar o mundo contra a Fome de vez** — sem perceber que um véu selado congela Arcádia num presente eterno (sem morte, mas sem vida). Ela pode estar certa sobre a Fome; o Ato IV é uma *pergunta*, não só uma luta. Desfechos ambíguos (espalhar/selar/destruir/herdar).
+- Ficha das [[As Pedras-Runa de Vaelith]] atualizada para o conceito dos Nomes. Nota do mestre: "referência, não cópia — o déjà vu vira surpresa no Ato IV".
+
+---
+
+## 2E — Sessão 154 · 2026-07-09 · Aprimoramento: as runas espalhadas pelo mundo
+
+A pedido do Deivison (as runas em cada canto, para os aventureiros conhecerem o mundo), reformulada [[Aventura - As Sete Runas de Vaelith]]: as sete Pedras-Runa viraram os **sete pecados** (à moda Runelords), e **seis se espalharam pelos seis cantos de Arcádia**, cada pecado no lugar que mais o encarna — **Cobiça** na câmara selada da [[A Esfinge de Arenor|Esfinge de Arenor]] (Sultaria); **Inveja** na [[Ruínas de Acrópolis|Acrópolis afogada]] do [[O Braço Partido|Braço Partido]]; **Gula** no templo submerso de [[Krummag]] (Aquilonia central); **Luxúria** no [[O Vale dos Imortais|Vale dos Imortais]] de [[Malachia]] sob [[Selene]]; **Preguiça** na tumba gelada de Solheimr sob [[Draugrhotar]] (Borealis); **Ira** no coração do [[Monte Drakthal]] (Draukar). A sétima, a **Soberba**, é a runa-chave no trono-matriz do Santuário de Vaelith. Ato II virou uma **volta ao mundo sandbox** (qualquer ordem, com relógio de corrida contra os agentes do vilão); Ato I e Ato III/IV ajustados à nova lógica (corrida pelas seis → convergência na Soberba). Cada capítulo é uma janela para um bioma/cultura já fichados.
+
+---
+
+## 2E — Sessão 153 · 2026-07-09 · Aventura estilo Lordes Rúnicos (As Sete Runas de Vaelith)
+
+A pedido do Deivison (algo "mais Lordes Rúnicos de Pathfinder"), terceira aventura-modelo: [[Aventura - As Sete Runas de Vaelith]] (raiz) — o análogo Thassilon/Runelords de Arcádia, já pronto no cânone. Alguém reúne as sete [[As Pedras-Runa de Vaelith|Pedras-Runa]] de [[Vaelith, o Lorde Rúnico|Vaelith]] para reerguer o poder (e a soberba) do maior Lorde Rúnico de [[Azurianos|Azurian]]. 4 atos (o sinal rúnico via [[Yverius]] e as [[Traças-de-runa]] → a trilha das runas dispersas → o Santuário de Vaelith com provações rúnicas dos sete aspectos → a coroação rúnica), vilão à escolha (Kaeza a Herdeira Narzul / o Eco de Vaelith / um mago renegado), desfechos ramificados (dispersar/destruir/empunhar/o vilão vence) e tema central: **o orgulho como vilão** (ligado a [[A Trama Central de Arcádia]]), com a Fome só *implicada*. Usa Azurian, os [[Narzul]], [[Dorfel]], a [[A Espinha do Mundo|Espinha]] e as Pedras-Runa já fichadas. Terceira aventura-modelo, três tons distintos: horror de fronteira (Ghoragdush), capa e espada (Baile dos Espelhos), alta fantasia rúnica (Sete Runas).
+
+---
+
+## 2E — Sessão 152 · 2026-07-09 · Aventura capa e espada (O Baile dos Espelhos)
+
+A pedido do Deivison (queria tom **capa e espada**, não horror), segunda aventura-modelo: [[Aventura - O Baile dos Espelhos]] (raiz), ambientada em [[Venera]] (a Veneza de Arcádia). Intriga, duelos, máscaras e fuga de gôndola: um **Espelho da Viúva** guardou uma traição, e no Baile das Máscaras meia cidade tenta roubá-lo. 4 atos (a encomenda de um Patrono mentiroso → preparativos com um primeiro duelo e o rival Rafael Corvo → o baile-set-piece com véu-da-viúva e roubo a três mãos → fuga pelos canais e a escolha final), elenco (Doge [[Venera|Aurelio Vetranni]], a femme fatale Serafina dei Specchi, o rival Corvo, uma Vidraceira), e o **segredo do espelho fica em aberto** para ligar (ou não) a um fio maior. Usa os Vidraceiros, as Casas de Vidro e o [[Véu-da-viúva]] já fichados. Notas do mestre: premiar o floreio, todos mentem, "capa e espada vive de apostas pessoais, não do fim do mundo".
+
+---
+
+## 2E — Sessão 151 · 2026-07-09 · Aventura-modelo jogável (O Silêncio de Ghoragdush)
+
+Após avaliação de status (o vault saturou em *largura*; a hora é de *usar*), primeira **aventura-modelo completa**: [[Aventura - O Silêncio de Ghoragdush]] (raiz). Uma mina órquica no [[Planalto de Draugmar]] silencia; [[Mugra Fura-Rocha|Mugra]] contrata forasteiros para descobrir por quê — e a mina cavou fundo demais rumo à [[A Fenda|Fenda]]. Estrutura de módulo em 4 atos (convite em [[Ealdorford]] mostrando o Danelaw do [[O Norlaw|Norlaw]] → subida ao Draugmar → mina silenciosa → a soleira) + **desfechos ramificados** (selar/explorar/fugir/ficar), elenco ([[Mugra Fura-Rocha|Mugra]], [[Osgar Fôlego-Curto|Osgar]], [[Draznok Casca-de-Pedra|Draznok]], Vrakka, Grok o sobrevivente oco), perigos ([[Rastejantes-cegos]], o "sintoma do oco", o [[Kravh, o Cego das Fundações|Kravh]] opcional) e notas do mestre. **Demonstra o design central:** um trabalho local que sobe até a Fome sem nunca confirmá-la — "o horror é o alívio", e fica aberto de propósito (ecoa [[A Taça Oca]], [[A Chave de Osso]], [[Os Enigmas de Arcádia]]).
+
+---
+
+## 2E — Sessão 150 · 2026-07-09 · Ganchos de aventura por região
+
+Novo doc [[Ganchos de Aventura]] (raiz): ~30 sementes de aventura **de escala local** (um trabalho, uma masmorra, uma intriga), organizadas pelas [[As Regiões de Arcádia|sub-regiões]] dos quatro continentes — camada intermediária entre [[As Tramas do Presente]] (grandes fios) e [[Os Enigmas de Arcádia]] (mistérios sem resposta). Cada gancho é concreto e puxa personagens, lugares, criaturas e relíquias já fichados (Osgar/Hrolf/Draznok no Norlaw; Kazadûr em Dûn Khazâd; a Máscara de Osirium; a Rainha que Virá de Shebrevia; o Grande Tambor de Zawadi vs. Vharzok; o Hvítrún nos Ermos; etc.). 2-5 por sub-região.
+
+---
+
+## 2E — Sessão 149 · 2026-07-09 · Menos respostas fechadas: enigmas, Mortemnis, vampiros, terras centrais
+
+Ajustes de tom pedidos pelo Deivison (menos explicação direta, mais espaço para o mundo respirar):
+- **[[Mortemnis]] deixou de ter "verdade descoberta"** em [[O Presente de Arcádia]]: removida a lógica circular (precisava do véu rasgado para surgir, mas surgiu no passado?). Agora Yverius tem só uma *teoria* e admite não saber se a lua causa, anuncia ou é atraída pela fragilidade — ovo-ou-galinha em aberto.
+- **Vampiros desacoplados da Fome** (em [[O Presente de Arcádia]] e [[As Tramas do Presente]]): [[Nihiloth]] não faz sentido para quem vive do mundo. Vandria tem agenda própria (fartar-se, reinar a noite, expandir sob [[Selene]]) e um mundo devorado é despensa incendiada — o que os torna curinga, e até possível (indesejado) aliado se a Maré ameaçar tudo. O perigo é o vampiro que *barganha* com o que não entende.
+- **Novo doc [[Os Enigmas de Arcádia]]** (raiz): 7 acontecimentos **sem resposta canônica**, cada um com "o que se sabe" + leituras possíveis (escolha/invente/nenhuma) — à moda dos mistérios abertos de RPG. A Aldeia que Não Estava Lá, O Navio sem Mãos, O Ano Roubado, As Crianças da Mesma Porta, A Estrela que Faltou, O Hóspede que Voltou, O Sino de Neblinéia.
+- **Terras centrais de Aquilonia** respondidas: o **Coração Verde** em [[O Presente na Aquilonia]] virou o "onde o mundo sussurra primeiro" — sem grande guerra, é o palco natural dos enigmas; adicionados [[Verdeprado]], [[Terras Ardilosas]] e o templo submerso de [[Krummag]].
+
+---
+
 ## 2E — Sessão 148 · 2026-07-09 · A trama do presente (situações jogáveis)
 
 Criado **[[As Tramas do Presente]]** (raiz) — companheiro de [[O Presente de Arcádia]] (sinopse) e [[A Trama Central de Arcádia]] (leitura de fundo). Transforma os focos de conflito do "agora" (2E 718) em **7 situações jogáveis**, cada uma com *Agora / Quem move / O estopim / O relógio / Fio da Fome*, puxando toda a lore nova: (1) **A Coroa Vazia de Bruvia** (guerra de sucessão + [[Auroluz, a Espada dos Thorn|Auroluz]] + a [[A Chave de Osso|Chave de Osso]] perdida); (2) **A Mão Faminta e a [[A Taça Oca|Taça Oca]]** ([[Yverius]] investigando o culto sem cabeça); (3) **O Que Subiu em Alta Rocha** (exilados + [[Kazadûr, o Malho-Real|Kazadûr]] + o horror vazando pelos túneis); (4) **O Norte Que Não Descansa** ([[Skarn, o Vigia do Gelo|Skarn]], [[Gerda, a Völva Cega|Gerda]], o Longo Inverno); (5) **A Lua Rubra e Vandria** ([[Selene]] no auge, [[O Anel de Samael|Samael]]); (6) **A Maré Goblinoide** ([[Vharzok, o Punho de Ferro|Vharzok]] × [[Zawadi]]); (7) **A Esperança nas Ilhas** (reacender a Árvore Mãe — o [[O Cálice da Alvorada|Cálice]], a [[Prata-viva]]). Fecha com "como os fios se cruzam". Linkado a partir de O Presente de Arcádia.

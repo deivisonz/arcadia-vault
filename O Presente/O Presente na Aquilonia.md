@@ -20,10 +20,13 @@ A fronteira gélida e guerreira, dividida contra si mesma.
 - **[[Tempestia|Tempéstia]]:** [[Neblinéia]] vive sob tormenta perpétua; ninguém sabe se é clima ou maldição.
 
 ## O Coração Verde
-As terras médias, de florestas e brejos, à margem das grandes guerras — por enquanto.
+As terras médias, de florestas, prados e brejos, à margem das grandes guerras — e é justamente por isso que são estranhas. Sem uma cruzada nem uma guerra civil para ocupar as manchetes, o Coração Verde é onde o **mundo sussurra primeiro**: as coisas inexplicáveis que os grandes reinos não notam (ou não têm tempo de notar) afloram aqui, nos vilarejos e nas matas, longe dos exércitos.
 
 - **[[Halinor]]:** [[Sylvaryn]] carrega a ferida antiga dos meio-elfos, e os puristas das [[Ilhas da Alvorada]] voltaram a tramar.
-- **[[Krummag]]:** [[Azhagoth]] e os [[Povos-Lagarto|povos-lagarto]] fecham-se em seu brejo, guardando um templo submerso.
+- **[[Verdeprado]]:** as pacatas comunidades halflings de [[Brandon Pés-firmes]] vivem de colheita e boa mesa — e são as primeiras a reparar quando algo no calendário, no céu ou na vizinhança **não bate**. Foi de suas bordas que sumiu [[Os Enigmas de Arcádia|a aldeia que não estava lá]].
+- **[[Krummag]]:** [[Azhagoth]] e os [[Povos-Lagarto|povos-lagarto]] fecham-se em seu brejo, guardando um **templo submerso** cuja idade ninguém de fora conhece — e cujas luzes, dizem, respondem quando o véu range.
+- **[[Terras Ardilosas]]:** a mata sem dono entre os reinos, onde as trilhas não ficam onde foram deixadas e os viajantes contam histórias que não combinam. Terra de rumor, de fadas ariscas e de enigmas que ninguém veio resolver.
+- **O sussurro do mundo:** é no Coração Verde que os [[Os Enigmas de Arcádia|enigmas de Arcádia]] mais aparecem — aldeias que somem, sinos sem torre, crianças com o mesmo sonho. Nenhum tem resposta, e é assim que deve ser.
 
 ## O Sul Contestado
 As terras em guerra da cruzada uriana e da [[A Guerra de Contenção|Guerra de Contenção]].

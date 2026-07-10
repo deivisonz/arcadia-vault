@@ -63,8 +63,8 @@ Companheiro de [[O Presente de Arcádia]] (a sinopse) e de [[A Trama Central de 
 - **Agora:** [[Malachia]] governa das sombras sob a máscara da [[Igreja de Vohzro]] e do Sacro Corvo [[Dominus IV]]; a lua rubra sobe rumo ao auge, e com ela cresce o poder das criaturas noturnas.
 - **Quem move:** Dominus IV e as casas vampíricas; no fundo do [[O Vale dos Imortais|Vale dos Imortais]], os anciãos — e o nome de [[Samael]], que "perde" seu [[O Anel de Samael|Anel]] de propósito para ver o que os mortais fazem com ele.
 - **O estopim:** o **auge de [[Selene]]** — quando a fronteira com [[Vandria]] afina como em nenhum outro momento, e o Vale dos Imortais vira um portão quase aberto.
-- **O relógio:** as [[Mariposas-de-Selene]] já enxameiam antes do tempo. No auge, algo pode atravessar — ou alguém acordar o ancião do fundo.
-- **Fio da Fome:** Vandria não é Nihiloth, mas um véu que afina serve a quem quer *todos* os véus rasgados. A Mão Faminta lucra com cada porta que se abre.
+- **O relógio:** as [[Mariposas-de-Selene]] já enxameiam antes do tempo. No auge, [[Vandria]] transborda para Arcádia — mais território, mais gado, mais noite.
+- **O que querem (e o que não querem):** os vampiros **não servem à Fome**. Querem se fartar, reinar sobre a noite e alargar Vandria sob [[Selene]] — e um mundo **devorado por [[Nihiloth]]** é uma despensa incendiada, inútil a um parasita. Isso os torna um curinga perigoso: rivais da luz, sim, mas talvez, se a Maré um dia ameaçar *tudo*, dos poucos poderes com motivo (e força) para ajudar a **fechar a porta** — aliados que ninguém quer. O risco real é o vampiro tolo ou desesperado que **barganha** com o que não entende, achando que pode se sentar à mesa da fome sem virar prato.
 
 ---
 
@@ -91,4 +91,6 @@ Companheiro de [[O Presente de Arcádia]] (a sinopse) e de [[A Trama Central de 
 ---
 
 ## Como os fios se cruzam
-Nenhuma trama é uma ilha. A guerra de **Bruvia** pode desenterrar a Chave de Osso (→ **Mão Faminta**); o que sobe em **Alta Rocha** vaza pelos túneis rumo à Espinha e a Dorfel (→ **Vandria**, **norte**); cada véu que afina — sob **Selene**, no **norte**, em **Dûn Khazâd** — facilita o próximo. E a única esperança de fundo, a **Árvore nas Ilhas**, é também o maior risco. O elo entre todos é a pergunta de [[O Presente de Arcádia]]: **quem está apressando o fim — e alguém o deterá a tempo?**
+Nenhuma trama é uma ilha. A guerra de **Bruvia** pode desenterrar a Chave de Osso (→ **Mão Faminta**); o que sobe em **Alta Rocha** vaza pelos túneis rumo à Espinha e a Dorfel; cada véu que afina — sob **Selene**, no **norte**, em **Dûn Khazâd** — facilita o próximo. E a única esperança de fundo, a **Árvore nas Ilhas**, é também o maior risco. Mas nem todo poder puxa para o mesmo lado: os **vampiros** têm agenda própria, e há forças de que nem a Fome é dona. O elo entre todos é a pergunta de [[O Presente de Arcádia]]: **quem está apressando o fim — e alguém o deterá a tempo?**
+
+> Para o que **não** tem resposta — os acontecimentos que o mundo guarda em aberto de propósito —, veja **[[Os Enigmas de Arcádia]]**. Nem todo fio se puxa até um novelo.
