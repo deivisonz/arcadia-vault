@@ -127,9 +127,11 @@ As grandes águas do mundo. *(Nenhum oceano/mar tem ficha própria ainda, salvo 
 - Cidades: [[Silvaruna]] (capital) · Arantale · Solardente
 - Relevo: Cordilheiras de Eldoveth (fronteira com Uria)
 
-**[[Ilhas da Alvorada]]**
-- Cidades: Loradan · Sylbella · Fredwyn · Galadrima · Liamaris · Lamenor · Rivendrel · Eredwyn
-- Relevo: Arco de Eldarien
+**[[Ilhas da Alvorada]]** (arquipélago élfico, três ilhas — ao largo da Costa Dourada, defronte a [[Myriandor]])
+- **Mírenor** (ilha oeste, a maior; espinha = [[Arco de Eldarien]]): [[Loradan]] (porto) · Sylbella · Fredwyn · Ialanthar · Lamenor
+- **Elenmar** (ilha central): [[Galadrima]] (capital)
+- **Aurindel** (ilha leste, crescente): Liamaris · Shalaevar · [[Rivendrel]] · Famenor
+- Relevo: [[Arco de Eldarien]] (cordilheira que parte Mírenor; sítio da Árvore Mãe) · Costa Dourada (divisa marítima com [[Myriandor]])
 
 ---
 

@@ -8,6 +8,84 @@ Log de tudo que eu (Claude) crio ou modifico. Confira cada entrada pelo diff do 
 
 ---
 
+## 2E — Sessão 142 · 2026-07-09 · Flora, lote 2 (comida, veneno, fé, cultura, luz)
+
+Mais cinco plantas, cobrindo usos ainda ausentes. **[[Cogumelo-pão]]** (o "trigo do escuro" — alimento-base cultivado nas fungiculturas de [[Alta Rocha]] e [[Dorfel]]); **[[Véu-da-viúva]]** (a flor-veneno das cortes, ferramenta dos Doges de [[Venera]] e da [[Guilda dos Assassinos]]); **[[Coroa-do-sol]]** (o girassol litúrgico da Fé de [[Solarion]] — murchar ao meio-dia é mau agouro); **[[Videira-imperial]]** (a vinha do vinho de prestígio de [[Auristania]]/[[Tibéria]], onde servir uma ânfora é política); **[[Cristas-luminosas]]** (o fungo bioluminescente que ilumina [[Dorfel]] — apagá-lo é ato de guerra). Cada uma com uso, papel cultural e ganchos.
+
+---
+
+## 2E — Sessão 145 · 2026-07-09 · Fauna comum, mas única de Arcádia
+
+Após feedback do Deivison (bicho igual ao real não precisa de ficha — 5 mundanos criados e **apagados** de vez, sem tumba), lote de fauna comum no *papel* mas sem par no mundo real: **[[Bois-cegos das minas]]** (gado subterrâneo cego criado a [[Cogumelo-pão|cogumelo-pão]] pelos anões/[[Narzul]] — carne e leite do escuro; estanca diante de gás ou perigo); **[[Peixes-das-dunas]]** (cardumes prateados que *nadam na areia* do [[Mar de Finareia]], a pesca de [[Bugdai]]); **[[Ecoaves]]** (aves que repetem uma mensagem na voz exata do remetente — o correio dos que não escrevem, e o pesadelo dos que guardam segredos); **[[Alces-de-guerra]]** (montarias imensas de galhada-aríete dos [[Clãs do Urso]]/[[O Norlaw|Ulfmark]], que se orientam pela aurora); **[[Traças-de-runa]]** (praga prateada que *come magia e tinta*, esvaziando relíquias por dentro — pesadelo de [[A Grande Biblioteca de Akashiki|Akashiki]], [[Vanov]], [[Lumeneria]]). Princípio registrado: só fichar fauna/flora com diferencial fantástico.
+
+---
+
+## 2E — Sessão 144 · 2026-07-09 · Itens & relíquias, lote 3 (terror, vampiros, dragões, norte, oriente)
+
+Mais cinco. **[[A Chave de Osso]]** (o instrumento profano com que [[Osric Thorn]] quase abriu a [[A Primeira Maré de Nihiloth|Primeira Maré]] — runas azurianas em osso, cobiçada pela [[A Mão Faminta]]; deixa um arranhão no véu). **[[O Anel de Samael]]** (o selo do primeiro vampiro, que comanda a prole morta-viva; [[Samael]] o "perde" de propósito). **[[O Chifre de Kaervon]]** (o corno-vigília do [[Kaervon, o Cornígero Eterno|Cornígero Eterno]] no [[O Bastião do Vermelho|Bastião do Vermelho]] — soa quando a fome se aproxima). **[[Os Ossos da Völva]]** (os ossos-oráculo do seiðr, hoje com [[Gerda, a Völva Cega|Gerda]] em [[Branuvik]], caindo sempre na figura da fome que vem do norte). **[[Kagerou, a Lâmina de Saewan]]** (a katana-alma dos daimyos de [[Saewan]], que "escolhe" a mão digna — hoje com [[Kazuya Matsuda]]). Índice de Itens é auto-gerado.
+
+---
+
+## 2E — Sessão 143 · 2026-07-09 · Itens & relíquias, lote 2 (heróis mortos, terror, eras antigas)
+
+Mais cinco relíquias. **[[A Lança do Amanhecer]]** (a lança com que [[Sigrún, a Lança do Amanhecer|Sigrún]] matou [[Draknovir]] no [[O Braço Partido|Braço Partido]], ET 333 — perdida onde a água "não gela"). **[[A Coroa Afogada de Korvandrin]]** (a regalia de [[Kael Korvann, o Último Rei-Imperador|Kael Korvann]], afundada com [[Ruínas de Acrópolis|Acrópolis]] no Cataclisma; erguê-la reergueria Korvandrin). **[[O Cálice da Alvorada]]** (o vaso élfico que continha a seiva da Árvore Mãe — hoje vazio; a esperança de reacender a imortalidade, par temático da Taça Oca). **[[A Taça Oca]]** (a anti-relíquia da [[A Mão Faminta|Mão Faminta]] — a taça que nunca se enche, "sem dono único", pedacinho de [[Nihiloth]]; leitura herética e hedged). **[[A Coroa dos Sete Reinos]]** (a coroa de sete pontas de [[Harald, o Primeiro Rei]], símbolo da unidade perdida da Era dos Heróis). Índice de Itens é auto-gerado.
+
+---
+
+## 2E — Sessão 141 · 2026-07-09 · Itens & relíquias (5 que movem tramas)
+
+Cinco relíquias atadas às lendas e reinos aprofundados. **[[O Estandarte Ébano]]** (o pendão negro que Garrok ergueu e Ozruk guarda — quem o carrega fala pela [[União Ébano]]; queimá-lo estilhaça a confederação). **[[Auroluz, a Espada dos Thorn]]** (a espada-relíquia de [[Ragnar Thorn]], sumida com a dinastia em 2E 712 — quem a empunhar reivindica o trono na guerra civil de [[As Casas de Bruvia|Bruvia]]). **[[As Pedras-Runa de Vaelith]]** (as sete runas cataclísmicas de [[Vaelith, o Lorde Rúnico]], que rasgam o véu a cada uso — fio direto do orgulho rúnico à [[A Fome e os Dragões|Fome]]). **[[Kazadûr, o Malho-Real]]** (o martelo-cetro dos Reis da Montanha, perdido com [[Rei Brand Martelo-Real|Brand]] no fundo de [[Dun Khazâd]] — sem ele não há Rei da Montanha). **[[A Máscara Dourada de Osirium]]** (a máscara mortuária do primeiro faraó que fala com os mortos embalsamados, guardada pelo culto de [[Azhoros]] / [[Neferu, Sumo-Sacerdote de Azhoros|Neferu]]). Índice de Itens é auto-gerado.
+
+---
+
+## 2E — Sessão 140 · 2026-07-09 · Lote de flora (5 espécies)
+
+Cinco plantas ancoradas em biomas e culturas. **[[Musgo-brasa]]** (líquen que arde morno — o combustível dos [[Povos dos Ermos]] no norte sem lenha); **[[Mirra-de-Azhoros]]** (resina negra de embalsamar dos [[Sunari]] de [[Arenor]], coração do culto de [[Azhoros]]); **[[Flor-do-sonho]]** (orquídea visionária dos xamãs de [[Zawadi]], para ler os ancestrais nas cachoeiras); **[[Prata-viva]]** (a trepadeira prateada do [[Arco de Eldarien]], último broto vivo da **Árvore Mãe** — amarra em [[As Sementes da Árvore Mãe]]); **[[Barba-de-lobo]]** (o cogumelo do frenesi berserker de [[Kjavik]], base do caldo de guerra). Cada uma com uso, papel cultural e ganchos.
+
+---
+
+## 2E — Sessão 139 · 2026-07-09 · Bestiário — espécies, lote 2
+
+Mais cinco espécies, cobrindo estepes, céu, mares, floresta feérica e pântano. **[[Uros das Estepes]]** (bovinos colossais em manadas de centenas, caça e sustento de [[Khanzia]]/[[Khadira]]); **[[Rochedeiros]]** (aves de rapina imensas dos penhascos das grandes cordilheiras, "donos do céu"); **[[Baleias-do-âmbar]]** (as grandes baleias migratórias caçadas por [[Clãs do Lobo]] e [[Mercantilhas]] pelo âmbar-cinza); **[[Cervos-brancos de Bretania]]** (a caça feérica sagrada cujo abate quebra o pacto com as [[Fadas]]); **[[Fogos-fátuos dos Charcos]]** (luzes-isca dos pântanos de [[Krummag]] que afogam quem as segue). Todas com ecologia + papel cultural + ganchos.
+
+---
+
+## 2E — Sessão 138 · 2026-07-09 · Bestiário — espécies (não lendas únicas)
+
+Correção de rumo: o Deivison queria **espécies** (tipos de bicho que povoam os biomas em número), não feras lendárias únicas. Cinco espécies com ecologia: **[[Renas de Skogrinn]]** (rebanhos migratórios da tundra que sustentam os [[Povos dos Ermos]]); **[[Lagartos-escudo]]** (répteis de carga couraçados das caravanas de [[Arenor]]/[[Tapesh]]); **[[Estranguladoras do Véu]]** (serpentes constritoras pálidas da [[A Selva do Véu Branco|Selva do Véu Branco]] e selvas do sul); **[[Mariposas-de-Selene]]** (enxames hematófagos que acordam sob a lua rubra em [[Malachia]]/[[O Vale dos Imortais|Vale dos Imortais]]); **[[Rastejantes-cegos]]** (a fauna-base do subterrâneo sob a [[A Espinha do Mundo|Espinha]], presa do [[Kravh, o Cego das Fundações|Kravh]] e criada pelos [[Narzul]]). As 5 feras da sessão 137 ficam como categoria à parte (cryptids lendários, como o Rok'Thala e o Havgrim já existentes).
+
+---
+
+## 2E — Sessão 137 · 2026-07-09 · Bestiário regional (5 criaturas-assinatura)
+
+Cinco feras para biomas antes sem predador próprio, cada uma ancorada em localizações/culturas já ricas. **[[Hvítrún, o Caçador Pálido]]** (norte gelado — [[A Coroa de Gelo]], [[Tundras de Skogrinn]], [[Povos dos Ermos]]): apex branco quase invisível na nevasca, desce nos Longos Invernos. **[[Kravh, o Cego das Fundações]]** (subsolo — [[A Espinha do Mundo]], [[Dorfel]], profundezas de [[Alta Rocha]]): horror cego dos túneis que os [[Narzul]] usam de muralha viva; sussurra a queda de Dûn Khazâd. **[[A Sombra de Nyambé]]** (selvas — [[Zawadi]], [[Os Montes Nyambé]]): pantera-espírito ancestral, presságio das cachoeiras sagradas, caçadora de profanadores. **[[A Queda-Silenciosa]]** (floresta vertical de [[A Floresta de Elyndrial|Elyndrial]], [[Cindra]]): predador de emboscada do dossel que faz os [[Vhalares]] temerem o alto. **[[O Hafgufa]]** (mar do norte — [[Mar Boreal]], Skaldlands): besta-marinha colossal que finge ser ilha. Formato conciso (descrição + seção temática + ganchos); índice de Fauna é auto-gerado.
+
+---
+
+## 2E — Sessão 136 · 2026-07-09 · Ilhas da Alvorada: fichas (Galadrima, Arco de Eldarien, Loradan, Rivendrel)
+
+Quatro fichas para o berço élfico. **[[Galadrima]]** (capital, Elenmar, ~28k) — a cidade-corte de mármore e cristal em **luto**, com salões esvaziados pelo povo que encolhe, o Conselho dos Anciãos e o bairro dos "amigos dos elfos". **[[Arco de Eldarien]]** (marco de Mírenor) — a espinha montanhosa com o **toco petrificado da Árvore Mãe** no vale-cicatriz, o berço morto da imortalidade e a facção que sonha reacendê-la (liga a [[As Sementes da Árvore Mãe]] / [[As Salvaguardas dos Três]]). **[[Loradan]]** (porto de Mírenor, ~12k) — o único portão do reino isolado, voltado à Costa Dourada e a [[Myriandor]], onde espiões e amigos-dos-elfos esperam. **[[Rivendrel]]** (Aurindel, ~10k) — a cidade-observatório voltada à aurora, cujos astrônomos foram os primeiros a ler os sinais no céu ([[Selene]], [[Mortemnis]]). Índice atualizado (fichas linkadas, "Aldareth"→Mírenor corrigido no relevo).
+
+---
+
+## 2E — Sessão 135 · 2026-07-09 · Ilhas da Alvorada: as três ilhas nomeadas
+
+Estruturadas as [[Ilhas da Alvorada]] a partir do mapa: três ilhas irmãs (nomes élficos) — **Mírenor** ("a Terra da Joia" — escolha do Deivison; a maior, oeste, partida pelo **Arco de Eldarien**, onde teria se erguido a Árvore Mãe; cidades Loradan, Sylbella, Fredwyn, Ialanthar, Lamenor), **Elenmar** (central, sede da capital [[Galadrima]]) e **Aurindel** (leste, crescente; cidades Liamaris, Shalaevar, Rivendrel, Famenor). Localização fixada: ao largo da **Costa Dourada**, defronte a [[Myriandor]]. Capital adicionada ao frontmatter; [[Índice Toponímico]] reorganizado por ilha. **Notas de conferência:** o mapa grafa **Fredwyn** (você escreveu "Eredwyn" — tratei como a mesma cidade e removi o "Eredwyn" fantasma do índice); há **Lamenor** (Aldareth) e **Famenor** (Aurindel) como cidades distintas.
+
+---
+
+## 2E — Sessão 134 · 2026-07-09 · Lote de reinos magros (Alvorada, Kan'Kaegis, Draugrhotar)
+
+Mais três stubs, de três continentes e sabores distintos. **[[Ilhas da Alvorada]]** (berço élfico / Valinor) — deixou de ser só "elfos isolados" para virar o **reino do luto**: a **imortalidade perdida** com a morte da Árvore Mãe por [[Draknovir]] (os anciãos envelhecem, os jovens já nascem mortais), a corte em negação dividida entre aceitar o fim e reacender a Árvore (ver [[As Sementes da Árvore Mãe]]), figura Elarion, o Último Sem-Morte — amarra na trama central. **[[Kan'Kaegis]]** (Rota da Seda) — diferenciado de [[Normantis]]: uma **cidade-fortaleza única no passo** da [[A Espinha do Mundo|Espinha do Mundo]], que taxa o comércio entre Ocidente e Oriente e teme o dia em que alguém tome o passo (figura: Mestre-Guilda Tamerlan Vhaskar). **[[Draugrhotar]]** (Solheimr, draugr) — o **cemitério que não descansa**, ligado ao [[O Deserto Mórbido|Deserto Mórbido]] e aos sinais da fome (mortos que andam demais), as **Senhoras da Tundra** conectadas a [[Tjana Mishaza]], figura o Rei Afogado em Gelo. Ganchos concretos em cada.
+
+---
+
+## 2E — Sessão 133 · 2026-07-09 · Lote de reinos magros (Sultaria: Normantis, Shebrevia, Zawadi)
+
+Três stubs de Sultaria que tinham só o texto-base ganharam corpo (padrão sociedade + mecânica única + figura). **[[Normantis]]** (cidades-caravana / Marrocos-Rota da Seda) — o **Conselho dos Mercadores**, a **Pax Mercantil** que proíbe sangue nas rotas, a lei da água e das **cartas de trânsito**, e o aluguel de lâminas de [[Khadira]]/[[Arenor]] (figura: Conselheira Zaida al-Trovantis). **[[Shebrevia]]** (amazonas/sármatas) — a sociedade de mulheres-guerreiras, o casamento só após o primeiro abate, e o original **trono vazio**: um **Vizir Regente** que governa "em nome da Rainha que Virá" profetizada (figura: Vizir Regente Yavina). **[[Zawadi]]** (África tribal + povos bestiais) — as **cem tribos** e o **Grande Tambor** que elege um Portador da Lança temporário, as **cachoeiras sagradas** onde falam os ancestrais, e o papel de **muralha viva** contra a horda de [[Xea'yasha]] (figura: Portador da Lança Okonkwo). Ganchos concretos em cada.
+
+---
+
 ## 2E — Sessão 132 · 2026-07-09 · Coerência: ancestralidades quebradas + Luna/Selene
 
 **Links de ancestralidade quebrados resolvidos.** Personagens apontavam para fichas inexistentes — criadas 4 ancestralidades incomuns: **[[Ogros]]** (quebra-muralhas da horda de [[Xea'yasha]], p/ [[Brakkuth, o Quebra-Muralhas|Brakkuth]]), **[[Lupinos]]** (povos-lobo de [[Felidaria]], p/ [[Kiba]]), **[[Meio-Elfos]]** (cerne da resistência de [[Faeloria]], p/ [[Nerith Meia-Noite|Nerith]]) e **[[Ursinos]]** (povos-urso dos ermos — já prometido no índice, sem ficha). Índice de Incomuns atualizado. Corrigida a **ancestralidade de [[Faraó Menkaure, o Sol Vivo|Menkaure]] e [[Neferu, Sumo-Sacerdote de Azhoros|Neferu]]**: eram "[[Sunari]]" (cultura, não ancestralidade) → "[[Humanos]] ([[Sunari]])".

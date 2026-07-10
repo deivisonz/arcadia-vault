@@ -25,9 +25,18 @@ Transição árido/selva.
 **Cidades:** [[Jahariyah]]
 **Marcos:** [[As Minas de Jofar]]
 
+#### Sociedade & governo
+✦ Em Shebrevia, a lança é de quem a ergue melhor — e são as **mulheres** que a erguem. Meninas treinam desde que aprendem a andar; os homens cuidam do lar, da forja e do comércio, respeitados mas desarmados por costume. O casamento só se permite a quem **trouxe um inimigo abatido**, regra que faz das guerras de fronteira também ritos de passagem (lenda inspirada nos sármatas).
+
+#### O trono vazio e o Vizir
+✦ Shebrevia não tem rainha: tem um **Vizir Regente**, que governa "em nome da **Rainha que Virá**" — uma sucessora profetizada que as sacerdotisas juram reconhecer quando nascer. Até lá, o Vizir manda; e cada Vizir vive com o mesmo medo secreto: ser o que reinava quando a Rainha enfim chegar — ou provar-se farsa. É trono e armadilha na mesma cadeira.
+
+#### Figura
+✦ **Vizir Regente Yavina** — a guerreira-estadista que equilibra Shebrevia entre [[Normantis]] ao norte e [[Lovaria|Lovária]] ao sul, e de quem ninguém sabe se acredita mesmo na Rainha que Virá — ou se apenas a usa.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 
 ---
 #### Ganchos de expansão
-%% Os ritos de passagem e a sucessão do Vizir Regente. %%
+%% ✦ Uma menina que nasce com os sinais da Rainha que Virá — verdade ou fraude?; a sucessão do Vizir quando Yavina cair; o rito do primeiro abate que arrasta Shebrevia a uma guerra. %%

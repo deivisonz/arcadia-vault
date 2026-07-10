@@ -14,11 +14,20 @@ Se [[Kyneholm]] é onde os deuses são honrados, Draugrhotar é onde os amaldiç
 Inverno eterno; tempestades de gelo.
 
 #### Localização
-Ermos de [[Borealis - Continente Norte|Borealis]].
+Ermos de [[Borealis - Continente Norte|Borealis]]; confina com o [[O Deserto Mórbido|Deserto Mórbido]], onde o frio preserva os mortos em vez de sepultá-los.
+
+#### O que restou
+✦ Não há reino, há um **cemitério que se recusa a descansar**: cidades soterradas sob o gelo, luzes espectrais nos vales e os **draugr** — mortos-vivos condenados a guardar os restos de seu lar, matando quem se aproxima do que já foi deles. Os nórdicos ligam Draugrhotar ao mesmo mal que assola o [[O Deserto Mórbido|Deserto Mórbido]] e inquieta o presente: no norte, ultimamente, os mortos andam demais (ver [[A Mão Faminta]], os sinais da fome).
+
+#### As Senhoras da Tundra
+✦ A lenda mais temida atribui a queda de Solheimr às **Senhoras da Tundra** — bruxas imortais que por gerações concederam à região um clima quente e ameno, para então, num só inverno, soltar as tormentas e ceifar tudo. Dizem que ainda habitam os Ermos, e que [[Tjana Mishaza]] fala em nome delas. Terão punido a soberba dos reis de Solheimr — ou apenas se cansado de alimentá-los?
+
+#### Figura
+✦ **O Rei Afogado em Gelo** — o último soberano de Solheimr, que segundo as sagas ainda "reina" em seu salão soterrado, sentado num trono de gelo, esperando súditos que nunca mais virão.
 
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 
 ---
 #### Ganchos de expansão
-%% As Senhoras da Tundra e os tesouros soterrados de Solheimr. %%
+%% ✦ Uma expedição atrás dos tesouros soterrados de Solheimr e o que a guarda; as Senhoras da Tundra ainda vivas e o que querem de [[Tjana Mishaza]]; por que os mortos do norte andam mais agora (ligação com [[O Deserto Mórbido]] e a fome). %%

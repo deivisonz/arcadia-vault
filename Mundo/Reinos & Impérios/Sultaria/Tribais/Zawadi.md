@@ -25,9 +25,21 @@ Aliança defensiva das tribos contra os goblinoides de [[Xea'yasha]].
 #### Localizações
 **Marcos:** [[Os Montes Nyambé]]
 
+#### Sociedade & governo
+✦ Zawadi não tem rei: tem **cem tribos** e um tambor. Humanos e povos bestiais das selvas dividem os rios e as cachoeiras, cada tribo com seu totem e seu xamã. Quando a ameaça é grande demais para uma só, soa o **Grande Tambor** e os chefes reúnem-se no salão-de-cachoeira para eleger um **Portador da Lança** — um líder de guerra temporário, que se dissolve assim que o perigo passa e as rixas voltam.
+
+#### As cachoeiras e os ancestrais
+✦ A fé de Zawadi vive na água: nas **cachoeiras sagradas** falam os ancestrais, e os xamãs leem sua voz na espuma. Batizar uma criança, selar uma aliança ou condenar um traidor — tudo se faz sob a queda-d'água. Profanar uma cachoeira é o pior dos crimes, e mais de uma guerra entre tribos começou por um rio sujado.
+
+#### A muralha viva
+✦ O que une as cem tribos é o medo do sul: a legião goblinoide de [[Xea'yasha]] ([[Aharadoph]]) que avança pelas [[As Selvas Intermináveis|Selvas Intermináveis]]. Zawadi é a **muralha viva** que segura a horda — e sangra por isso a cada estação, com aldeias inteiras engolidas pela escuridão que cresce.
+
+#### Figura
+✦ **Portador da Lança Okonkwo** — o atual líder de guerra eleito, caçador-xamã de totem-pantera, que mantém a aliança das tribos de pé apenas enquanto Xea'yasha for ameaça maior que as velhas rixas.
+
 #### Eventos históricos
 Ver a [[Linha do Tempo]] e os [[Eventos Históricos]]. Os eventos que citam esta nota aparecem automaticamente nos **backlinks**.
 
 ---
 #### Ganchos de expansão
-%% As raças bestiais de Zawadi e os rituais das cachoeiras sagradas. %%
+%% ✦ O que os ancestrais dizem nas cachoeiras quando Xea'yasha se aproxima; a rixa entre tribos que enfraquece a muralha na pior hora; o Portador da Lança que não quer largar a lança depois da guerra. %%
